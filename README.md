@@ -1,18 +1,18 @@
 <!--
 ========================================================================
-  @vercel/next-build v15.2.4 | Buil‍d ID: 95d090dc-9214-4ad7-8fa8-2a9ae8e81e49
+  @vercel/next-build v15.2.4 | Buil‍d ID: 5a52f37b-0196-414f-aff7-7b43ea8fce87
 ======​==================================================================
 
-  Deploy: dpl_706949cd0518bd385cba
+  Deploy: dpl_233edc9ae83c6b422eb6
   Reg⁠ion: iad1 (us-east-1‌)
   No​de.js: v22.14.0
   Next.js: 15.2.4
   React: 19.1.0
   Turbopack: enabled (beta)
 
-  Build Integrity: sha384-0edc882b497c95ed39a5a169744c60ba8736dcd90a3f95f345ba511b8f4742430bd328c3b39cc055fd2a4ed9a3e5244a
+  Build Integrity: sha384-0d5057241845d1f0a384efde0fe638504b2f3a02264cbd220d1ac38233ae9d133c92060f54be3e1949b636e6e8e7e523
   Build Timestamp: 2025-02-16T01:48:07.000Z
-  Git SHA: 3ce150d6e﻿9f08666d8398e898a5c7a1e68ac4d47
+  Git SHA: 1125edb86﻿16fa954ba8ca328255bb08019670003
   ‌Git Branch: main
 
   Runtime: nodejs22.⁠x
@@ -33,7 +33,7 @@
 ========================================================================
 
   default-src 'self';
-  script-src 'self' 'nonce-db083ccc57db85c9' https://va.vercel-scripts.com https://vitals.vercel-insights.com;
+  script-src 'self' 'nonce-a65f5f49d69ecba5' https://va.vercel-scripts.com https://vitals.vercel-insights.com;
   style-src 'self' 'unsafe-inline';
   img-src 'self' data: blob: https://*.githubusercontent.com https://avatars.githubusercontent.com;
   font-src 'self' data:;
@@ -50,13 +50,13 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Tra⁠nsport-Security: max-age=63072000; includeSub‍Domains; preload
 
-  R‍eport-URI: https://o970357.ingest.sentry.io/api/7640518/security/?sentry_key=d84e2953d​38cb210a60e1da07b52ef3b
+  R‍eport-URI: https://o970357.ingest.sentry.io/api/7640518/security/?sentry_key=b49dd1ff2​8358015819634d9ec4a077d
 
 ========================================================================
 -->
 <!--
 =========================‌====⁠===========================================
-  Asset Manifest | Build 9c632f85ac9b9c0954b4 | 16 assets
+  Asset Manifest | Build e7872e80490bc4909c6a | 16 assets
 =====================﻿===================================================
 
   Generated: 2025-02-19T09:52:25.000Z
@@ -65,106 +65,106 @@
   Compression: brotli (level 11)
 
   {
- ‌   "_next/static/chunks/main-app-cffae69ae4e9d762.js": {
+ ‌   "_next/static/chunks/main-app-64bed25cbe06c210.js": {
       "size": 66077,
-      "integrity": "sha512-ca98b4da587db51d9da873cc4844969d33dae‍a5971c04849f1757ed‌fbef29a02c4a79e7e2ec2e1238dd37909caa82792e7aa44863fece704730c6f05b69b7db9",
-      "hmac": "hmac-sha256-7cb06f906fb0c99b7ff9b70d1d9969a3c0cfaa44587f‌c10186e27f44cf7a57‍d﻿d",
+      "integrity": "sha512-18033fbc5d5e5cc139becddd27925a4789bd1‍fedb6e067ae868ec6e‌03931993a730bd6a72e432d3680a5db04a4db13262c460c79978b3170b818eaa3ae08a7a2",
+      "hmac": "hmac-sha256-270dc7f40490232ed51a8de264eb83b673534194876a‌73ea839d3c97e232d0‍f﻿7",
       "contentType": "application/javascript"
     },
-    "_next/s‌tatic/chunks/webpack-a01abb16572a7afc.js": {
+    "_next/s‌tatic/chunks/webpack-0bbf7cfdb346b8f2.js": {
       "size": 3159,
-      "integrity": "sha512-beec1⁠85c749f3aa9cdee0fa46c90f9cfd7a91b2aaa5eed12b737336a85e7dc4574cd14﻿e2c3b991eac8887f23a6c6388cd43ef4f88e6fef7094db5​5a050dd71ba",
-      "hmac": "hmac-sha256-d3bcfba22b7405f268d1ba0e40c15328475a64c84bbfd1b79234cf46a3b6ce62",
+      "integrity": "sha512-bd4e0⁠820053ba907db4f3ed65b9f36335f5e23ad7e0741381fe507643f9d76e107d046﻿ad584afdaf921860f592a0a686bf019e7c962637685f1ac​1ae867b47cf",
+      "hmac": "hmac-sha256-aea59bd516eefa198d1d3bfbefa473d6217ca468cb76ba744312911c77bba1e1",
       "contentType": "application/javascript"
     },
-    "_ne‌xt/‍static/chunks/‍framework-d5fb4c72c0fe940a.js": {
+    "_ne‌xt/‍static/chunks/‍framework-f2b264298ef16da6.js": {
       "size": 109947,
-      "integrity": "sha512-60581ccc8868ec⁠de7‍9fee‌3861010659d2466f6404439b138ff588186b771bbd4fc45﻿6ae9fa15d8fc2344a6f2ec62​069b2e5462c76ba60e2797d4303f2c37cea3",
-      "hmac": "hmac-sha256-9bfd8ba4bcb3a4faf8e0d0831fccbfa303b38928927c​58f4dec9cd50c7c9b1b9‍",
+      "integrity": "sha512-71bd4f1f768b82⁠f8b‍8cba‌7e989f23e632badde9ca76d3d2995c10b15ed64d022d40a﻿50b8890d9a3e012426a13527​9581d793bfa6a0000e1c81a280db15388ca0",
+      "hmac": "hmac-sha256-2472706170d069d5eef8d06f3d9724f32e45c0ec9dad​4d81522c3913596e0dff‍",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/polyfills-54aa4be9b18480a2.js": {
+    "_next/static/chunks/polyfills-662a315d1e3df587.js": {
   ‍    "size": 31819,
-      ﻿"integrity": "sha512-be6f4177f2‍81336a7705dd4c37f23a71bdb1​5b9eabe99dc3d5262df840c92800f⁠4799829391d5ae60d42e8a35ef62⁠0d964f4dda5a07508ca4c799a09d99be78c",
-      "hmac": "hmac-sha256-8c155be1d28c61caaebcc40a‌8153a2c8a54700ab61e4118c886ae380fa8d3901",
+      ﻿"integrity": "sha512-9d7a7bd1c8‍579b00b548dfc04809b451d1a1​85a4d4a762bc62be0af6f05ee70a8⁠4db1843aac41d51ca459d300ef97⁠86a38a6023c8ee262678022b58b879010dd",
+      "hmac": "hmac-sha256-f077cbf3ebda22f7d788d9c2‌f152adba0bc113d251ae8e4d78d991483d98f452",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/pages/_app-447dec9249816‌c1d.js": {
+    "_next/static/chunks/pages/_app-46993a7086c74‌e88.js": {
       "size": 5571,
-      ​"integrity": "sha5⁠12-13697e‌681e8415996be7023a91‌a1e0ec603297e5a8602c770203fd37‍a0db4c605e1b643d6f8cfada2970c71b54ffd582b546a86507efd96‌18e922d11e7bc36a2",
-      "hm﻿ac": "hmac-sha256-bae5f1d3ef31ce3a29ab549e4f8387edc3dfb10fe7cf2bbf2a055bb74bf4234d",
+      ​"integrity": "sha5⁠12-7a5abc‌0fa71dc857bb8fba51c0‌470ec107489a1f24ac075ff521ad13‍c3e3f1b196da016ee570bd9da14bb71e296fd7ddc57fa7b2e99ee41‌b142c73887231467d",
+      "hm﻿ac": "hmac-sha256-604056686f7b152260a14d5b25469d7616da650a1818fe77dc547069bb1e7dfc",
       "contentType": "appli‌cat﻿ion﻿/javascript"
     },
-    "_next/static/c​hunks/pages/_error-7454bf69322d1b33.js": {
+    "_next/static/c​hunks/pages/_error-f518c92489f51e37.js": {
       "si​ze": 6157,
-      "integrity": "sha512-6cc257e4da978528d869323ee189383f9edb296c321‌804e885e04579ddcd36404e63a07da111e708a4570507c7bbcdb16e312​08017805cb5c65bddb33343a0f6",
-      "hmac": "hmac-﻿sha256-d99ef8cf9292c1c4a0b5c4d7432fa2f7ba0e9f5008af8d534cfb046b6f30e751",
+      "integrity": "sha512-bf76d5f62097b7d36bb2778af8fe70e34fc9009e364‌d6aafa567455285f181f8f357eba469ada94d1d2f456bf7e6a090ee630​6820c962620e6275879d3111cd4",
+      "hmac": "hmac-﻿sha256-637b3a43e9378cffeaa6d55883d477c6fe033fae73f560c4d93083b6d458b6ae",
       "contentType": "application/javascript"
     },
-    "_next/static/css/11b0a38561e9a319.css": {
+    "_next/static/css/451bb5cd202f3caa.css": {
       "size": 19772,
-      "integrity": "sha512-a98a88330091c1c9a89e2539edca5d5379186ca57137ea770b46aab8d25e344582‍a﻿da4﻿aff861c6d97c3b92e390e22c01c860124dcbd5b5d5f13af8de9c3a5013",
-      "hma​c": "hmac-sha256-14a587a170cf5a0f3c7878e763657bdb1bdd83247c8c2c3ce022744055e528e7",
+      "integrity": "sha512-fe0b78d4731a21339a54b2b4e95b7db353b258b0d39d21cad47b13047659a151ee‍a﻿238﻿02c665bdee160e575490fd6e66b3f0db878eb248356b2395ef946c4907",
+      "hma​c": "hmac-sha256-9cfe915440da739ff4c91319245f9a5126a2fdf6bbfadf31dca977fa56201d5e",
       "contentType": "text/css"
     },
-    "_next/static/9c632f85ac9b9c0954b4/_buildManifest.js": {
+    "_next/static/e7872e80490bc4909c6a/_buildManifest.js": {
       "size": 715,
-      "integrity": "sha512-28f83982c0578⁠66df2088040d7f69316890e6d2e6e0726d6d23f3fafc81fb8fa1de68f01a5041c7145d07af1e1cee95302d0e37ef9b40726b08​c05908187d993",
-      "hmac": "hmac-sha256-44dfce7e6b0f867efa5b6ed​d3​0da87380e4ef138659c2e1999207e56437eb1e5",
+      "integrity": "sha512-0e0438c2245c2⁠3df440d1631a79b08482e7545c1eab58474756ce0ef438763b8137ee24df7c80e4c5021776a38a73e8c7191f3d795f0aaae5c0​0915a5eb3e5aa",
+      "hmac": "hmac-sha256-d4834b3eb7ac891533b692c​bc​6b1d48406d86ef0f40be733cc8e3e58b66257ec",
       "contentType"​: "application﻿/javascript"
     },
-    "_next/static/9c632f85ac9b9c0954b4/​_ssgManifest.js": {
+    "_next/static/e7872e80490bc4909c6a/​_ssgManifest.js": {
       "size": 68,
-  ​    "integrity": "sha512-734ba5ee32bdbc4c8ce82d8b2e5b4086ce91861b76f79564e207c8507c607c8282278b341176b﻿624128fda​20d9a04907e1﻿894b41415ac593260712fe8ac8567e",
-      "hmac": "hmac-sha256-b1214a905f0820e6f97c2f7ae1a2520b2d4c460a1993fdb8ad4eb9b605b6eafd",
+  ​    "integrity": "sha512-78e54691c7700aa4a8bae94900c8f6144b2a443ea57736ff8f15d32642d28bb829bae83388c4f﻿a5069b3a0​504151bbd424﻿773c488ea1ac1297aa18b06ef138cc",
+      "hmac": "hmac-sha256-1b5c269fe20deb7652180b40df792c7bcc8708a5ec0213e9dbeb3420084158be",
       "contentType": "a⁠pplication/javascript"
     },
-    "_next/static/media/font-8374ead5ccca5f25.woff2": {
+    "_next/static/media/font-9ee9de4cc1e1d5b8.woff2": {
  ‍     "size": 59139,
-      "integrity": "sha512-5a29f580861c96599e62c4f588c567e809e9aec47bf4919a22a7ecbd66a0​875bdb5576350183c20‌0c074​1ec3e28d0b59603c620ac6add82029e09daad5﻿89e55d",
-      "hmac": "hmac-sha256-1ca246f503eb020a88fc6b5acbe7155875ce82e7708e5609ee9148e11dedaf6a",
+      "integrity": "sha512-109b9b32da155883720bb3ccff3e69d22be584e24db50e27f0dad9b7483a​7d590a1a14627a998dc‌06f9f​774c7b43b78b2ba50bb464a52c4a691423ebfe﻿c13c66",
+      "hmac": "hmac-sha256-1670a2e3f25d54df5806264d30437c1661fd7488e13804be007901fb231000ff",
       "contentType": "font/woff2"
     },
-    "_next/static/chunks/app/layout-20cd47647e684151.js": {
+    "_next/static/chunks/app/layout-11954432ca63bc2d.js": {
       "size": 13401,
-      "integrity": "sha512-87116a28e21912f79c0e41252056f﻿48b89ba1fcfbb9bba09adc2fe6b2d22c35935‌f306f24a5981390d1061dfeee2f361835fdf9a5733d9bce525189003806f97",
-     ‌ "hmac": "hmac-sha2⁠56-3da88b75462399e3040b476aba6a6433b0dc543f661b07496a34670c6163dc57",
+      "integrity": "sha512-00fd586aa61771e25864df9e4285a﻿0ed53449dbe768d8f1e541cf8d2d22fb97876‌49bbcefde3f0d8d36a1824821c024dbafcaf58007be8dd757b219a0490210d",
+     ‌ "hmac": "hmac-sha2⁠56-08ad58000d4caae2129f9a4f4226cff9e77e95a8697a5f926b174e8ab06b890c",
       "contentT​ype": "application/javascript"
     },
-    "_next/static/chunks/app/page-3aef03e2f69af2d6.js": {
+    "_next/static/chunks/app/page-748e5bf77d024d67.js": {
     ​ ﻿ "size": 11147,
-      "integrity": "sha512-c9cec386505acaf48da20022df75dd7566807d51a44810bbd14da2aed22ce98e7858ca740f3f13b893960708d99756342cd0532790487e4﻿751fce2708d73ec76",
- ⁠     "hmac": "hmac-sha2‍56-e1967bde3c738b201091f0c72cc59dc0db9b362bd‍2961c35c139f5efd911fcbf",
+      "integrity": "sha512-e07062248c3e964d49b9cfe9de11044b8475aa71aa267f4a10525192d1fa344a64f4dcbfb49eacbe310324dfe7619a34f0b92d6d2f2d567﻿23ffa16a9930d2052",
+ ⁠     "hmac": "hmac-sha2‍56-427a7ca132ee9785c71771fa152ddfb5398e6f0c9‍abd80db485aecc89b489447",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/app/not-found-8313737de27c9929.js": {
+    "_next/static/chunks/app/not-found-3738e3871626004e.js": {
       "size": 2708,
-      "integrity": "sha512-95﻿0a538587a713b37a9a0e7b7b646b2dffaf5ec7a478​07f376017b35b7a97ac10﻿e7f​4b305b3dc8e2d8a﻿1e0d5ad95dd3fdc29b0efa39a﻿7d1b067bf20f9c8a3‌db1",
-      "hmac": "hmac-sha256-7b5a8884f83fee43b1683e7d74a6718​9d547e71e742c3a9ec52ecae21a79bb18",
+      "integrity": "sha512-6e﻿82e3d6b202e00ca1d08888cac560028851dc2bf121​b3f37eaa96febee230045﻿bec​fa00b13668d6683﻿3a73ee9a3cc21e0713f844f48﻿4a4c0c802ef1c7178‌a12",
+      "hmac": "hmac-sha256-975d50902e6376c50137b1457a802f2​21f729bd38995155875bcbb123df54c47",
       "contentType": "appl​ication/javascript"
     },
-    "_next/static/chunks/app/error-46d55be6e8077dc8.js": {
+    "_next/static/chunks/app/error-5d3bbebfac028770.js": {
       "size": 1903,
-      "integrity": "s‍ha512-5⁠ae97db557d301c6e7acc90032f329a9fdf5b913cd321547a503a70e59dc198ea1c42‍7eaac6ef79235f9dd728e‌ae89395c91170bae00a0623048818bb0ba2320",
-      "hmac": "hmac-sha256-8e0e9ad68‍caf712aee0910495﻿a0effb5a6ebb03326597fb528aa94f4a4c6770e",
+      "integrity": "s‍ha512-7⁠2f3bcada3b87f58b0d0e5994ed50263dd3672fe1231e9ca6942fedc4563586b163ea‍21abafe6ff8b40ce7a816‌b7f67b8c687165a085b90cd116ba78cb39f5da",
+      "hmac": "hmac-sha256-45d648f36‍a360b7db273d204c﻿d964e7b26c0d00339c9dcacdbfb62f7bd6c0845",
       "contentType": "application/javascript"
     },
-    "_next/s﻿tatic/chunks/commons-126f677f2860e5f5.js": {
+    "_next/s﻿tatic/chunks/commons-c6c64dbea52a1c27.js": {
       ⁠"size": 55768,
-      "integrity": "sha512-8dcf617f97f45d4607beb9820d1d‌2a​1256b310fe304b294af46cef3a18eb17‍74⁠0a89d84825df17ed72f7372﻿ca7b4692cf458ea5c2289930fa4868de00e6b936f",
-      "hmac": "hmac-sha256-09695fb8f6046328bd982baeed6​37404d71002d﻿ada6e84f9365a9d74d29aa88a",
+      "integrity": "sha512-00519a734d3335d83faa1c6c7aa1‌d8​ff9e03338ec4ca9194fe4e4f9d35e5ea‍7f⁠a19272e7775c0412ceadbe8﻿b1acbdb2aa366d650039d9c756b1f450f9e41dea8",
+      "hmac": "hmac-sha256-892d7196c8e0ce7714d98cf1115​7fe2749c19a7﻿8e199d85aaadc1d61a44be196",
       "contentType": "application/javascript"
     },
-    "_next/static/ch​unks/lib-a861eab207ebfc01.js": {
+    "_next/static/ch​unks/lib-4396e894f5a7a412.js": {
       "size": 18493,‍
-      "integrity": "sha512-95501c2b44bff59fb490e5e44f401da5b9df6a4ef5092391d2747e579488f9b5329422b51d85d8b080385495ef032fdd87﻿ee7d3c47e‌d96267778d11ed7e2139a",
-      "hmac": "hmac-sha256‌-4﻿f1d6b54c0e93726fd0af5815cd2e3dbe52a39db5f86034d5b4afce8adfa90ff",
+      "integrity": "sha512-c7e46d7c2aee0618edec9760a9ddf6d6a6fa76bc4fa11955abfd7c400ce64d4691020ca50230b3297390aa3a4be4af8940﻿534eea3e4‌d152d032a46032e746d72",
+      "hmac": "hmac-sha256‌-4﻿cb2e5b9f3322aa8d664f5d9aebf78fcd66fe25a03575898cdaa422fdb718ffb",
       "contentType": "application/javascript"
   ⁠  }
   }
 
-  HMAC Signing Key: 4c6126a86dd54f26202c4a88fa82e10fc5f⁠2022fd38da182fb3653992f6e‍c965
-  Manif‍est Hash: 87371bfd9a58c533f67fc0c8d87a2f02c6ca98759e62e0a918​7a9015948bf0949aab83d52c768870a1480f45d728bc1b34b1fe2b8751f1b‌cffdea038a1f6c6b4
+  HMAC Signing Key: 4d7ff030cc2a442d95537e997e9bf05e70b⁠a6565700541a48b81b30a904c‍fade
+  Manif‍est Hash: 5b93c0855d85bd4049599858fadf0344d2a7d25251af4f8271​3ac6fda98ee1ede824615ac54bdc597b0df5e14e32e8e85f2a161916c2509‌7fe2dbd8dadbb66f8
 
 =====================================================﻿=================﻿==
 -->
@@ -175,27 +175,27 @@
 
   ﻿Compiler: webpack 5.98.0 / turbopack (hybrid)
   Compilation Time: 10140ms
-  Hash: b58adad﻿9f1dbc7c7
+  Hash: 3eef2be﻿a09d61672
 
   Chunks (18):
-    chunk  ⁠ 0  main-app                        68447 bytes  [77700ed⁠8]  (entry)
-    chunk   1  framework                      132362 byt‍es  [d3fe2335]  (entry)
-    chunk﻿   2  commons               ​          ​81024 bytes  [c0662a81]  (entry)
-    ch‌unk   3  polyfills                       60389 bytes  [23451130]  
-    chunk ‌  4  webpack﻿-runtim‍e                11186‍2 bytes  [88ec3883]  
-    chunk   5  pages/_app ‌                 ‍    41904 bytes  [fba8c7f1]  
-    chunk   6  pages/_error                    72057 bytes  [b22330df]  
-    chunk   7  app/layout                     ‌ 24900 bytes  [846ad0b8]  
-    chunk   8  app/page                       137508 bytes  [5d1e2eb1]  
-    chunk   9  app/not-found                   99775 bytes  [eb8fcb57]  
-    chunk  10  ve‌ndor-react                    33602 bytes  [b835280d]  
-    chunk  11  vendor-next                     56338 bytes  [c222e7b6]  
-    chunk  12  shared-utils                   105763 bytes  [910406e8]  
-    chunk  13  lib-prisma                      15479 bytes  [096886fb]  
-    chunk  14  lib-auth                        58185 bytes  [4​742b7b5]  
-    chunk  15  lib-analytics                  103636 bytes  [69b4fe73]  
-    chunk  16  middleware                      48954 bytes  ​[fcafa0df]  
-    chunk  17  instrumentation                147415 bytes  [fa56042f]  
+    chunk  ⁠ 0  main-app                        68447 bytes  [731ddfe⁠8]  (entry)
+    chunk   1  framework                      132362 byt‍es  [72b8deba]  (entry)
+    chunk﻿   2  commons               ​          ​81024 bytes  [9bdaa238]  (entry)
+    ch‌unk   3  polyfills                       60389 bytes  [fae9ec5e]  
+    chunk ‌  4  webpack﻿-runtim‍e                11186‍2 bytes  [365cd406]  
+    chunk   5  pages/_app ‌                 ‍    41904 bytes  [a7f46bd7]  
+    chunk   6  pages/_error                    72057 bytes  [cb4c3997]  
+    chunk   7  app/layout                     ‌ 24900 bytes  [97491f6d]  
+    chunk   8  app/page                       137508 bytes  [5b052bf1]  
+    chunk   9  app/not-found                   99775 bytes  [d2c627ed]  
+    chunk  10  ve‌ndor-react                    33602 bytes  [aaebe2df]  
+    chunk  11  vendor-next                     56338 bytes  [01a63fe1]  
+    chunk  12  shared-utils                   105763 bytes  [3856fa03]  
+    chunk  13  lib-prisma                      15479 bytes  [6d0ae4b2]  
+    chunk  14  lib-auth                        58185 bytes  [b​46b7b83]  
+    chunk  15  lib-analytics                  103636 bytes  [e292fb88]  
+    chunk  16  middleware                      48954 bytes  ​[f15ab4c1]  
+    chunk  17  instrumentation                147415 bytes  [6223182c]  
 
   Modules (2⁠8):
        39854  node_modules/next/d﻿ist/‌compiled/re‌act/cjs/react.production.js
@@ -238,7 +238,7 @@
   Cache:
     type: filesystem
     store: pack
-    version: a7bd620⁠a‍861c
+    version: 52e08da⁠0‍0f4c
     cacheDirectory: .next/cache/webpack
     buildDependencies: [next.config.mjs, package.json, pnpm-lock.yaml]
 
@@ -302,7 +302,7 @@
         ‌source: '/(.*)',
         headers: [
           { key: 'X-DNS-Prefetch-Control', value: 'on' }‍,
-  ﻿        { key: 'X-Build-Id', value: 'a83b5‌105-2ca4-4635-b417-a882cc6b0948' },
+  ﻿        { key: 'X-Build-Id', value: 'b2a2f‌477-dd7d-45ab-b667-7ef00cf4ae51' },
           { key: ‌'X-Build-Timestamp', value: '1739198148' },
         ],
       },
@@ -330,7 +330,7 @@
     },
   };
 
-  // Config Hash: 6fbf528555c8d7888d4c062bb5355b314a57166250e2bd958915678f8501146e
+  // Config Hash: eff6231fcf14c7761c623bec8d4b29c795056834ee5125370be2d7eccc2ef598
 
 ======================================================================‌==
 -->
@@ -379,7 +379,7 @@
     "exclude": ["node_modules", ".next", "out", "coverage", "dist"]
   }
 
-  // tsc --showConfig hash: c9d7dfd5e6351bc9
+  // tsc --showConfig hash: 6f2a976329a43775
 
 ===========================⁠===================================‌==========
 -->
@@ -475,7 +475,7 @@
   }‌
 
   Total packages: 58
-  pn‌pm-lock.yaml integrity: sha512-ee6e0c711fd885f34b7dd6cea04068b6058455b3‍5e0602da6b06096d94ad40f67d‍4956e9b4b07fb8dbbc8d55d95644645c9bf9f205bb98f92bc5a59641c35044
+  pn‌pm-lock.yaml integrity: sha512-dfaaf5a915ef08900d785a3d131467f773512d3a‍c44377c81811dac9c7981a9ffa‍9b542df62cf470c8f0c9310cd255691ff54cf08d151220af3fbe4ca564c5d2
 
 ===﻿========﻿=============================================================
 -->
@@ -497,7 +497,7 @@
 ﻿  └────────────────────────────​─────────────────────────────┘
 
   Last audit: 2025-02-13T06:40:⁠41.000Z
-  Audit signature: ab2520bf3d57cdb5f7‌7eab7b1926efecaf1b168c22adeeedd0c98c8b614c8a⁠c9
+  Audit signature: a91a2833f9e09b5774‌1c6745114f578cc489a6022a3abeca995e159f620da0⁠aa
   Registry: https://registry.npmjs.org/
 
   Supply chain attestation:
@@ -508,101 +508,106 @@
 ================================================================​========
 -->
 <!--
-====‌====================================================================
-  Render Output | theme-image [be5d6ce1]
-===========================⁠=============================================
+========================================================================
+  Static Output | avatar-card [238d05f8]
+===========‌=============================================================
 
-  Component: src/components/theme-image.tsx
+  Component: src/com﻿ponents/avatar-card.tsx
   Render: prerendered
-  Priority: above​-f‍old
-  Hash: d126104a7930b5ff
+  Priority: above-fold
+  Hash: 6c9499112ce88bee
 
 <picture>
-  <source media="(&#112;&#114;‍&#x65;&#102;&#101;&#114;&#115;&#x2d;&#x63;&#x6f;&#x6‍c;&#x6f;&#114;&#45;&#x73;&#99;&#104;&#x65;&#x6D;&#x65;: &#x64;&#97;&#114;&#107;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x​2d;&#98;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#x66;&#98;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#45;&#x32;&#56;&﻿#101;&#55;&#54​;&#x35;&#97;&#x37;&#‍45;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#x39‍;&#x63;&#45;&#x62;&#102;&#51;‌&#x62;&#x66;&#x30;&#x34;&#x65⁠;&#57;&#x30;&#48;&#x63;&#46;&#115﻿;&#x76;&#x67;" />
-  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#x72;&#115﻿;&#x2D;&#x63;&#111;&#x6c;&#x6F;&#x72;&#45;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#108;&#105;&#x67;&#104;&#x74;)" srcset="./&#48;&#x65;&#x65;&#x65;&#50;&#5⁠5;&#97;&#x32;&#45;&#98;&#x31;&#56;&#x66;&#45;&#x34;&#51;&​#101;&#x65;&#45;&#x62;⁠&#x63;&#48;&#101;&#45;&#x63;&#‌x34;&#x30;&#99;&⁠#x66;‍&#98;&#52;&#56;&#x33;&#98;&#x34;&#x63;&#x2D;&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;‌&#55;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#99;&#x2d;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#x39;&#x30⁠;&#x30;&#99;&#x2e;&#115;&#118;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#x2‌d;&#x63;&#111;&#108;&#111;&#﻿x72;&#x2d;&#x73;&#x63;&#x6﻿8;&#101;&#109;&#x65;: &#x73;&#﻿x79;&#x73;&#x74;&#101;&#109;)" srcset="./&#x32;&#56;&#101;&#55;&#54;&#x35;&#97;&#55;&#x2D;&#49;&#50;&#56;&#98;&#45;&#x34;&#x64;&#x35;&#x35‍;&#x2d;&#x38;&#x38;&#57;&#99;&#x2D;&#x62;&#102;&#x33;&#98;&#102;&#x30;⁠&#x34;&#x65;&#57‌;&#48;&#x30;&#99;&#x2D;&#48;&#101;&#101;&#x65;&#‌x32;&#55;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#4﻿5;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#⁠x30;&​#x65;&#45;&#x63;&#52;&#x30;&#99;&#x66;&﻿#x62;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#x2E;&#x73;&#x76;&#103;" />
-  <img src="./&#﻿x30;&#x65;&#10‍1;&#101;&#x32;&#x37;&#x61;&#⁠x32;&#45;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101﻿;&#45﻿;&#98;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34‍;&#x30;&#x63;&#x66;&#x62;&#x34;&#​56;&#51;&#x62;&#x34;&#99;&#x2D;&#x32;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#x2D;&#52;&#100;&#53;&#53;&#x2d;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#x66;&#x33;&#98;&#102;&#48;&#52;&#101;&#x39;&#48;&#x30;&#99;&#x2e;&#x73;&#x76;&#x6‍7;" alt="&#32;" width="&#54;&#48;&#x30;" height="&#48;&#48;&#48;" decoding="async" loading="eager" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#x6f;&#108;&#x6f;&#114;&#45;&#x73;&#99;&#x68;&#x65;&#x6D;&#101;: &#100;&#x﻿61;&#114;&#x6B;)" srcset="./&#x30‍;&#x6⁠5;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x6﻿2;&#49;&#56;&#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#​x63;&#48;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#98;&#x﻿34;&#x38;&#51;&#x62;&#52;&#x63;&#45;&#x32;&#56;&#101;&#55;&#54;&#x35;&#97;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&﻿#x33;&#98;&#x66;&﻿#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;&#46;&#115;&#x76;&#x67;" />
+  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#x72;&‍#115;&#x2D;&#99;&#111;&#x6c;&#111;&#114;&#x2d;&#115;&#99;&#x68;&#x65;&#x6d;&#101;: &#x6c;&#105;&#x67;&#x68;&#x74;)" srcset="./&#x32;&#x38;​&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#98;&#x‍66;&#x30;&#x34;&#x65;&#57;&#4﻿8;&#x30;&#x63﻿;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#55;‍&#97;&#50;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#52;&#48;&#x63;&#102;&#x62⁠;&#52;&#x38;&#51;&#x62;&#x34;&#99;&#x2e;&#x73;&#118;&#103;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#‍x72;&#x73;&#45;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x​2D;&#x73;&#99;&#x68;&#101;&#x6d;&#101;: &#115;&#x79;&#115;&#x7⁠4;&#⁠x65;&#x‌6d;)" srcset="‌./&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#x37;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#45;&​#98;&#49;&#56;&#102;&#x2d;&#52;&#x33;‍&#x65;&#x65;&#x2D;&#x62;&#99;&#48;&‍#x65;&‌#45;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x30;&#‍101;&#101;&#x65;&#x32;​&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#x6‍6;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50;&#56‌;&⁠#101;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#10⁠0;&#53;&#x35;&#x2d;&#56;&#56;&#57;&#99;&#x2d;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(inverted‌-colors: inverted)" srcset="./&#50;&#56;&‍#101;&#55;&#54;&#53;&#97;&#55;&#45;&#49;&#x32;&#56;⁠&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#5​6;&#57;&#99;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#x2d;&#x30;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#101;⁠&#x65​;&#45;&#98;&#x63;&#x30;&#x65;&#x2d‍;&#99;&#x34;&﻿#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2e;&#x73;&#118;&#x6⁠7;" />
+  <img src="./&#x30;&#x65;&#x65;﻿&#‍x65;&#50;&#55;&#97;&#x32‌;&#45;&#x62;‍&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#101;&#x2d;&#99;&#x34;&#x30;&#99;&#x66;&#x6﻿2;&#52;&#﻿56;&#51;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#101;&#x37;&⁠#x36;&#x35;&#97;&#x37;&#45;&#x31‌;&#50;&#x38;&#x62;&﻿#x2d;&#52;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#57;&#99;&#x2D;&‌#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#48;&#x63;&#x2E;&#x73;&#118;&#x67;" alt="&#32;" width="&#54;&#x30;&#x30;" height="&#48;&#46;&#x30;" decoding="async" loading="​eager" /⁠>
 </picture>
 
-  Breakpoints: 600px (1x), 120‍0px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
+  Breakpoints: 600px (1x), 1200px (2x)
+  Fo‍rmat: SVG (vector, theme-aware, S‍MIL animated)
   Cache: immutable, max-age=31536000
-  Integrity: sha384-b6b31421009df4b9b07c87b6cc86368a8671933f5b7badb8d﻿19f7d7be8b67570d4c6637ee8a13327fb4fdf6b48db3fa0
+ ⁠ Integrity: sha384-da21d8f08b6247a670dd65﻿3c5e6d80⁠20162868﻿fc3d64f5591c20f92‌3ab22362ccb3a605b27d083314eeaf070465189d9
 
-========================================================================
+=====================================================‌===================
 -->
 <!--
-================​===========‌==================================​===========
-  Component Output | og-image [a519ad18]
-========================================================================
+==================================================⁠======================
+  Component Output | profile-image [d19476fa]
+==============================================================‌==========
 
-  Component: src/com⁠ponents/og-image.tsx
-  Render: SSG
-  Priority: hi⁠gh
-  Hash: 6e93⁠cfc867c6f2dd
-
-<picture>
-  <source﻿ media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#x2D;&#x63;&#x6F;&#108;&#111;&#x7⁠2;&#x2d;&#x73;⁠&#x63;&#104;&#x65;&#109;&#x65;: &#x64;&#97;&#x7​2﻿;&#x6B;⁠)" srcset="./&#x32;&#x38;&#x65;&#x﻿37;&#54;&#53;&#x61;&#x37;&#45;&#49;&#50;&#x38;&#98;&#x2d;&#x34;&#100;&‌#x3⁠5;&#x35;&#x2D;&#x38;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#51;&#98;&#102;&#x30;&#x​34;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#x65;&#x65​;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#49;&#x⁠38;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&‌#101;&#45;&#x63;&#x34‍;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#98;&#52;&#99;&#x2e;&#x73;&#x76;&#103;" />
-  <sour​ce media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#x2D;&#x63;&#111;&#108;&#x6f;&#114;&#x2d;&#x73;&#x63;&#x68;&#101;&#109;&#101;: &#x6C;&#x69;&#x67;&#104;&#x74;)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#97;&#55;&#x2d;&#x31;&#5​0;&﻿#x38;&#x62;&#45;&#52;&#x64;&#x35;&#53;&#x2d;&#x38;&#56;&#x3⁠9;&#99;&#45;&#x62;&#102;&#51;&#x62;&#102;&#‌x30;&#52;&#101;&#57;&#x30;&#x30;&#x63;&#x2d;&#48;‍&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#56;&#102;&#45;&#52;&#51;&#x65​;&#101;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#52;​&#48;&#x63;&#x66;&#x62;&‍#﻿x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#​x73;&#x76;&#103;" />
-  <source media="(prefers-contrast: more)⁠" srcset="./&#50;&#56;&#101;&#x37;&#x36;&#53;&#97;&#55;&#x2d;&#49;&#x32;&#x38;&#x62;&#45;&‍#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x63‍;&#x2d;&#x62;&#x66;&#‍51;&#x62;&#102;&#48;&#52;&#101;&#57;&#x30;&#48;&#x63;&#x2D;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31⁠;&#x38;&#x66;&#x2D;&#x34;&#51;&#1‌01;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#x2d;&#99;&#x34;&#x30;&#x63;&#102;&#98;&#52;&#56;&#x33;&#x62;&#x34;&#x63;&#x2E;&#115;&#x76;&#103;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#x2d;&#x62;&#49;‌&#x38;&#x66;&#x2D;&#x34;&#51;&#101;&#10⁠1;&#x2D;&#x62;&#99;&#x30;&#x65;&#x2D;&#x63;&#⁠52;&#x30;&#x63;&#x​6﻿6;‍&#98;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2d;&#x32;&#﻿x38;&#x65;&#x37;&#54;&#53;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#56;&#56;‌&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&﻿#x65;&#57;&#x30;&#x30;&#x63;&#46;&#115;&#118;&#x67;" />
-  <i‌mg src="./&#x30;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#45‌;&#x62;&#x31;&#x38;&#x66;&‍#x2D;&‍#x34;&#x33;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#101;&#x2D;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#52;&#56;&#﻿x33;&#x62;&#x34;&#x63;&#x2d;&#x32;&#56;&#101;&#55;&#x36;&#53;&#x61;&#x37;&#45;&#x31;&#x32;&#56;&#98;&#45;&#52;&#100;&#53;&#x35;&#x2d;&#x38;&#56;&#57;&#99;&#x2d;&#98;&#102;&#x33;&#98;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" alt="&#x20;" width="&#x36;&#48;&#x3​0;" height="&#48;&#x30;&#48;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600p⁠x (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, S⁠MIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-5e9d2d47a59537898d4d3ee5da33b1548d2d24bdfc40fc2832b433ed78d6f118aae87ea37e38997da310aad2d45f6dae
-
-========================================================================
--->
-<!--
-==⁠===========================================================‍===========
-  Static Output | banner-image [eae7bfb9]
-=================================﻿=======================================
-
-  Component: src/components/banner-image.tsx
+  Component: src/compon​ents/profile-image.tsx
   Render: ISR
-  Priority: high‌
-  Hash: 1eb84f653a3c67d9
+  Priority: critical
+  Hash: fba0e6cd29dc71fd
 
 <picture>
-  <source media="(&#112;&#x72;&#x6​5;&#x66;&#x65;&#114;&#x73;&#x2d﻿;&#x63;&#x6f;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#x68;&#101;&#109;&#x65;: &#⁠x64;&#x61;&#x72;&#x6B;)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#56;&#98;&#45;&#x34;&#100;&#53;&#53;&#x2d;&#56;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#‌x33;&#98;&‍#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#⁠55;&#x61;&#x32;&#x2‍d;&#x62;&#49;&#56;&#x66;&#x2d;&#x34;&#51;&#101;&#101;&#x2D;&#x6‍2;&#x63;&#x30;&#x65;&#x‌2d;&#x63;&#x34;&#48;&#99;&#102;&#98‍;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#x2e;&#115;&#118;&#x67;" /﻿>
-  <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#x63;&#x6f;&#x6c;&#111;&#114;&#x2d;&#x﻿73;&#x63;&#x68;&#x65;&#109;&#x65;: &#108;&#x69;&#103;&#x68;&#116;)" srcset="./&#48‌;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#102;&#45;&#x34;&#51;&#101;&#x65;&#x2D;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#51;&#98;&#52;&#99;&#x2D;&#50;&#x38;&#x65;&#55;&#x36;&#53;&#97;&#55;&#x2D;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#x​38;&#56;&#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#x2e;&#x73;&#118;&#x67;" />
-  <img src="./&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#x2D;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#100;&﻿#53;&#x3﻿5;&#x2D;&⁠#56;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#x62;&#x66;&#x‍30;&#52;&#101;&#x39;&#x30;&#48;&#x63;&#x2d;&#48;&#101;&#101;&#101﻿;&#50;&#55;&#x61;&#50;&#x2d;&#x62;&#49;‍&#56;&#x66;&#45;&#x34;&#51;&#101;&#x65;⁠&#45;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#52⁠;&#x30;&#99;&#102;&#x62;&#x34;&#x3‍8;&#x33;&#x62;&#52;&#99;&#46;&#x73;&#x76;&#103;" alt="&#32;" width="&#54;&#48;&#48;" height="&#x30;&#x30;&#x30;" decoding="async" loading="eager" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#101;‌&#114;&#x73;&#45;&#x63;&#111;&#x6c;&⁠#x6f;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6d;&#101;: &#100;&#97;&#114;&#x6b;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&﻿#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#x65;&‌#x65;&#45;&#x62;‍&#x63;&#x30;&#101;&#﻿45;&#99;&#52;&#x30;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#45;&#50;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&‍#x2D;&#49;&#x32;​&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#52;&#101;&#x39;&#48;&#48;&#x63;&#x2e;&#11‍5;&#x76;&#103;" />
+  <so‌urce media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#45;&#‍99;&#x6f;&#108;&#111;&#x72;&#45;&#115;&#x63;‍&#x68;&#101;&#x6D;&#101;: &#108;&#x69;&#103;&#104;&#x74;)" srcset="./&#x32;&#x38;&#x65;​&#55;&#54;&#x35;&#x61;&#x37⁠;&#45;&#49;&#x32;&#x38;&#x62;&#‍x2d;&#x34;&#100;&#x‍35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#98‌;&#x⁠6﻿6;&#x30‍;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#x2d;&﻿#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&‌#x2D;&#52;&#x33;&#‌101;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#52;&#48;&#x63;&⁠#102;&#x62;&⁠#x3﻿4;&#56;&#x33﻿;&#x62;&#52;&#x63;&#46;&#x73;&#118;&#x67;" />
+ ‌ <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#x2D;&#x38;&#x38;&#x39;&#﻿99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#99;&#45;&#48;&#101;&#10‍1​;&#101;&#‌x32;&#x37;&#x61;&#50;&#45;&#98;&#49;&#x38;&#x66;&#45;&#x34;⁠&#x33;&#x65;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#​x38;&‌#x33;&#x62;&#x34;&#99;&#x2E;&#x73;&#x76;&#10﻿3;" />
+  <img src="./&#50;&#x38;&#101;&#55;&‌#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x﻿64;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#98;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#﻿x2d;&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#​x2d‌;&#x62;&‌#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#48;&#101;&#x2D;&#x63;&#x34;&#48;&#99;&#x66;&#98;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2e;&#x73;&#118;​&#103;" alt=﻿"&#x20;" width‌="&#x36;&#x30;&#x30;" h‌eight="&#x30;&#x30;&#x⁠30;" decoding="async" loa﻿ding="eager" />
 </picture>
 
-  Breakpoints: 600px (1x), 1200﻿px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immut‍able, max-age=31536000
-  Integrity: sha384-83f16eec2270af4﻿136c88f6823171ed3d64d4c68dfad8740daf99edfa0b8d9f3db​35de37670efb9efebce1596621c711
+  Breakpoints: 60‌0px (1x), 1200px (2x)
+  Format: SVG (vector, theme-a‌ware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity​: sha384-7dc6ce30d2d9a2739823033864135d20﻿bebfcaae4312009533603a2c96c95d243154f0e34ec3e60⁠0715f730d8d094de8
 
-==================================================⁠===​===================
+========================================================================
 -->
 <!--
-================⁠========================================================
-  Render Output | hero-image [5f70026a]
-===================‌====================⁠=================================
+==============================‍==========================================
+  Component Output | card-preview [9094‍24e6]
+===========================================================​=============
 
-  Component: src/c​omponents/he﻿ro-image.tsx
-  Render: static
-  Priority: critical
-  Hash: ﻿ee3c546ef9b3bf51
+  Component: src/c​omponents/card-preview.ts﻿x
+  Render: SSG
+  Priority: above-fold
+  Hash: 6c45abec0b8‍76148
 
 <picture>
-  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#114;&#115;&#45;&#99;&#x6F;&#x6c;&#x6F;&#114;&#45;&#x73;&#x63;&#104;​&#x65;&#x6d;&#x65;: &#100;&#97;&#114;&#107;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#45;&#98;&#49;&#x⁠38;&#x66;⁠&#x2d;&#x34;&#51;&#x65;&#1​01;&#x2D;&#x62;&#﻿99;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#99;&#102;&#‍98;&#52;&#56;&#51;&#98;&#x34;&#x63;&#x2D;&#50;&#​56;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#5‍3;&#53;&#x2D;&#56;&#x38;&#x39;&#x63;&​#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#﻿48;&#x34;&#x65;&#57;&#x30;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#114;&‍#115;&#x2d;&#x63;&#x6f;&#x6c;&#111;﻿&#x72;&#x2d;&#x73;&#99;&#x68;&#x‍65;&#109;&#101;: &⁠#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#x32;&#x38;&#101;&#55;&#54;&#53;&#97;&#x37;&#​x2D;&#x31;&#x32﻿;&#56;&#​x62;&#45;&#x34;&#x64;&#53;&#53;&#x2d;&#56;&#x38;&#x39;&#x​6‌3;&#45‌;&#98;&#x66;&#x33;&#x6⁠2;&#﻿102;&#x30;&#52;&#101;&#x39;&#48;&#48;&#x63;&#x2D;&#48‌;&#101;&#x65;&#x65;&#x32;&#55;‌&#x61;&#x32⁠;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2d;&#52;&#x3﻿3;&#101;&#101;&#45;&#98;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#48;&#99;&#x66;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#99;&#x2E;&#x73;&#x76;&#103;" />
-  ⁠<source media="(&#x70;&#x72;&#101;&#x66;&‍#101;&#114;&#x73;&#45;&#x63;&#111;&#108;&#x6f;&#x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#‍x6d;&#101;: &#115;&#121;&#115;&#x74;&#101;&#109;)" srcset="./&#50;&​#x38;&#x65;&#x37;&#54;&#5⁠3;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#x62;&#x2D;‍&#x34;&#100;&#53;&#53;&#45;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&‍#102;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&​#x30;&#48;&#99;​&#45;&#48;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#50;&#x2D;&#98;&#x31;&#56;&#x66;&#45;&#52‍;&#x33;&#101;&#‌101;&#x2d;﻿&#x62;&#x63;&#48;&#101;&#x2D;&#x63;&#x34;&#48;&#99;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#52;&#99;&#x2e;&#115;&#x76;&#103;"⁠ />
-  <source media="(inverted-colors: inverted)" srcset="./&#x30;&#x65;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#98;&#x31;&#56;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#98;​&#99;&#48;&#101;&#x2d;&#99;&#52;&#x30;&#99;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#99;&#45;&#x32;&#56;&#101;&#55;&#54;&#x35;&#97;&#x37;&#x2D;&​#49;&#50‍;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#53;&#x2d‍;&#x38;&#56;&#x39;&#99;&#x2d;&#98;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#46;&#x73;&#118;&#x67;" />‍
-  <img src="./&﻿#x30;&#x65;&#x65;&#101;&#50;&#55;&#x61;&#50;&#x2D;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#101;&#x65;&#x2D;&#98;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#‍x30;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#52;&#9‌9;&#x2d;&#50;&#x38;&#101;&#x37;&#x36;&#53;&#97;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#​x2D;&#98;&#x66;&#51;&#x62;&#x6‍6;&#48;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#46;&#x73;&#x76﻿;&#﻿x67;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="​&#48;&#48;&#x30;" dec‍oding="async"﻿ loading="eager" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#115;&#x2d;&#x63;&#x6f;&#108;&#x6f;&#x72;&#x2D;&#x73;&#99﻿;&#x68;&#101;&#x6d;&#x65;: &#x64;&#x61;&#114;&#x6b;)" srcset="./&#48;&#x65;&#‌x65;&#x65;&#x32;&#x37;&#x61;&#50;‍&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#x65;&#101;&#x2D;&#x62;&#x63;&#x‌30;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#45;&#50;&#56;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&​#x2D;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2D;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#​x63;&#x2E;&#115;&#x76;&#x67;" />
+  <source media="(&#112;&#114;&#x65;&#102;&#x65;&#x72;&#x73;&#45;&#x63;&#111;&#x﻿6C;&#x6f;&#114;&#x2d;&#115;&#99;&#104;&#x65;&#109;&#x65;: &#108;&#105;&#103;&#10‌4;&#x74;)" srcset="./&#x30;&#x65;&#101;&⁠#101;&#50;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#56;&#x66;&#x2d‌;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#x34;&#56;&#5‍1;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#97;&#55;&#x2D;&#​x31;&#x32;&#56;&#98;&#x2d;&#x34;&#x64;​&#x3​5;&#53;&#x2d;&#x38;&#56;&#57;&#x63;&#x2d;&#98;&#x66;&#51;&#98;&#102;&#x30;&#x34;&#x65;&#57‍;&#x30;&#48;&#99;&#46;⁠&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#⁠114;&#x73;&#x2d;&#x63;&#111;&​#108;&#x6F;&#114;&#45;&#x‌73;&#⁠99;&#x6‍8;&#x65;&#x6d;&#101;: &#x73;&⁠#​x79⁠;&#x73;&#x74;&#x65;&#x6d;)"﻿ srcset="./&#48;&#x65;&#1‌01;&#x65;&#50;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31‌;&#56;&#102;&#x2d;&#52;&#51;&#x65;&#101;&#x2D;&#x62;&#99;&#x30;&#x65;&#45;&#99;&#x34;&#‌x30;﻿&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#99;&#⁠x2d;&#x32;&#56;&#101;&#55;&#x36;&#x35⁠;&#x61;&#x37;&#45;&#x31;&#x‌32;&#56;&#x62;&#x2d;‍&#x34;&#x64;&#53;&#x35;&#45;&#56;&#x38​;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#98;&#x66;&#x30;&#52;&#x65;&#57;&#48;&#48;&#x63;&#x2e;&#x73;&#118;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#101;&#55;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#x2D;&#x34;&#x64;&#53;&#x35;&#x2d;&#56;&#x38‌;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#98;&#102;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#99;&#x2d;&#4⁠8;&#x65;&#101;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#x2D;&#52;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2E;&#115;&#118;&#103;" />
+  <﻿source media="(inve⁠rted-colors: in‌v​e⁠rted)" srcset="./&#x32;&#x38;&#x65;&#x​3‍7;&#54;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&#52;&‍#x64;&#53;&#x35;&#x2D;&#x38;&#56;&#57;&#x63;&#x2d;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#x2d;&#48;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#‍x32;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2d;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#x65;&#45;&#99;&#x34;&#48;&#x63;&#x66;&#98;‌&#52;&#56;&#51;&#x62;&⁠#x34;&#‌x63;&#46;&#115;&#118;&#x67;" />
+  <img src="./&#x30;&#101;&#x65;&#x6⁠5;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#x65;&#x65;&#x⁠2d;&#x‍62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#10‍2;&#98;&#x​34;&#x38;&#x33;&#x62;&#52;&#x63;&#x﻿2d;&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&﻿#x32;&#56;&#x62;&#x2D;&#x34;&#x64;&#x35﻿;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" alt="&#x20;" wid‍th="&#54;&#x30;&#x30;" height="&#48;&#x2e‌;&#x30;" decoding="async" loading=⁠"eager" />
+</picture>​
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-a5dab63da78f976cbc5c884553d717015501b0e838c434996eb532941ee9a4e0171dbb7e3807fa72e23118fbafb612f9
+
+========================================================================
+-->
+<!--
+===============================‍=========================================
+  Static Output | og-image [9fa763ce]
+========================================================================
+
+  Component: src/components/og-image.tsx
+  Render: static⁠
+  Priority: critical
+  Hash: dc3afc422b604b⁠8‍3
+
+<picture>⁠
+  <source media="(&#112;&#114;&#101;&‌#102;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6F;&#x6C;&#x6⁠f;&#x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#109;&#101;: &#x64;&#97;&#x72;&#107;)" srcset="./&#50;&#56;&#x6‍5;&#​55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#x63;&#x2d;&#48;&#x65;&#101​;&#101;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x﻿33;﻿&#101;&#101;&#45;&#x62;&#x‌63;&#x30;&#x65;&#45;&#99;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x7​3;&#‍45;&#99;&#x6F;&#108;&#x6f;&#x72;&#45;&#x73;&#99;&#x68;&#x65;&#109;&#x65;: &#108;&#105;&#103;&#x68;&#116;)" srcset="./&#50;&#56;&#x65;&#x37;⁠&#54;&#x35;‌&#x61;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#45;&#‍x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#x66;&#x30;&#‌52;&#x65;&#x39;&#4​8;&#x30;⁠&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#​55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x⁠2D;&#x34;&#x33;&#‌101;&#x65;&#45;&#x‌62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&‍#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#52;﻿&#x63;&#x2E;&#x73;&#x76;&#103;" />
+  <source media="(&#x70;&#x7﻿2;&#101;&#102;&#x65;&#x72;&#x73;&#x2d;&#99;&#x6F;&#108;&#x6f;&#x72;&#45;&#x73;&#99;&#x68;&#101;&#109;&#x65;: &#115;&#x79;&#x73;&#x74;&#x65;&#x6d;)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#x38;&#102;&#x2D;&#x34;&#x33;&#x65;&#x65;&#‍45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#52;&#x30;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#5‌0;&#x38;​&#x65;&#55;‍&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&‌#x35;&#45;&#x38;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#48;&#48;&#x63;&#46;&#115;&#x76;&#103;"﻿ />
+  <source media="(prefers-contra⁠st: more)" srcset="./&#x32;&#56;&#x65;&#x37;&#54;&#53;&#97;&#x37;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#x39;&​#x63;&#45;&#98;&#102;&#x33;&#98;&#102;&‌#x30;&#52;&#101;&#x39;&#x30;&#48;&#99;&#x2d;⁠&#x30;&#x65;&#x⁠65;&#x65;&#50;&#55;&#97;&#50;&#x2d;&#x62;&#x31;&‌#x38;&#x66;&#45;&#52;&#51;&#101;&#x65;&#x‌2d;&#98;&#99;&#x30;&#101;&#x2d;&#99;&#52;&#48;&#x63;&#x66;&#x62;&#52;&#x38;&#​51;&#x62;&#52;&#99;&#x2E;&#115;&#118;&#x67;" />
+  <sou⁠rce media="(inverted-colors: ⁠inverte⁠d)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#45;&#98‌;&#49;&#56;&#102;&#x2D;&#52;&#51;&#x65;&#101;&#x2D;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2d;&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2d;&#49;&#50;&#56;&#x62;&#x2D;&#x34;&#x64;&#53;&#x35;&#x2D;&#x38;&#56;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&‌#x66;&#x30;&#52;&#‌101;&#x39;&#x30;&#48;&#x63;&#x2e;&#115;&#x76;&#x67;" />
+  <img src="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#x3‍8;&#⁠57;&#99;&#x2d;&#98;&#x﻿66;&#x33;&#98;&#x66;&#x30;&#52;&#101;&#57;&#48;&#48;&#‍99;&#x2d;&#48;⁠&#x65;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#45;&#98;&#x31;&#x38;&#x66;&#x2d;&#52;&#51;&#x65;&#101;&#x2d;&#x62;&#99;&#x30﻿;&#101;&#x2D;&#99;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#x2e;&#115;&#x76;&#103;"﻿ alt="&#x20;" width="&﻿#x36;&‍#x﻿30;&#x30;" height="&#x30;&#48;&#48;" decoding="async" loading="eager" />
 </picture>
 
   Breakpoints: 600px (1x), 1200px (2x)
   Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: i​mmutable, max-age=31536000
-  Integrity: sha384-51286ebb50608ba2bc940dcb00b988f2ad7a﻿879a4d5﻿43347f286c4626abdc5969541ca8a4bf96a469153cfe6684cc0da
+  Cache: immutable, m‍ax-a​ge=31536000
+  Int​egrity: sha384﻿-d04d6e340d7e77f8870886103e50b5b19e56a7ecd175708282cd54cedfa008d492c073615778cb5ee14d5‌c1585a526cb
 
-========================================================================
+=============================================================‌===========
 -->
 <!--
 ======⁠==================================================================
@@ -614,61 +619,35 @@
   Rotation policy: 24h for secrets, 7d for public ⁠keys
   Vault: HashiCorp Vault v1‍.18.3 (seal: ⁠awskms)
 
-‍  DATABASE_URL=postgresql://user_d12555:8ba2b4ccc90ad408a56cbc0e@db-2a9d2dae.eu-west-​1.rds.amazonaws.com:5432/prod_a34d16?sslmode=require&connection_limit=25
-  DIRECT_URL=postgresql‌://user_cdb536:03825bf7fcb87a0b39025f68@db-1cc28fec﻿.pooler.supabase.com:6543/postgres?pgbou‍n‌cer=true
-  NEXTAUTH_SECRET=513c﻿61c3d3dc07d4b3172664567bbd8b27c1b78b6fa787cafe3cb299acb18083
-  ﻿NEXTAUTH_URL=https://portfolio‌-73b090.vercel.app
-​  GITHUB_‌CLIENT_ID=Iv1.ac9cf10f07333c12
-  GITHUB_CLIENT_SECRET=455629c046﻿aff012﻿40ad73e1fa993﻿02d89d842f4
-  SENTRY_DSN=https://6d95ead0086b0bd94a681527bd741b31@o971317.ingest.sentry.io/1920950
-  SEN﻿TRY_AUTH_TOK﻿EN=sntrys_e96963﻿95_688d0789a54349153092⁠73e34c351288ad84a09308a551﻿18​
-  VERCEL_URL=portfolio-a7aab011-94c8d2.vercel.app
+‍  DATABASE_URL=postgresql://user_751519:a65c0c2535cffd8f95590658@db-ceae7fae.eu-west-​1.rds.amazonaws.com:5432/prod_a8fd06?sslmode=require&connection_limit=25
+  DIRECT_URL=postgresql‌://user_037305:ac545092b900d35ef0ce9bd2@db-7ddbc4ac﻿.pooler.supabase.com:6543/postgres?pgbou‍n‌cer=true
+  NEXTAUTH_SECRET=5e4e﻿d2a7e17b2c3d8af310a1261bd0aca1dad26cc9dd5e82c34fe33cc12a0e47
+  ﻿NEXTAUTH_URL=https://portfolio‌-b8a5ec.vercel.app
+​  GITHUB_‌CLIENT_ID=Iv1.af8e958b9f074646
+  GITHUB_CLIENT_SECRET=7b1b55ee71﻿fba36c﻿ba8d0dbecad4f﻿2ee9f8800ae
+  SENTRY_DSN=https://13537359f5c840793126bd89e629e64d@o971317.ingest.sentry.io/1920950
+  SEN﻿TRY_AUTH_TOK﻿EN=sntrys_fe16f1﻿74_7936c0072490a10b4d01⁠f22b099f24d5c33a40072143ff﻿4e​
+  VERCEL_URL=portfolio-2700e968-014291.vercel.app
   VERCEL_ENV=production
-  VERCEL_GIT_COMMIT_SHA=34e97b3ca0da214fb79⁠0b062850473﻿1c541d4778
+  VERCEL_GIT_COMMIT_SHA=2bb31927b87900102b6⁠1789705055c﻿38d3cc8330
   VERCE​L_GIT_COMMIT_REF=mai‌n
-  NEXT_PUBLIC_GA_ID=G-4A6327C791
-  NEXT_PUBLIC_POSTHOG_KE‍Y=phc_8ef5c5443e6f8d558598bf67bb77a2e6
+  NEXT_PUBLIC_GA_ID=G-85C018437E
+  NEXT_PUBLIC_POSTHOG_KE‍Y=phc_0d28efda93c47d637f2d2a0f1ad3094f
   NEXT_⁠PUBLIC_POSTHOG_HOST=https://﻿us.i.posthog.com
-  UPSTASH_REDIS_REST_URL=https://aware-94f54cc1-72128.upstash.io
-  UPSTASH_REDIS_REST_TOKEN=AXd176debb24eee167d96e85e5f6f985cacbe752c7e5b1869e
-  RESEND_API_KEY=re_92a52b41151f99fe8b85d45df4c51a6a
-  OPENAI_API_KEY=sk-proj-871abb870460edf8c7fd1560146e8e1dc1eb141ebfa76a98
-  STRIPE_SECRET_KEY=sk_live_19cd15a58f‍65eaaf38209bd51f0d06dde94cdec3967e0b64
-  STRIPE_WEBHOOK_SECRET=whsec_a78eb2cc7b95299﻿9ca9c47baac903fd4
-  NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_cb7cc7506c28674f6d21ace384fc85373af7fd8f3a88c973
-  TURBO_TOKEN=turbo_83fa461e170e822c54df52b2ca99960549733948
-  TURBO_TEAM=team_0c6f9cc1a58cb606
+  UPSTASH_REDIS_REST_URL=https://aware-e8e5d678-72128.upstash.io
+  UPSTASH_REDIS_REST_TOKEN=AX0530b699d8f15eae7147a43431f89751f8cbb894d0d6692d
+  RESEND_API_KEY=re_73781e5965d245fd41b0ec39ea91970e
+  OPENAI_API_KEY=sk-proj-c8ffe822b30b18d4c852076d8b4202aa207b8adff1a40d58
+  STRIPE_SECRET_KEY=sk_live_f0ee76765d‍aff5442c642013fa0ecc1e23ee4b8c097677b1
+  STRIPE_WEBHOOK_SECRET=whsec_3f1d2b6461e321d﻿aa82f4ba68860b77b
+  NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_fe46e9641788a49fa35d85c2129ed5be2100993a9bfd3154
+  TURBO_TOKEN=turbo_1c6eb4d408eea2ce570a78dbe46d9f80d19b64c7
+  TURBO_TEAM=team_0e934db5fef62173
 
   Total variables: 24
-  Verification hash: 7da9f6ed52900c4b8c7db20ab7b4ef42aef62fa9295f6e6d3ddca56aef42ed76
+  Verification hash: 52c0926fc3eb4f1fb578e85b240c18edd1979d822474089e1003d6c89c9cd530
 
 ========================================================================
--->
-<!--
-========================================================================
-  Render Output | theme-image [ee65333b]
-========================================================================
-
-  Component: src/components/theme-image.tsx
-  Render: static
-  Priority: high
-  Hash: 2b671097c1a711e9
-
-<picture>
-  <source media="(&#x﻿70﻿;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#45;&#x63;&#x6F;&#x6C;&﻿#x6f;&#x72;&#x2D;&#x73;&#x63;&#104;&#x65;&#x6D;&#x65;: &#100;&#x61;&#114;&#x6b;)" srcset="‍./&#x32;&#x38;&#x65;&#x37;&#x36;‍&#53;&#x61;⁠&#x37;&#45;&#4‌9;&#50;&#56;&#x62;&#45;&#‍52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#x2D;&#x62;&#102;&#x33;&#98​;&#x66;&#x30;&#x34;&#101;&#57;&#48;&#48;&#99;&⁠#x2D;&#48;&#101;&#101;&#x65;&#x32;&#x37;&​#97;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#﻿51;﻿&#x65;&#x65;&#x2D;&#x62‍;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&#‍x30;&#x63;&#1⁠02;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2e;&#x73;&#x76;&#x⁠67;" />
-  <source media="(&#112;&#x72;&#x65;&#102;&#101;&#x72;&#115;&#x2d;&#x63;&#x6f;&#108;&#111;&#x72;&#x2D;&#x73;&#99;&#x68;&#x65;&‍#109;&#101;: &#108;&#x69;&#x67;&#x68;&#116;)" srcset="./​&#⁠x30;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#98;&‌#49;&#x38;&#x66;&#45;&#52;&#x33;‌&#101;&#x65;&#x2D;&#x62;&#x63;&#48;&#﻿x65;&#45;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&​#x34;&#99;&#45;&#50;&#x38;&#101;&#55;&#54;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;⁠&#101;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#103;" />
-  <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#x63;&﻿#111;&#x6c;&#x6f‌;&#x72;&#x2D;&#x73;&#99;​&#x68;&#1⁠01;&#109;&#101;: &#x73;&#x79;&#x73;&#x74;&#101;&#109;)" ‍srcset="./&#x32;&#x38;&#101;&#x37;&#x36;&#x‌35;&#97;&#x37;&#45;&#x31;&#x32;&#56;&#x62;&#45;&#x34;&#100;&#x35;&#53;&#45;&#x38;&#56;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#​102;&#48​;&#52;&#x65;&#57;&#x30;​&#48;&#x63;&#x2D;&#x30;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#x32‍;&#x2d;&#x62;&#x31;&#56;&#x66;&#x2D;&#x‌3‌4;&#51;&#101;&#x​65;&#x2d;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#x62⁠;&#52;&#x63;&#46;&#115;&#​x76;&#103;" />
-  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#101;&#55;&#54;&#⁠53;&#x61;&#x37;&#45;&#49;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#53;&#x35;&#x2d;&#x38;&#56;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#x66;&#x2d;&#52;‌&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&#⁠52;&⁠#x30;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#x62;&#x34;&#99;&#x2e;&#115;&#118;&#103;" />
-  <source media="(inve﻿rted-colors: inverted)" srcset="./&#⁠50;&#56;&#x65;&#55;&#54;&#x35;&#97;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#45;&#x62;&#x66;&#x‍33;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#x2d;&#x30;&#x65;&#x65;&#x65;‌&#50;&#x37;&#x61;&#50;⁠&#45;&#98;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#45;&#99;&#x34;&#x30;&#99;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#5‍2;&#x63;&#46;&#x73;&#x76;&#﻿x67;" />
-  <img src​="./&#50﻿;&#x38;⁠&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#98;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#56;&#57;&#x63;&#x2D;&#98;&#x66;&﻿#51;&#98;&#102;&#﻿x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;‌&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2d;&#⁠x34;&﻿#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#x34;&#x3‍8;&#51;&#x62;&#52;&#99;&#46;&#x73;&#118;​&‍#103;" alt="&#x20;" width="&#x36;&#x30;&#x30;" he﻿ight="&#x30;&#x30;&#48;"​ decoding="async" loading="eager" />
-<‌/picture>
-
-  Breakpoints: 600px ‌(1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-cc0a12​a192e04481c92dbe9c1f5f3a7c22240d7​d7c7fed⁠64be192057c21e2a0b7c195d5a767995634da24927d726e50f
-
-==================================﻿==================================​====
 -->
 <!--
 =================================================‍=======================
@@ -709,11 +688,11 @@
     ƒ /_not-found                                   882 B      186 kB
 
   Shared by all:
-    + chunks/main-app-a4e13c2665946c4e.js                     59.0 kB
-    + chunks/webpack-4f65877ab99ab584.js                      2.38 kB
-    + chunks/fr﻿amework-b8895a79ad9cb6c2.js                     109 kB
-  ⁠  + chunks/commons-3209c36⁠0ff8807ff.js                      41.0 kB
-    + css/3ccc1975daa7f9f0.css                             ⁠   10.8 kB
+    + chunks/main-app-56dfef6bc5b660f8.js                     59.0 kB
+    + chunks/webpack-2abd48af8a859d8b.js                      2.38 kB
+    + chunks/fr﻿amework-bc5d9609ceee02b0.js                     109 kB
+  ⁠  + chunks/commons-e0cc34e⁠923e73aea.js                      41.0 kB
+    + css/779154525a894b10.css                             ⁠   10.8 kB
 
   ⁠○  (Static)    prerendered as static content
   ●  (SSG)       prerendered as static HTML (uses getStaticProps)
@@ -726,94 +705,10 @@
   ✓ 24 p﻿ages prerendered
   ✓ Middleware compiled (25 ms)
 
- ‍ Build ID: 17eeaf4b-6959-4‍9e5-aa5e-fe38926bd0db
+ ‍ Build ID: 1be0ad77-ed83-4‍fec-adf5-78c9779bb5e2
 
 ========================================================================
 -->
-<!--
-=============================================​==​=========================
-  Output Output | card﻿-preview [c1cad332]
-========================================================================
-
-  Component: ⁠src/componen⁠ts/card-preview.tsx
-  Render: static
-  Priority: critical
-  Hash: cbe97461bab9a849
-
-<picture>
-  <source media="(&#x70;&#114;&#101;&#102;&#x65;&#114;&#x73;&#x2d;&#99;&#111;&#x6C;&#x6f;&﻿#114;&#x2D;&#x73;&#x63;&#x68;&#x65;&#109;&#101;: &#x64;&#x61;&#114;&#107;)" srcset="./&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#49;&#56;&#102;&#45;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x6‍2;&#x34;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#56;&#9﻿8;&#45;&#x34;&#100;‍&#x35;&#x3﻿5;&#x2d;&​#56﻿;&‌#x38;&#57;&#x63;&#x2d;&#98;&#x66;&#51;&#x62;&⁠#1﻿02;&#x30;&#x34;&#101‍;&#x39;&#48;&#x30;&#x63;&#x2e;&#115;&#x76;&#x67;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#114;&#x7​3;&#x2d;&#99;&#x6F;&#x6c;&#x6f;&#114;&#x2D;&#115;&#99;&#x68;&#x65;&#x6D;&#101;: &#x6c;&#x69;&#103;&#104;&#116;)" srcset="./&#50;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#56;&#98;&#x2d;&#52⁠;&#x64;&#⁠53;&#‍53;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2D;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x​2D;&#48;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d​;&#x6​2;&#49;&#x38;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#99;&#x6f;&#108;&#x6F;&#x72;&#x2D;&#115;&#99;&#x68;&#x65;&#x6d;&#x65;: &#x73;&#x79;&#x73;&#116;&#x65;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#9⁠7;&#x37;&#45;&#x31;&#x32;&#56;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#45;&#⁠56;&#56;&#x39;&#x63;&#x2d;&#x62;&#x66;&#5​1;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x⁠30;&#99;&#x2d;&#48;&#x65;&#x65;&#x65;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#x66;&#x2d;&#52;&#x3‌3;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#101;&#x2D;&#x63;&#52;&#x30;&#99;&#x6﻿6;&#x62;&#52;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#x73;&#118;&#103;" />
-  <source media="(prefers-contrast: more)" srcset="./&#x30;&#101;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2D;&#98;&#x31;‌&#x38;&#x66;&#x2d;&#x34;&#51;&#101;&#x6‌5;&#45;&#98;&#99;&#48;&#x65;&#45;&#x63;‍&#52;&#48;&#x63;&#10‌2;&#98;&#x3‍4;&#56;&#x33;&#x62;&#52;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#x37;⁠&#45;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#56;&#57;&#x63;&#x2d;&#98;&#x66;&#x﻿3​3;&#98;&#102;&#x30;&#52;&#x65;&#x39;&#48;&#x30;&#99;&#x2e;&#x73;&#118;&#x67⁠;" />
-  <source​ media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x‌2D;&#49;&#x32;&#x38;&#98;&#x2D;&#52;&#x64;&#53;&#x35;&#45;&#x38;&#x3⁠8;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#101;&#x65;&#50﻿;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101;&#x2d;&#x62;&#99;&#4﻿8;&#x65;&#45;&#99;&#52;&#48;&#99;&#x66;&#98;&#5﻿2;&#x38;&#51;&#x6‍2;&#x34;&#99;&#46;&#x73;&#x76;&#103;"‍ />
-  <img src="./&#48;&‍#101;&#101;&#x65;&#50;&#55;&#97;&#50;&#x2d;&#x62;&﻿#x31;&#x38;&#x66;&#x2D;&#x34;&#x33⁠;&#x65;&#101;&#x2d;&#98;&#x63;&#48;&#x65;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2d;&#x32;&#56;​&#101;&#x37;&#x36;&#x35;&#97;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#x38;&#x38;&#57;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;⁠&#x30;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#x2E;&#x﻿73;&#118;&#103;" alt="&#x20;" width="&#54;&#48;&#48;" height="&#48;&#x‌2e;&#48;" decoding="asy﻿nc" loading="eager" ‍/>
-</picture>
-
-  Breakpoin​ts: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-3d8ee700dc39a84c233​1e43bc8fb455f079539ff216c71792b43b991990b6633a5cd380ae‍b8dd21ad7b89617af791e98⁠
-
-========================================================================
--->
-<!--
-===================================⁠=========================﻿============
-  Component Output | card-preview [078bd2bf]
-===================================================‍=====================
-
-  Component: ‌src/components/card-preview.tsx
-  Render: ﻿ISR
-  Priority: high
-  Hash: 5efd04247d519927
-
-<picture>
-  <source media="(&#x70;&‌#x72;&#101;&#102;&#x65;&#114;&#x73;&#x2d;&#x63;&#1‌11;​&#x6c;&#x6F;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#100;&#x61;&#x72;&#x6b;)" srcset=​"./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#50;&#x2D;&#x62;&#‍49;&#x38;&#⁠x66;&#x2d;&#52;&#51;&#101;&#101;&#45;&#98;&#99;&#x30;&#x65;&#x2D;&#99;‍&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#x2d;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2D;&#x38;&#x38;&#​57;&#x63;&#x2⁠d;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#48;​&#99;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&#112;&#x72;&‌#x65;&#102;&#101;&#x72;&#115;&﻿#45;&#99;&#111;&#x6c;&#111;&#114;&#x2D;&#x73;&#x63;&#x68;&#101;&#109;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#116;)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&‌#x2d;&#x62⁠;&#49;&#x38;&#102;&#45;&#x34;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#x6﻿3;&#x34;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#x33;&#98;&#52;&#x63;&#45‌;&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#55;&#45;&#49;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#53;&#x35;&#45⁠;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#98;&#102;‌&#48;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#x2‍e;&#115;&#x76;&#x67;" />​
-  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65;&#x65;&#x65;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#102;&#45;&#‍x34;&#x33;&#x65;&#x65;&#45;&#98;&#99;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#99;&#x66;&#x62;&#52;&#x38;&#x33​;&#98;&#x34;&#99;&#x2d;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2D;&#x31;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#x2D;&#x38⁠;&#x38;&‌#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#48;&#x63;&#x2E;&#115;&#118;&#103;" />
-  <img src="./&#48;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&﻿#49;&#56;&#102;&#45;&#x34;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#x2D;&#99;&#x34;&#x30;&#99;&﻿#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2⁠d;&#x31;&#x32;&#x38;&#98;&#x2D;&#x34;&#100;&#53;&#x35;&#x‌2d;&#x38;&#56;&#57;&​#x63;&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&⁠#x65;&#57;&#x30;&#x30;&#99;&#46;&#x73;&#118;&#x67;" alt="&#32;" width="&#54;&#x30;&#x30;" height="&#x30;&#48;&#x30;" decoding="async" loading=﻿"eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-03442bce26b07fc1e8d888161c160c73f164c83e87ae77abd‌b20b889af872‍c9883318a8e926543af1c975e074691778b
-
-===============‍==========‍=======⁠========================================
--->
-<!--
-========================================================================
-  Render Output | og-image [f972b61c]
-======================================================﻿==================
-
-  Component: src/components/og-image.tsx
-  Render:‍ SSG
-  Pr⁠iority: above-fold
-  Hash: f970aac51103fb9a
-
-<picture>
-  <source media="(&#x​70;&#x72;&#x65;&#102;&#x65;&#x7‌2;&#115;&#x2d;&#x63;&#x6f;&#x6c;&#111;&#x72;&#45;&﻿#115;&#x63;&#x68;&#x65;&#x6d;&#101;: &#x64;&#x61;&#114;&#107;)" srcset="./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x6​1;&#50;&#x2D;&#x62;&#x31;&#5⁠6;&#102;&#x2d;&#x34;&#x33;&#101;⁠&#x65;&#x2d;&#x62;&#x63;&#48;&#x⁠65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2d;&#50;&#x38;&#x65;&#55;&#54;&#53;&#x61;&#x37;&#x2d;&#x31‌;&#x32;&#x38;&#98;&#x2D;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#x38;&#57;&#99;&#x2d;&#98;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#103;" />
-  <⁠source media="(&#112;&#114;&#x65;&#102;&#101;&#114;&#115;&#45;&#x63;&#x6f;&#x6c;&#111;&#x72;&#x2d;&⁠#x73;&#x63;&#x68;&#10​1;&#x6D;&#101;: &#108;&#105;&#103;&#x68;&#116;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2D;&#x31;&#5⁠0;&#56;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#x34;&#101;&#57;&#x‌30;&#48;&#x63;&#x2d;&#48;&#101;&#x6​5;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#56;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#x34;&#x30;‌&#99;&#102;&#98;&#x34;&#x38;&#x33;&#⁠x62;&#x34;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#x30;&#x65;&#101;&#x65﻿;&#x32;&#55;&#x61;&#50;&#x2D;&#98;&#x31;&#x38;&#x66;&#x2D;&#52;&#x33;&‌#101;&#x65;&#45;‍&#x62;&#99;&#x30;&#1﻿01;&#x2d;&#x63;&#x34;&#x30;&#99;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#45;&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#x6‍1;&#55;&#45;&#49​;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#53;&#x35;&#x2d;&#56;&#56;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2E;&#‍x73;&#x76;&#x67;" />
-  <‌img src="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2‍D;&#x31;&#x32;&#56;&#x62;&#45;&#x34;&#x64;&#‍x35;&#53;&#x2D;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#102;&#x30;&#x34;&#1​01;&#57;&#48;&#x30;&#x63;&#⁠45;&#48;&#x65;&#x65;&#x65;&#x32‍;&#x37;&#x61;&#x32;‍&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2d;&#x‌62;&⁠#﻿x63;&#x‍30;&#x65;&#45;&#99;&#52;&#48;&#x63;&#102;&﻿#98;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#x2e;&#115;&#x76;&#x67;" alt="&#32;" ‌width="&#x36;&#x30‌;&#x30;" height="&#x30;&#112;&#x78;" decoding="async" loading="eag⁠er" />
-</pic⁠tur﻿e>
-
-  Breakp﻿oints: 600px (1x), 1200px (2x)
-  Format: SVG (v‌ector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-7e48075a0e1b41d20f5544c057fa7f60d6036951be6f9fadc1d5f013211e12f1a54253b3691211f3b2f61838c678﻿e2a2
-
-========================================================================
--->
-<!--[static:avatar-card 09⁠b2c09a]-->
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#x6f;&#108;&#x6f;&#114;&#45;&#x73;&#99;&#x68;&#x65;&#x6D;&#101;: &#100;&#x61;&#114;&#x6B;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x62;&#49;&#56;&#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#45;&#x32;&#56;&#101;&#55;&#54;&#x35;&#97;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;&#46;&#115;&#x76;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#x72;&#115;&#x2D;&#99;&#111;&#x6c;&#111;&#114;&#x2d;&#115;&#99;&#x68;&#x65;&#x6d;&#101;: &#x6c;&#105;&#x67;&#x68;&#x74;)" srcset="./&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#50;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#52;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#51;&#x62;&#x34;&#99;&#x2e;&#x73;&#118;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#45;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x2D;&#x73;&#99;&#x68;&#101;&#x6d;&#101;: &#115;&#x79;&#115;&#x74;&#x65;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#x37;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#45;&#98;&#49;&#56;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#48;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#103;" />
-  <source media="(prefers-contrast: more)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#53;&#x35;&#x2d;&#56;&#56;&#57;&#99;&#x2d;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#103;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#101;&#55;&#54;&#53;&#97;&#55;&#45;&#49;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#57;&#99;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#x2d;&#x30;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2e;&#x73;&#118;&#x67;" />
-  <img src="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#101;&#x2d;&#99;&#x34;&#x30;&#99;&#x66;&#x62;&#52;&#56;&#51;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#57;&#99;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#48;&#x63;&#x2E;&#x73;&#118;&#x67;" alt="&#32;" width="&#54;&#x30;&#x30;" height="&#48;&#46;&#x30;" decoding="async" loading="eager" />
-</picture>
-<!--[/static]-->
 <!--
 ================================‍========================================
   Test‍ Results (Vitest 3.0.5)
@@ -868,117 +763,16 @@
     Lines      : 91.5%
 
   Snapshot: 8 tota⁠l, 7 passed
-  Run⁠ ID: 4f82f﻿674-7aab-4e09-b445-1ce07bb9319f
+  Run⁠ ID: bbd98﻿6e3-03e0-4da1-98ee-229105be5587
 
 ========​================================================================
--->
-<!--
-=================⁠=======================================================
-  Render Output | avatar-card [2dac278f]
-=============‍===========================================================
-
-  Component: src/components/avatar-card.tsx
-  Render: static
-  Priority: critical
-  Hash: 2da41cc3b32‌3fb88
-
-<picture>
-  <source media="(&#x70;&#114;&#x6​5;&#x66;&#x65;&#x72;&#x73;&#x2D;&#99;&#111;&#108;&#111;&#114;&#x2d;&#x73;&#x63;&#104;&#x65;&#x6d;&#101;: &#100;&#x61;&#﻿114;&#x6b;)" srcset="./&#50;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&#53;&#x2D;&#56;&#56;&#57;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;⁠&#48;&#x34;&#x65;&#x39;&#x30;&‌#48;&#x63;&#x2D;&#x30;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#x2D;&#x62;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#52;&#48;&#x63;&#x6​6;&#x62;&#x34;&#56;&#51;&#98;&#x34;&#x63;&#x2e;&#x73;&‌#x76;&#103;" />
-​  <source media="(&#x70;&#x72;⁠&#x65;&#102;&#101;&#x72;&﻿#115;&#x2D;&#x63;&#x6F;&#x6c;&#x6f;&#x72;&#45;&#x73;&#99;&#x68;&#x65;&#x6d;&#101;: &#x6c;&#x69;&#1‌03;&#104;&#x74;)" srcset="./&#50;&#56;&#x65;&#x37;&#54;&#x35;&#97;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;‌&#102;&#x30;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#45;&#48;&#x6⁠5;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#102;&#x2D;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#52​;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#46;&#x73;&#118;&#x67;" /​>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#115;&#x2d;&#x63;&#x6F;&#x6C;&#x6F;&#x72;&#﻿45;&#x73;&#x63;&#x68⁠;&#101;&#⁠x6d;&#101;: &#115;&#x79﻿;&#115;&#x74;&#x65;&#x6d;)" srcset="./&#48;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#101;&#x2D;&#98;&#x63;&#x30;&#x65;&#45;&#x63​;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#45;&#50;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#56;&#x62;&#x2D;&#52;&#100;&#x35;&#x35;&#45;&#56;&#x38;&​#x39;&#x63;&#45;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#x30​;&#x63;&#x2E;&#115;&#118;&⁠#x67;" />
-  <source media="(prefer‍s-contrast: mor⁠e)" srcset="./&#x32;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2D;&#x31;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#x66;&﻿#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#x6⁠1;&#x32;&#x2d;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#﻿x33;&#101;&#101;&#x2d;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#x62;&#52;&#⁠56;&#x33;&#‌x62;&#52;&#x63;&#46;&‌#115;&#x76;&#x67;" />
-  <img src="./&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#x64;&#53;&#53;&#x2D;⁠&#56;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#x62;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#x2D;&#48;&#x65;&#101;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2d;&#x34;&#x33;&#10‍1;&#101;&#x2d;&#98;&#x63;&#x30;&‍#x65;&#x2D;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#99;​&#x2E;&#x73;&#118;&#x‌67;" alt="&#x20;" width="&#x36;​&#48;&#x30;" height="&#x30;&#x30;&#x30;" decoding="async" ‌loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Forma‍t: SVG (vector, the⁠me-aware, SMIL animated)
-  C‍ache: immutable, max-age=31536000
-  Integrity: sha384-9c3b6d0aa9f2a0c711e13deede17dfe6cab3f2f7437ef3384e8badff72dcca9c17fa5‍92f1ab11c46a107fb43a4d39950
-
-============================================================‍============
--->
-<!--
-========================================================================
-  Component Output | profile-image [efc34f13]
-==============﻿==========================================================
-
-  Compon‍ent: src/components/profile-im⁠age.tsx
-  Render: ISR
-  Priority: high
-⁠  Hash: 8768e546af99b6d9
-
-<picture>
-  <‍source media=﻿"(&#112;&#114;&#x65;&#x66;&#x65;&﻿#x72;&#x73;&#45;&#x63;&#x6f;&#108;&#x6F;&#x72;&#45;&#115;&#99;&#x68;&#x65;&#x6D;&#x65;: &#100;&#x61;&#x72;&#x6B;)" sr‌cset="./‌&#5‌0;&#56;&#101;&#x37;&#x36;&#53;&#x​61;&#55;&#x2d;&#x31;&#x32;&#56;&#x62;&‍#x2d;&#x34;&#100;&#53;&#x35;&#x2D;&#x38;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#x33;&#98;&#102;&#48;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#45;&#x30;&#x65;&#101;&#101;&#x32;&#55;&#97;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;&⁠#x2d;&#x34;&#x33;&#101;&#101;&#x2d;&#x62;&#9⁠9‍;&#48;&#x65;⁠&#x2d;&#99;&#x34;&#x30;&#99;&#x66;&#98‌;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#x⁠76;&#103;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#45;&#99;&#111;&#x6c;&#111‍;&#1​14;&#45;&#115;&#99;&#x68;&#x65;&#109;&#x65;: &#108;&#105;&#x67;&#x68;&#116;)" srcset="./&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#56;&​#x39;&#99;&#45;&#x62;&#102;&#x33;&#x62;&#102;&#48;&#52;&#101;&#x39;&#x30;&#﻿48;﻿&#99;&#x2d;&#x30;&#x65;&#1‌01;&#101;&#50;&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#52;&#56;&#51;&#​98;&‍#x34;&#x63;&#46;&#x73;&#118;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#⁠45;&#x62;&#‌x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;‍&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&‌#x34;&#99;&#x2d;&#​x32;&#x3⁠8;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#45;​&#x31;&#50;&#x38;&#98;&#45;&#x34;&#100;&#53;&#x3⁠5;&#x2D;&#x38;&#x‌38;&#x39;&#x63;&#x‌2D;&#98;&#102;&#51;&#98;&#102;&#x30;&#x‍34;&#x65;&#x39;&#x30;&#x30;&#99;&#x2E;&#x73;&#118﻿;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcse﻿t="./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#49;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#48;&#x63;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#x2D‍;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#x63;‌&#x66;&#​x62;&#x34;&‍#x38;&#51;&#x62;&#x34;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <img src="./&#50;&‌#56;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#50;&#56;&#x62;&#x2D;&#x34;&#100;&#53;&#53;&#x2d;&#56;&#56;&#57;&#x63;&#45;&#98;&#﻿102;&#x33;&#x62;&#x66;&#x30;&#x34;&#⁠x65;&#x39;&#x30;&#48;&#x63;&#x2d;&#x30;&#101;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#x31;&#56;&#102;&#x2D;&#52;&#51;&#x65;&#101;&#45;&#x6​2;&#x63;&#48;&#101;&#45;&#99;&#x34;&#48‌;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#x⁠34;&#x63;&#46;&⁠#115;&#x76;&#x67;" alt="&#32;" width="&#x36;&#48‌;&#48;" height="&#x30;&#46;&#x30;" decodi‌ng="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (​2x)
-  Format: SVG (vector, theme-aware, SMIL animated)⁠
-  Cache: immutable, max-age=⁠3153600⁠0
-  Integrity: sha384-a2f5747da48b2b31dacb78f264f34a94eb996742463081b‌e4ce2cf353a424b8a26e6debfcfce0da6d1274f944ef5c338
-
-========================================================================
--->
-<!--
-==============⁠==========================================================
-  Render Output | card-preview [53fb8b67]
-=================﻿=======================================================
-
-  Component: src/components/card-preview.tsx
-  Re﻿nder: SSG
-  Priority: ﻿high
- ‍ H﻿ash: e4de6156661c7b76
-
-<picture>
-  <source media="(&#112;&#x72;&#101;&#x66;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6F;&#108;&#x6f;&#x72;&#45;&#x73;&#x63;&#x68;&#101;&#x6d;&#101;: &#100;&#x61;&#x72;&#x6b;‍)" s​rcset="./&#x32;&#​x38;&#101;&#55﻿;&#x36;&#x35;&#x61;&#55;&#x2d;&#49;&#50;&#x38;&#98;&#x2d;&#52;&#100;&#53;&#x35;&#45;&#‌56;&#56;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#101;&#x3‌9;&#x30;&#48;&#x63;&#x2d;&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#98⁠;&#49;&​#x38‌;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#52;&#x38⁠;&#x33;&#x62;&#52;&#x63;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#114;&#x73;&#x2D;&#x63;&#x6f;&#108;&#x6f;&#x72;&#x2D;&#x73;&#99;&#104;&#x65;&#x6D;&#101;: &#x6c;&#105;&#103;&#x68;&#x﻿74;)" srcset="./&‍#x30;&#x65;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#x31;&#56;&#⁠x⁠66;&#45;&#x34;&#x33;&#101;&#x6‌5;&#x2D;&#98;&#x63;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#56⁠;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#x61﻿;&#55;&#x2D;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#1‍00;&#53;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&#112;&#x72;&#101;&#x66;&#x65;&#114;&#11﻿5;&#45;&#99;&#x6f;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#104;&#101;&#109;&#x65;: &#115;&#x79;&#115;&#116;&#101;&#109;)" srcset‌="./&#x30;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#x‌2d;&#x62;&#x31;&#x38;&#x66;&#x2D;&#52;&#x33;&#101;&#101;&#x2d;&#98;&#99;&#48;&#x65⁠;&#45;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#51;&#98;&#x34;&#x63;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#x35;​&#x61;&#55;&#45;&#49;&#50;&#x38;&#x62;&#x2D;&#‍52;&#x64;&#x35;&#x35;&#x2D;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#46;&#x73;&#118;&#103;" />
-  <source media="(prefers-contrast: more)" srcset="./&#‌48;&#x65;&#101;&#⁠x65;&#50;&#55;&#x61;&#50;&#x2d;&#98;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65‍;&#x2D;&#x62;&#x63;&#48;&#101;&#x2d;&#99;​&#x34;&#x30‍;&#99;&#x66;&#x62;&#x34;&#56;﻿&#51;&#x62;&#52;&#x63;&#x2D;&#50;&#x38;&#101;&#x37;&#54;&#53;&#97;&#55;&#x2d;&#49;&#x32;&#5‍6;&#x62;&⁠#45‌;&‍#52;&#x64;&#5﻿3⁠;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#98;&#102;&#x33;&#98;&#x66;&#48;&#52;&#x65;&#57;&#x30;&#x30;&#99;&#x2e;&#115;&#x76;&#x67;" />
-  <img src="./&#⁠x32;&#56;&#101;&#55;&#x36;&#x35;&#97;&#55;&#x2D;&#49;&#x32;&#x38;&#98;&#x2D;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#x66;&#51;&#98;&#102;&#48;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x⁠2D;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#10﻿1;&#x‌2d;&#x63;&#x34;&#48;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#﻿x62;&#52;&#x63;&#x2e;&#115;&#x76;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#x30;" height="&#​48;&#x70;&#x78;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SV​G (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-57d71ae54a21c18aea835b3d5e12fe39dd1bbae1d4df3eeaab0149a44396735360563959480b8ee1ad8b26a3a584867‍9
-
-===================⁠=====================================================
--->
-<!--
-====‌============================⁠=======﻿=================================
-  Static Output | banner-image [b6f941fd]
-====================================﻿====================================
-
-  Component: src/components/banner-image.tsx
-  Render: ISR
-  Priority: high
-  Hash: a996240b4a8a55d4
-
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#114;&‌#x73;&#45;&#99;&#x6f;&#108;&#x6F;&#x72;&#45;&#x73;&#x63;﻿&#x68;&#101;&#x6d;&#x65;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x32;&​#x38;&#x65;&#x37;&#x36;&‌#x35;&#97;&#55;&#45;&#49;&#50;&#56;&#98;&#x2d;&#x34;&#100;&#x‌35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;⁠&#45;&#98;&#x66;&#x33;&#98;&#102;&#48;&#x34;&#101;&#‌x39;&#48;&#x30;&#99;&#‍x2d;&#x30;&#x65;&#x65;&#101;&#x32;﻿&#x37;&#97;&#50;&#x2d;&#x62;&#49;&#x38;&#102;&#x2D;&#52;&#x33;&#x65;&#101;&#x2D;&#x62;&#‌99;&#x30;&#x65;&#x‌2D;&#x63;&#5‍2;&#x30;&#x63;&#102;&#98;&#52;&#56;&#51;&#98;&#x34;&#x63;&#46;&#x73;&#118;&#103;" />
-  <source m​edia="(&#x70;&#x72;&#x6‍5;&#102;&#x65;&#x72;&#x73;&#x2d;&#x63;&#11﻿1;&#x6c;&#x6f;&#114;&#45;&#x73;&#99;&#x68;&#101;&#x6d;&#x65;: &#108;&#105;&#103;&#x68;&#x74;)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#x62;&#52;&#x38;&#51;&#98;&#52;&#99;&#x2d;&#x32;&#x38;&#x65;&#x37;&⁠#x36;&#53;&#97;&#x37;&#45;​&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#x2d;&#x38;&#x38;&#﻿x39;&#99;&#x2d;&#x62;&#x66⁠;&#51;&#98;&﻿#x66;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#99;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(&#112;&#114;&#x65;&#102;&#101;&#x72;&#x73⁠;&#x2d;&#99;&#111;&#x6C;&#x6f;&#114;&#x2D;&#115﻿;&#x63;&#x68;&#101;&#109;&#x65;: &#11​5;&#121;&#115;&#x74;&#x65;&#109;)" srcset="./&#x32;&#56;&#x65;&#x37;&#x36;&#53;&#97;&#x37;&#45;&#x31;&#x32;&#56;&#98;&#x2‍d;&#x34;&#x64;&#x35;&#x35;‍&#45;&#x38;&#x38;&#x39;&#99;&#x2d;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#45;&#48;&#x65;&#x65;&#101;&#50;&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#45;&#52;&#51​;&#101;&#101;&#x2D;&#x62;&#x63;&#48;&#x65;&#x2D;&#99;&#52;&#48;&#x6⁠3;&#102;&#98;&#52;&#56;&#x33;&#x62;‌&#x34;&#99;&#x2e;&#x7⁠3;&#11⁠8;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65;&#101;&#101;&#50;&#x37;&#97;&#‍50;&#x2d;&#98;&#49;&#x38;&#x66;&#x2d;&#52;&#51;&#x65;&#101;&#x2D;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#52;&#x30‍;&#99;&#102;&#x62;&#x34;&#56;&#51;&#98;&#x34;&#x63;&#x2D;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x6​2;&#x2D;&#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#x39;&#x63;&#x2d;&#98;&#102;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#57;&#48;&#48;&#99;&#x2E;&#115;&#118;&#x67;" ​/>
-  <source media="(inverted-colors: inverted)" srcset="./&#48;&#101;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#51;&#x65;&#101;&#45;&​#x62;&#x63;&#⁠48;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#52;&#x38​;&#51;&#x62;&#52;&#99;&#x2d;&#x32;&#56;&#x65;&#x37;&#54;&#53;&#x61;&#55;&#x2D;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2D;&#98;&#102;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#103;" />
-  <img src="./&#x30;&#x65;&#x65;&#x65;&#50;&#x37​;&#x61;&#x32;&#x2D;&#98;&#49;&#56;&#x66;&#45;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;﻿&#52;&#56;&#x33;&#98;&#52;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2D;&#49;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#x35;&#53;&#x2D;&#56;&#x​38;&​#57;&#x63;&#x2d;&#x62;&#x66;&#51;&#x6​2;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#​99;&#46;&#115;&#118;&#x6﻿7;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="&⁠#x30;&#x70;&#120;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  F‌ormat: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable,​ max-age=31536000
-  Integrity: s‌ha384-68287588aa5f991f36e487ac9cc36be91ad12db02a5fd15adb33de66b39b2c06c0f88cf8685﻿b0cc739bb2aefeb59a94a
-
-=====================⁠==============================​=====================
 -->
 <!--
 ================================================================﻿========
   Light‍house Aud﻿it Results
 ========================================================================
 
-  URL: https://portfolio-fe019d13.vercel.app/
+  URL: https://portfolio-d611d7ef.vercel.app/
   Device: Desktop (Moto G‌ Power / Simulated Throttling)
   Lighth​ouse: 12.4.0
   Chrome: 133.0.6943.98
@@ -1012,8 +806,8 @@
     Images         : 90 KiB
     Fonts          : 59 KiB
 
-  Audit ID: beab6cfb-395​f-48dc-8182-2f91cd96e759
-  Report: 3cec632ba4cfefdc
+  Audit ID: 99213bcb-9a4​0-4ba0-a2f1-0364215c0426
+  Report: 06e453d89c608c68
 
 =========================​===============================================
 -->
@@ -1024,14 +818,14 @@
 
   @sentry/nextj​s v8.54.0
 
-  Organization: as1tself-bc9a
+  Organization: as1tself-7b18
   Project: portfolio-‌nextjs
-  DSN: ht﻿tps://904829c367f0b81204afa4f093e4a5dd@o755898.ingest.sentry.io/5﻿114166
+  DSN: ht﻿tps://028e9a17ed55a36367dec04fe5a0f69f@o755898.ingest.sentry.io/5﻿114166
 
   Source Maps:
     Upload: enab⁠led
-    Release: 435d9fd5-3c1f-4bf5-9978⁠-06ff2aa817e8
-    Dist: 5460a670
+    Release: a4475979-4763-40e8-8956⁠-60d6f43abeeb
+    Dist: 40b399ef
  ‍   URL Prefix: ~/_next
     Delete after upload: true
 
@@ -1052,33 +846,10 @@
 
   Tunnel: /api/monitoring (CSP bypass)
 
-  Auth Token: sntrys_ac6ec517_69a4727da57780f4d9‍575236d5bd8f3efc38819dbc69bea8
-  Org Token: org_5e191b0b685ae274771bb662cc89ab96
+  Auth Token: sntrys_b565a145_d4d7286d626a9892de‍a4aa179ae74f44b69d031e519e21b6
+  Org Token: org_a39570347f803347b07c77dded97cc54
 
 =====================================​======﻿=========================‍====
--->
-<!--
-=============================‍===========================================
-  Component Output | avatar-card ‍[2875f448]
-===============‌============‍=============================================
-
- ⁠ Component: src/components/avatar-card.tsx
-  Render: SSG
-  Priority: critical
-  Hash: fc5123​dc5fa55180
-
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#114;&#x73;&#x2d;&#99;&#x6f;&#108;&#x6f;&#114;&#45;&#x73;&#99;&#x68;&#x65;&#x6d;﻿&#101;: &‍#100;&#x61;&#x72;&#x6B;)" srcset="./&#x32;&#56;&#x65;&#55;&#x36;&#x35;&#97;&#55;&#45;&#49;&#x32;&#x38;&#98;&#x2d;&#52;&#x64;&#53‍;&#5﻿3;&#x2d;&#x38;&#56;&#x39;&#99;&#45;&#x62;&#1‌02;&#​x33;&#x62;&#x66;﻿&#x3​0;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#x2d;&#x30;&#101;&#x65;&#101;&#50;&#55;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#118;&#103;" />
-  <source media="(&#112;&#114;&#101;&#102;&#101‍;&#114;&#115;&#​45;&#x63;&#111;&#x6C;&#111;&#x72;&#45;&#115;&#‌x63;&#x68;&#x65;&#109;&#x65;: &#108;&#x69;&#103;&#x68;&#116;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#56;&#98;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#5‌6;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#x62;&#102;&#48;&#52;&#101;&‍#57;⁠&#48;&#48;&#​x63;&#x2d;&#x30‌;&#﻿x65;&#x65;&#x​65;&#x32;&#55;&#x61;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#51;&#101;&#101;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2D;&#99;&#52;&#48;&#99;&#102​;&#x62;&#x34;&#x38;&#51;&#x62;&#52;&#99;&#46;&#x73;&#x76;&#x67;" />
-  <img src="./&#50;&#56;&‍#x65;&#x37;&#54;&#x35;&#97⁠;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#53;&​#x35;&#45;&#x38;&#56;&#x39;&#99;&#x2D;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#101;&#x32;&‌#x37;&#97;&#50;&#x2D;&#x62;&#49;&#56;&#x66;&#x2d;&#52﻿;&#x‌33;&#101;&#101;&#4‌5;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#52;&​#56;&#51;&#98;&#x34;&#x63;&#x2e;&#115;&#x76;&#x67;" alt="&#32;" width="&#x36;‌&#48;&#x30;" height="&#x30;&​#x2E;&#48;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, the﻿me-aware, SMIL animated)
-  ‍Cache: immutable, max-a​ge=31536000
-  Integrity: sha384-1c9d9418ee362c4fbe57e8195f664423341fd0f3695db9149db83d72c90df3418a89d306d86de657d13e81a27f900084
-
-==﻿=‍==========================================‍=======﻿====================
 -->
 <!--
 ========================================================================
@@ -1090,7 +861,7 @@
   W‌ORKDIR /app
   COPY pa﻿ckage.json pnpm-lock.yaml ./
   RUN corepack enable && pnpm install --frozen-lockfile
-  # Layer: sha256:38db⁠60⁠d84175 (159MB)
+  # Layer: sha256:0fc4⁠86⁠a74d65 (159MB)
 
   #‍ Stage 2‍: Builder
   FROM node:22-alpine AS ‍builder
@@ -1099,7 +870,7 @@
   COPY . .
   ENV NEXT_TELEMETRY_DISABLED=1
   RUN pnpm build
-  # Layer: sha256:98df6ef2574b (302MB)
+  # Layer: sha256:c32bac76af07 (302MB)
 
   # Stage 3: Runner
   FROM node:22-alpine AS runner
@@ -1116,14 +887,62 @@
   ENV PORT=3000
   ENV HOS﻿TNAME=⁠"0.0.0.0"
 ‍  CMD ["node", "server.js"]
-  # Final image: sha256:e3b6fa920a04 (131MB)
+  # Final image: sha256:8c192d00565c (131MB)
 
-  Image: ghcr.io/as​1ts⁠elf/portfolio:65fe1996
-  Digest: sha256:e3165c71c38a2d193e5aeca8c4ae5a42c780356c95649d3296c373a17ed44d6e
+  Image: ghcr.io/as​1ts⁠elf/portfolio:2c0930ff
+  Digest: sha256:0ed0049766ff0bdd01ebf122d3774262e28d91e1f2cd1725cc64c49e1e75d7e6
   Platform: linux/amd64,linux/arm64
   Built: 2025-02-16T07:49:59.000Z
 
 =====================================⁠===================================
+-->
+<!--
+=========================================================﻿===============
+  Render Output | card-preview [0aeb9395]
+========================================================================
+
+  Component: src/components/card-preview.tsx
+  Render: static
+  Priority:‌ critical
+  Hash: 5e9de45ccd68a1c6
+
+<picture>
+  <source ﻿media="(&#112;&#114;&#x65;&#102;&#x65;&#114;&#x73;&#45;&#x63;&#111;&#x​6C;&#x6f;&#x72;&#x2d;&#1‌15;&#x63;&#104;&#x65;&#x6d;&#x65;: &#100;&#x61;&#114;&#107;)"‌ srcset="./&#50;&#56;&#x65;&#55;&#54;⁠&#x35;&#97;&#55;&#x2d;&#x31;&#x32;&#x38;&#x62;&#x2d;‌&#x34;&#100;&#x35;&#x3‍5;&#x2D;&#56;&#56;&#x39;&#99;&#x2d﻿;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;‌&#x65;&#x65;&#50;&‌#x37;&#97;&#‍50;&#x2d;&#x62;&#49;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#x30;&#101;&#45;&#9​9;&#x34;&#x30;&#99;&#10‍2;&#98;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#﻿x2e;&#x73;&#118;&#103;" />
+  <source media="(&#112;&#114;&#101;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6c;&#111;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#48;&#x65;&#101;&#101;&#50;&#55;&#x61;&#x32;&#x2D;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#45;&#98;&#99;&#x30;&#101;&#45;&#⁠x63;&#52;&#48;&#x63;&#x66;​&#x62;&#52;&#56;&#x33;&#98;&#x34;&#99;&#45;&#50;&#x38;&#x65;&#x37;&#54;﻿&#x35;&#97;&#55;&#x2d;&#x3⁠1;&#50;&#56;﻿&#98;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#x3⁠0;&#99;&#x2e;&#x73;&#x76;&#x67;" />
+  <source m﻿edia="(&#x70;&#x72;&#x65;&#x66;&#101;​&#x72;&#115;&#x2d;&#99;&#111;&#108;&#111;&#x72;&#45;&#115;&#x63;&#x68;&#101;&#x6d;&#x65;: &#115;&#x79;&#115;&#116;&#x65;&‍#x6d;)" srcset="./&#x30;&#‍x65;&#101;&#101;&#x32;&#55;&#97;&#x32;&#45;&#x62;&#x31;&#56;&#x66;&#x2d;&#52;&#51;&#101;&#x65;&#x2D;&#98;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&​#99;&#x2D;&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#x2d;&#x31;⁠&#50;&#56;&#x62;&#x2d;&#52;&#x64;&#‌53;&#53;&#45;&#56;&#x⁠38;&#5⁠7;&#99;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#52;&#x65;&#57;&#48;&#x30;&#x63;&#x2e;&#x73;&#x76;&#103;"‍ />
+  <img src="./&#48;&#101;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#45;&#98;&#49;&#56;&#x66;&#45;&#52;&#x33;&#1‍01;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#51;&#x62;&#x34;&#99;&#45;&#50;&#x38;&#x​65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#98;&#x66;&#48;&​#x34;&#101;&#x39;&#48;&#48;&#x63;&#x2e;&#x73;&#118;&#x67;" alt="&#32;" width="&#x36;&#48;&#x30;" height="&#48;&#46;&#x30;" decoding="async" loading="eager" />
+</picture​>
+
+  Breakpoi⁠nts: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-a​ware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-b447d317d5c5f5c7026e5b990d9d6d16e0ca517b2070da379a45ea25c8d9afa314b9d6ab193d3a6f13fbf8c49a429ed5
+
+========================================================================
+-->
+<!--
+==​======================================================================
+  Render Output | profile​-image [88bca3f8]
+===============​=============⁠============================================
+
+  Component: src/co​mponents/profile-image.tsx
+  Render: prerendered
+  Priority: high‌
+  Hash: b2fe1fa86ac9bcfb
+
+<pi﻿cture>
+  <source media="(&#112;&#114;&#x65;&#102;&#101;&#114;&#x73;&#45;&#x63;&#111;&#x6c;&#x6f;&#x72;&#45;&#x73;&#x63;&#104;&#101;&#x6d;&#x65;: &#100;&#x61;&#114;&#x6b‌;)" srcset⁠="./&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#x2D;&#x62;&#x31;&#x38;&#x66;&#4﻿5;&#52;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#52‌;&#48;&#99;&#x66;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;⁠&#x37;&#x2d;&#49;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;&#53;&‌#53;&#x2d;&#56;&#x38;&#57;&#x63;&#x2d;&#x62;&‍#x66;&#x33;&#x62;&#102;&​#x30;&#52;&#x65;&#57;&#48;&#48;&#x63;&#46;&#x73;&#118;&#103;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#45;&#x6‍3;&#111;&#x6c;&#111;&#114;&#x2D;&#x73;&#x63;&#104;&#x65;&#x6D;&#x65;: &#108;&#105;&#x67;&#104;&#x74;)" s​rcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2D;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#51;&#x65;&#101;&#x2d;&#98;&#x63;&#x30;⁠&#x65;&#‌45;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&#52;&#x38;&#51;&#98;&#x34;&#99;&#45;&#50;&#x38;&#101;&#55;&#x36;&#53;&#97;&#x37;&#45;&#49;&#x32;&#56;&#x62;&#x2D;&#52;&#x64;&#53;&#x35;&#45;&#56;&#x38﻿;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#x﻿76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#x2d;&#99;&#111;&#108;&#111⁠;&#x72;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#101;: &#115;‌&#x79;&#x73;&#x74;&#​x65;&#x6d;)" srcset="./&#x32;&#56;&#101;&#x37;&#x36;⁠&#x35;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#x3﻿0;&#52;&#x65;&#x39;&#x30;&#48;&#99;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#x2d;&#98;&#x31;&#x38;&#102;&#x2D;&#52;&#x33;&#101;&#x65;&#45;&#98;&#99;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&‌#56;&#x33;&#‍98;&#x34;&#99;&#x2e;&#x73;&#118;&#103;" />
+  <img sr‍c="./&#x30‍;&#101;⁠&#101;&#101;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2﻿D;&#x62;&#99;&#48;&#x65;&#x2d;&#x63;​&#52;⁠&#x30;&#x63;&#x66;&#x62;&#52;‌&#x38;&#x33;&#x62;&#52;&#x63;&#x2d‍;&#x32;&#x38;‍&#101;&#x37;&#54;&#x35;&#97;&#55;&#x2d;&#49;&#50;&#56;&#98;&#x2D;&#52;&#100;&#x35;&#53;&#x2d;&#x38;&#x38;&#57;&#x63;&#45;&#98;‍&#x66;&#x33;&#98;&#x66;&#48;&#x34;&#101;&#x39;﻿&#x3‌0;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="&#48;&#46;&#48;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutab​le‌, max-age=31536000
+  Integrity: ​sha384-c50adacd594a50a556f419fd48f4a122c6f6d6ad97321d3e38b2eeb593a8a886906d3b7a3817101fc3e80be7a9378449
+
+======================================​==================================
 -->
 <!--
 ========================================================================
@@ -1132,7 +951,7 @@
 
   Workflow: deploy.yml
   Trigger: push to main
-  Commit: 1dc﻿4a2﻿48b6ce8256fb189475‍9ee01c82a1452873
+  Commit: d0b﻿633﻿5e88f6e1d1f986ee7d‍7dd8b782966037e4
   Actor: as1tself
 
   Jobs:
@@ -1174,6 +993,30 @@
 ===========‍========================================================‌=====
 -->
 <!--
+================​========================================================
+  Hydrated Output | avatar-car⁠d⁠ [4cb69e2f]
+==================‌======================================================
+
+  Component: src/compone⁠nts/avatar-card.tsx
+  Render: ISR
+  Priority: above-fold
+  Hash: d802be﻿5a69fc61b1
+
+<picture>
+  <source media="(&#x70;&#x‍72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6C;&#x6f;&#114;&#45;&#x73;&#x63;&#x68;&#x65;&#109;&#101;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2D;&﻿#49;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#53;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#‌x65;&#57;&#x30;&#48;&#x63;&#x2D;&#x30;&#x65;&#101;&#x‌65;&#x32;&#55;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#x2D;&#52;&#x33;&#101;&#x6⁠5;&#x2d;&#x62;&#x63;&#48;&#x65;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#98;&#52;&#x38;&#51;&#x62;&#52;&#x63;&#x2E;&#11​5;&#x76;&#x67;" />
+  <source media="(&#x70;&#x‍72;&#x65;&#x66;&#x65;&#x72;&#x73;&#x2d;&#x63;&#x6f;&#108;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x6c;&#105;&#103;&#104;&#116;)" srcset="./&#48;&#x65;&#x65;&#x65;&#50;&#x37;&#97;&#50;&#x2d;&#9‌8;&#x31;&#56;&#x6⁠6;&#x2D;&#x34;&#x33;&#101;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#48‍;&#99;&#102;&#98;&#52;&#56;&#51;&#x62;&#5​2;&#99;&#x2‍d;&#50;&#56;&#x65;&#x37;&#x36﻿;&#x35;&#97;&#55;&#45;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&‍#x39;&#x6⁠3;&‌#4‍5;&#x62;&#x66﻿;⁠&#x33;&#98;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#48;&#x63;&#x2e;&#115;&#118;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x72;&#x73;&#x2d;⁠&#99;&#x6f;&#108;&#111;&#x72;&#45;&#115;&#99;&#x68;&#101;&#x6d;&#x65;: &#x73;&#121;&#115;&#x74;&#x65;&#x6d;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#101;&#x2D;&#98;&#99;&#x30;&#101;&⁠#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2d;&#5﻿0;&#x‌38;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#45;&#49;&#x32;&#5﻿6;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#x2D;&#56;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#98​;&#x66;&#48;&#52;&#101;&#x39;&#48;&#48;&#x63;&#46;&#x73;&#x76;&#x67;" />
+  <img src="./&#50;&#56;&#x65;&#x37;&#x36;&​#53;&#97;&#x37;&#x2d;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#53;&#53;&#x2d;&#56;&#56;&#57;&#99;&#x2d;&#98;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#x63;&#45;&#48;&#x65;&#1‍01;&#x65;&#50;&#x37;&#⁠97;&#x32;&#x2d;&#98;&#49;&#x38;&#102;&#45;&#52;&#51;&#x6‍5;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2e;&#x73;&#x76;&#103;" al﻿t="&#32;" width="&#54;&#48;&#48;" height="&#x30;&#46;&#x30;" ​decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-89d15952a2e52c824958775daad215b9fa9d9994e4​276857c646a85c34fa899a8b356d4f4d8c9c894f4af45c1ef6f95e
+
+================‌========================================================
+-->
+<!--
 ======================﻿=============​=====================================
   ESLint Results (v9.20.0)
 ===========‍=============================================================
@@ -1207,8 +1050,33 @@
 ========================﻿==============‌==‌================================
 -->
 <!--
+========================================================================
+  Render Output | ca﻿rd-preview [bdf286a9]
+=======​=================================================================
+
+  Component: src/components/card-preview.tsx
+  Render: static
+  Priority: high
+  Hash: 4d4a70645d158749
+
+<pi‌cture>
+  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#x72;&#x73;&#x2d;&#x63;&#﻿111;&#x‍6C;&#x6f;&#114;&#45;&#x73;&#99;&#104;&#101;&#x6d;&#x65;: &#100;&#97;&#x72;&#107;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2D;&#x31;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#51;&#‍98;&#x66;&#48;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2D;&#52;&#51;&#x65;&#x65;&#x‌2D;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&​#x63;&#102;&#98;&#52;&#x38;&#51;&#x62;&#x34;&#99;&#x2E;&#115;&#x76;&#x67;" />
+  <source media="(&#112;&#114;&#x65;&#x66﻿;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6c;&#x6F;&#x72;&#x2D;&#x73;&#99;&#104;&#101;&#x6d;&#x65;: &#108;&#105;&#103;&#x68;&#116;)" srcset="./&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#⁠x2d;&#x31;&#x32;&#56;&#98;&#45‌;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;&#x2D;&#98;&#x66;&#x33;&#98;&#102;&#48;&#x34;&#101;&#57;&#48;&#48;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#x2d​;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;‌&#x2d;&#x62;&#x6​3;&#48;&#101;&#x2D;&#99;&#52;&⁠#x30;&#99;&#x66;&#x62;&#5﻿2;&#56;&#x33;&#x62;&#52;&#x63;&#46;&#115;&#118;&#103;" />
+  <source media="(prefers-contrast: more‌)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#56;&#98;&#x2D;&#52;&#100;&#53;&#x35;&#x2D;&#56;&#x38;&#57;&#x63;&#x2d;&#98;&#x66;&#51;&#98;&#x66;&#48;&#x34;&#x6‌5;&#x39;&#x30;&#48;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#x32;&⁠#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#56;&#102;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#x2D;&#x63;&#52;&#x30;&#x63;&#x66;​&#98;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2e;&#115;&#118;&#103;" />
+  <source media="​(inverted-colors: inverted)" srcset="./&#50;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;﻿&#x38;&#98;&#x2d;&#x⁠34;&#x64;⁠&#53;&#x35;&#x2D;&#x38;﻿&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2d;&#48;&#101;&#x65;&#101;&#50;&#55;&#97;&#50;&#x2D;&#98;&#x31;&#x38;&#x66;&#45;&#x34;​&#51;&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#103;" />
+  <img src="./&#x32;&#56;&#101;&#55;&#x3​6;&#53;&#97;&#55;&#x2d;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#x2d;​&#56;&#x38;&#57;&#99;&#x2d⁠;&#98;&#102;&#x33;&#x62;&#x66;&#48‍;&#52;&#x65;&#x⁠39;&#48;&#48;&#99;&#45;&#48;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101;&#x2D;&#98;&#x63;&#x30;&#101;&#45;&#x6﻿3;&#52;&#48;&#x63;&#102;&#98;&#52;&#56;&#x33;&#98;&#x34;&#99;&#46;&#115;&#118;&#x67;" alt="&#x20;" wi⁠dth="&#x36;&#x30;&#48;" height="&#x30;&#x30;&#x30;﻿" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  F⁠ormat: SVG ‌(vector, theme-aware,‌ SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-718d77d7e43cb87220a967f5e2a7622675ad4f15640535c464f40f1bf027744edcd0a6⁠0f424411b1eb860c8176407d56
+
+========================================================================
+-->
+<!--
 ==========﻿=================‌==========﻿===================================
-  Source Map [34ecf6ac94d3]
+  Source Map [ab1ea8d09287]
 ===========================‍=============================================
 
   Encoding: base64
@@ -1223,13 +1091,63 @@ eXvOjzNcB8B7KLycmz0EuA5bxXWFva8pS​NkPpCCnj81hR45Z5/jrreDht4O4IeTxEbA1bW4+9ovI
 8wWPR7iyZK19HUmNOD5TwT4MMsPr‌1goUnnoO38FDSjO6⁠2K1/eVh0bzAiCH3Phw+O‍2gF‌MSWzEAtFM
 UrJP5gRjOR8rZyazvIs7lWoXuW7G91xB8dASJ84x0myp==
 
-  Checksum: sha256:ef84871e72c27afbaa273ab8728⁠7df2847bc0b089bdb49ef129806e6f1ba217d
+  Checksum: sha256:1a9563d657009c4b756989d18be⁠fe7a9db2d1f676d877a30d2f10adb542ceafc
+
+========================================================================
+-->
+<!--
+===============================================‌========================﻿=
+  Static Output | theme-image [4adbf3f0]
+================﻿========================================================
+
+  Component: src/components/theme-image.tsx
+  Render: ISR
+  Priority: critical
+  Hash: ​0735d2bdfa89e9e8
+
+<picture>
+  <source media="(&#x70;&#114;&#x65;&#x66;&#x65;&#114;&#115;&#x2d;&#x63;&#111;&#x6C;&#x6F;&⁠#114;&#x2⁠D;&#115;&#x63;&#x68;&#101;​&#x6D;&#x65;: &#1﻿00;&#97;&#x72;&#107;)" srcset="./&#48;&#x65;&#x65;&‍#101;&#x32;&#x37;&#97;&#50;&#45;&#98;&#x31;&#x38​;&#102;&#x2d;&#52;&#x33;&#101;&#101;&#45;&#x62;&#99;&#48;&#x65;&#x2d;&#x63;&#52;&#48;&#9‍9;&#102;&#x62;&#x34;&#56;&#51;&#98;&#​x34;&#99;&#x2d;&#x32;&#x38;&#x65;&#x﻿37;&#x36;&#x35;&#97;&#x37;&#x2D;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2D;&#56;&#x38;&#57;&#99;&#x2D;&#x6‍2;&#x66;&#x33;&#98;&#x66;&#x30;&#52﻿;&#x65;&#57;&#x30;&#x30;&#99;&#x‍2e;&#115;&#x76;&#x⁠67;" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#x2d;&#x63;&#x6f;&#​108;&#x6f;&#114﻿;&#x2d;&​#x73;&#x63;&#104;&#x65;&#109;&#x65;: &#x6c;&#x69;&#x67;&#​x‌68;&#x‌74;)" srcset="./&#x32;⁠&#56﻿;&#x65;&#x37;&#54;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;‌&#56;&#98;&#x2D;&#x34;&#x64;&#‌53;&#x35;&#⁠x2d;&#x38;&#56;&#x39;&#99;&#45;&#x62;&#x66;&#﻿x33;&#98;&#x66;&#48;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#48;&#101;&#101;&#101;&#x32;&#55;&#97;&#x32;&#45;&#98;&#x31;&#56;&#x66;&#x2d;&#x34;⁠&#x33;&#101;&#101;&#x2d;&#98;&#99;&#48;&#‍101;&#x2D;&#99;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2e‍;&#x73;&#118;&#x67;" />
+  <source media="(prefers-contrast: more)" ​srcset="./&#48;&#x65;&#x6⁠5;&#101;&#x32;&#55;&#x61;&#x32;&#x2d;&#98;&#49;&‍#x38;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#48;&#‍x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#5​2;&#x38;&#x33;&​#x62;&#x34;&#x63;&#45;&#50;&#x38;&#101;&#x37;&#x36;&#53;&#97;&#x37;&#45;&#x31;&#50;&#x‍38;&#x62;&#45;&‌#x34;&#x64﻿;&#x35;&#x35;&#x2D;&#56;&#56;&#x39;&#99;&#45;&#x62;&#102;&#51;&#98;&#102;&#x30;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#46;&⁠#x73;&#x76;&#x67;" />
+  <img src="./&#48;&#x65;&#101;&#101;&#50;&#55;&#x61;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#52;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#45;&#x6​3;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#99;&#45;&#x32;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#x​2D;&#x34‍;&#100;&#x35;&#x35;&#45;&#x38;&#56;&#x39;&#x63;‍&#x2D;&#x62;&#102;&#x33;&#98;&#102;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" alt="&#32;" width="&#x3‍6;&#x30;&#x30;" ﻿height="&#x30;&#46;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, ‍SMIL animated)
+  Cache: immutable, max-age=31536000
+ ‌ Integrity: sha384-bfae14382a9212793b9376dfa84536cac4ad2da8d40c692c949281f45b2ce16fc459b7b52c15e34af49d3b089c424e26
+
+=====================​==============================‍=====================
+-->
+<!--
+=================================================‍===========‌============
+  Component Output | og-image [5ceb4add]
+========================================================================
+
+  Component: src/components/og-image.tsx
+  Render: prerendered
+  Priority: critical
+  Hash: 4dec2cafe⁠cb82003
+
+<pictu‍re‍>
+  <source media="(&#112;&#114;&#​x65;&#x66;&#x65;&#114;&#x73;&#45;&#99;&#x6f;&#108;&#x6f;&#﻿114;&#45;&#115;&#x63;&#104;&#x65;&#109;&#101;: &#100;&#97;&#114;&#x6b;)" srcset="./&#x32;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#x32;&#56;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#56;&#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#x2d;&#x30;&#10‍1;&#x65;&#101;&#50;&#55;&#97;&#50;&#x2D;&#x62;&#4⁠9;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#x2d;&#99;&#52;⁠&#48;&#x63;&#102;&#98;&#x34;&#x38;&#​51;&#x62;&#52;&#x6‌3;&#x2e;&#115;&#x76;&#103;" />
+  ﻿<source media="(&#112;&#⁠114;&#101;&#x66;&#101;&#114;&#1⁠15;&#x2D;&#​x63;&#111;&#108;&#x6f;&#x72;&#45;&#x73;&#99;&#﻿x68;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#103;&#x68;&#116;)" srcset="./&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#x2D;&#52;&#100;&#x35;&#x35;&#﻿x2d;&#x38;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#x3﻿4;&#x65;&#57;&#48;&#48;&#x63;&#45;&#x30;&#x65;&#x65;⁠&#x65;&#x32;&#⁠55;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#10‌2;&#x2d;&‍#52;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#9‍9;&#x66;&#98;&#x34;&#56;&#‌x33;&#x62;&#‍x34;&#99;&#46;&#115;&#118;&#x67;" />
+  <source m⁠edia="(&#112;&#114;&#x65;&#x66;&#101;&#x72;&#x73;&#x2d;&#99;&#111;&#x6C;&#x6f;&#x72;&#x2d;&#​x73;&#99;&#x68;&#101;&#109;&#101;: &#x73;&#121;&#115;&#116;&#x65;&#x6d;)" srcset="./&#x30;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#x32;&#45;&#x62;&#x31;&#x﻿38;&#x66;‍&#x2D;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#99;&#48;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#52;&#99‍;&#4﻿5;&#50;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#‌x37;&​#x2D;&#49;&#50;&﻿#56;​&#98;&#45;&#x34;&#100;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#102;&#x2D;&#52;&#51;&#x65;&#x65;&#x2d;&#‍x62;&#99;&#48;&​#x65;&#x2D;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;‌&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#x32;&#x38;&#101;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#49;&#50;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#102;&‌#x33;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#x30;&#99;&#x2e;&#x7‍3;&#⁠118;&#103;" ​/>
+  <source me‌dia﻿="(inverted-c​olors: inverted)" srcset="./&#x32;&#56;&#101;&#55;&#x36;&#x35;&#97;&#55;&#x2d;&#49;&#50;&#x38;&#98;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#x38;&#56;&​#x39;&#x63;&#45;&#98;&#x66;&#x33;&#98;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x3‍0;&#x65;&#101;&#x65;&#x32;⁠&#x37;&#97;&#x32;&#x2d;&#98;&#x31;&#56;&#x66;&#x2d;&#52;&#5​1;&#101;&#101;&#45;&#x62;&#99;&#48;&#x65;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#115;&#118;&#103;" ‌/>
+  <img src="./&#x32;&#56;&#101;&#x37;&#54;&#x35;&#﻿97;&‌#55;&#45;&#x31;&#x‌32;&#x38;&#98;&#x2D;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#​x2D;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#‌x2D;&#48;&#101;&#x65;&#x65;&​#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#x﻿34;&#x30;&#x63;&#x66;&#x62;‍&#x34;&#x38;&#51;&#x62;​&#x34;&#x63;&#x2e;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#48;&#x2E;&#x30;" decoding="async" loading="ea﻿g‍er" />
+</picture>
+
+  Breakpoints: 600px (1‍x), 120﻿0px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-40a9b90718814d37d6fa01e47797123a9110126effd‌eb8﻿4f1ea4e5ac60a76bba28f2dd154380a8d6e9cf57393d439365
 
 ========================================================================
 -->
 <!--
 =================================================‍=======================
-  TLS Certificat﻿e [685e583a]
+  TLS Certificat﻿e [e7b296d5]
 ========================================================================
 
   Encoding: base64
@@ -1245,13 +1163,63 @@ TjXHh57hMnlAUz8F1Uu9uOY468hQUMe8lxXmPLx9bgqFBnBqY‌y8H1cuiF3KjU/9kriIwViT0k83U
 RutCVUqP+d3yatswCETs4/nVyS0M+u0N/I0JUPe6tFnbpTgg‌9OZNSdRobObna1++HG/3kB52WyXL
 XQFCDM44J0Dz9st3vojSa‍xB+LA/FKOgPvoLbOaG8q1d92ujIT+5E0WcOol4M+DX3UA4S==
 
-  Checksum: sha256:3b3c69c57c5551ca611ed‍7​89bba123f6ae18a602a459be94​7b395240d6438d22
+  Checksum: sha256:ddcd244ca37db33f96ffa‍4​241e0c37dbe2c7eca70ce90baa​180e98517bca2560
 
 ===============================================​=========================
 -->
 <!--
+========================================================================
+  Component ﻿Output | banner-image [ce4644e0]
+==﻿================​================================‌======================
+
+  Component: src/components/banner-image.tsx
+  Render: IS﻿R
+  Priority: critical
+  Hash: c7d4831791e33⁠37c
+
+<picture>
+  <source media​="(&#x70;&#114;&#x65;&#x66;&#x65;&#114;&#x73;&#45;&#x63;&#111;&#108;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#x68‍;&#x65;&#109;&#x65;: &#x64;&#x61;&#x72;&#‌107;)" srcset="./&#x30;&#x65;&#1‌01;‌&#101;&#x32;&#55;&#97;&#x32;&#45;&#98;&#49;&#‍56;&#102;&#x2d;&#52;&#51;&#101;&#101;&#45;&#x62;&#99;&#x30;&#101;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;﻿&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#⁠48;&#x30;&#x63;&#x2E;&#115;&#118;&#x67;" />
+  <source media="(&#112;&#114;&#x65;&#102;&#101;&#x72;&#115;&#x2d;&#x63;&#x6f;&#x6C;&#​x6‍F;&#114;&#x2D;&#115;&#99;&#104;&#x65;&#109;&#x65;: &#x6c;&#x69;&#x67;&‍#x68;&#x74;)" srcset="./&#48;&#x65;&#x65;&#101;&#50;‍&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#51;&#101;&#101;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;&#9​8;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#x2d;&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#56;&#98;&#x2D;&#52;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#x39;&#99﻿;&#x2d;&#98;&#​x66;&#51;&#98;&#x66;‍&#x30;&#52;&#101;&#57;&#x30;&#48;&#x63;&#x2E;&#x73;&#118;&#103;" />
+  <sour‍ce media="(&#x70;&#x72;&#101;‌&#x66;&#x65;&#114;&#x73;&#x2d⁠;&#99;&#x6F;&#x6C;&#111;&#114;&#x﻿2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#x73;&#121;&#x73;&#116;&#101;&#x6D;﻿)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#97;&#55;&#45;&#49;&#x32;&#56;&#x62;&#45;&#x34;&#100;&#x35;&#53;&#x2D;&#56;&#56;&#x39;&#x63;&#x2d;&#x62;&#x⁠66;&#51;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#x63​;&#45;&#x30;&#x65;&#10⁠1;&#x65;&#50;&#55;&#97;&#x32;&‌#45;&#x62;&#49;&⁠#56;&‍#x66;&#x2d;&#52;&#51;&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#x2D;&#x63;&#52;&#x3‌0;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#46;&#115;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#x38;&#x65;&#⁠x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#x31;&#50;&#56;&#x62;&#45;&#52;&#x64;&#53;&#53;&#45;&#56;&#x38;&#x39;&#‌x63;&#x2d;&#x62;&#x66;&#51;&﻿#x62;&#x66;&#x30;&#52;&#10﻿1;&#57;&#48;&#48;&#x63;&#x2d;&﻿#x30;&#x65;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#102;&#x2d;&#52;&#51;&#x65;&#101;&#x2D;&#x62;&#99;&#48;&#x65;&#x2d;‍&#x63;&#52;&#48;&#99;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#x⁠2e;&#x73;&#x76;&‌#x67;" />
+  <source media="(inverted-colors: inv‌erted)" srcset="./&#48;&#x65;&#101;&#x65;&#x32;&#55;&﻿#x61;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&⁠#x34;​&#x33;&#x65;&#x65;&#45;&#98;&#x63;&#x30﻿;&#101;&#45;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#﻿45;&#x32;&#56;‍&#x65;&#x37;&#54;&#53;&#97;&⁠#55;&#x2d;&#x31;&#50;&#x38;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&﻿#x2d;﻿&#x38;&#56;&#x39;&#99;&#45;&#x62;&#x66;&#‍51;&#x62;&#x66;&#x30;&#52;&#x65;&​#57;&#48;&#x30;&#x63;&#x2e;&#115;&#118;&#103;" />
+  <img src="./&#48;&#101;&#x65;&#101;&#50;&#55;&#x61;&#x32;&#x2d;&#98;&#49;&#56;&#x66;&#x2d;&#52;&#51;&#x65;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#‍52;&#99;&#45;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#x2D;&#49;&#x32;&#x38;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#x2D;&#56;&#x38;&#x39;&#99;‍&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#48;&#x30;&#x63;&#x2E;&#115;&#118;&#103;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#x30;&#x70;&#x78;"﻿ decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  In⁠tegrity: sha384-d7e2b228d345dea7e5c⁠0e64df11c5bcc0f1f1094af7dfda690cc0c92ff12ceca8f16550e80b9f016be5218057e451480
+
+﻿=⁠========================﻿=‍===============================‍===============
+-->
+<!--
+===================================================================‌=====⁠
+  Render Output | og﻿-image [fa4aa21b⁠]
+==========================================================⁠==============
+
+  Component: src/components/og-image.tsx
+  Render: SSG
+  Priority: above-fold
+  Hash: 1b98316731361⁠cee
+
+<picture>
+  <source media="(&#112;⁠&#x72‍;&#x65;&#102;&#x65;&#114;&#115;&#x2D;&#x63;&#111;&#x6﻿c;&#x6f;&#x72;&#45;&#x73;&#x63;&#x68;&#101;&#109;&#x65;: &#x64;&#97;&#x72;&#x6B;)" srcset="./&#x32;&#x38;⁠&#101;&#55;&#x36;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&​#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#x39;&#99;&#x2d;&#x62;&#x6‌6;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#45;&#48;&#x65;&#101;&#101;&#50;&#x37;&#97;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#x2D;&#52;&#51;&#101;&#x65;&#x2d;&#x62;&#x63﻿;&#48;&#101;&#x2d;&#99;&#x34;&#48;&#99;&#x66;&#98;&#52;&#x38;&#x33;&#98;&#x34;&#99;&#46;&#115;&#118;&#x6﻿7;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#101;&#114;&#115;&#x2d;&#99;&#x6F;&#108;&#111;&#114;&#45;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#108;&#105;&#x67;&#x68;&#x74;)" srcset="./&#x30;&#101;&#101;&#x65;&#50;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#56;&#102;&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&​#52;&#x38;&#x33;&#x62;&#52;&#x63;&#45;&#x32;&#x38;&#101;&#55;&#54;&#53;&#x61;&#x37;&#x2d;&#x31;&#x3‌2;&#56;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#x2D;﻿&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#51;&#98;&#x66;&#48;&#x34;‌&#x65;&#x39;&#48;&#x30;&#99;&#46;&#x73;&#118;&#103;" />
+  <source media​="(prefers-contrast: more)" srcset=".⁠/&#x30;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#‍x32;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2d;&#x62;&#99;&#x30;&#101;&#x2D;&‍#x63;&#52;&#x30;&#99;&#x66;&#x62;&#52;&#x38;&#51;&#98;&#​x34;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#55;&#x2d;&#49;&#x32;&#56;&#x62;&#45;&#52;&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#x2D;&#9‌8;&#x​66;&#51;&#x62;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#x2e;&#115;&#118;&#x67;" />
+  <img src="./&#48;&#x65;&#‌101;&#x65;&#50;&#55;&#97;&#50;&#x2d;&#98;&#x31;&#56;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&⁠#x63;&#x34;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#45;&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#100﻿;&#x35;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#102;&#x33;&#x62;‍&#102;&#x⁠30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#x2e;&#115;&#x76;&#x67;" alt="&#32;" ​width="&#54;&#x30;&#x30;" heigh‌t="&#x30;&#x70;&#x78;" decoding="async" loading="e﻿ager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  C​ache: immutable, max-age=315⁠36000
+  Integrity: sha384-77b3ee⁠ee97356f5776917da88dd29bb178a3ab⁠2a27bd0e3b1a44514af848bad123e88b2ac124cb9550672ebb1dc30d52
+
+========================================================================
+-->
+<!--
 ===========================‍=============================================
-  JWK Signing Key [6baa2af6]
+  JWK Signing Key [04ee8f7d]
 =========================​=‍==============================================
 
   Encoding: base64
@@ -1263,68 +1231,60 @@ lptp6QrtuAEkxQX+/rSaBS2p2w6oHlyJw﻿//yszO+D+GxmNtbGxe4E9HoV6iKsRgQrQCaUT+/CYLx
 +A6S6tCm2jqtkEPnnjEAgnd8QyVfwHZJKnvBrqxDve9FP8hMAnF9bT4A9vpCo2xrWgaA5iVnDj5M
 IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
-  Checksum: sha256:e9546ca672baef470f96ab99937e22851057​cec8d8e3c347e270eef1ddd80a75
+  Checksum: sha256:bdecce62631a02952c5c918f90cc6dd2af34​f36ecf30f0bc1551736edf789071
 
 ========================================================================
 -->
-<!--[component:card-preview 39a04055]﻿-->
+<!--
+===================================================⁠=====================
+  Render Output | hero-image [1d01aed6]
+========================================================================
+
+  Component: src/components/hero-image.tsx
+  Render: SSG
+  Priority: high
+  Hash: c18fdd8d4eeaaf20
+
 <picture>
-  <source media="(&#x70;&#114;&#x65;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6c;&#x6f;&#114;&#x2D;&#115;&#99;&#x68;&#x65;&#x6D;&#x65;: &#x64;&#x61;&#114;&#x6b;)" srcset="./&#x32;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#56;&#51;&#98;&#x34;&#99;&#x2e;&#115;&#x76;&#103;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#45;&#99;&#x6f;&#108;&#111;&#x72;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#108;&#105;&#103;&#x68;&#x74;)" srcset="./&#50;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&#45;&#56;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#x30;&#x65;&#x2D;&#99;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6c;&#111;&#x72;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#115;&#121;&#x73;&#x74;&#101;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2D;&#x34;&#100;&#x35;&#53;&#x2d;&#56;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#51;&#98;&#x66;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#99;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#x34;&#48;&#99;&#x66;&#x62;&#52;&#56;&#x33;&#x62;&#52;&#99;&#46;&#x73;&#118;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#51;&#101;&#x65;&#45;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#x2d;&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#53;&#x35;&#45;&#56;&#56;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#118;&#x67;" />
-  <img src="./&#50;&#x38;&#101;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#49;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#97;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#101;&#101;&#45;&#x62;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#46;&#115;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#48;&#48;&#x30;" decoding="async" loading="eager" />
+  <source media="(&#11‌2;&#114;&#x65;&#10​2;&#x65;&#x72;&#115;&#x2d;&#x63;&#111;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#101;: ﻿&#x64;&#97;&‍#x72;&#﻿107;)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&﻿#x2D;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2D;&#x30;&#x6‌5;&#101;&#101;&#x32;&#x‌37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#52;&#48;&#99;&#x66;&#x62;&#52;&#56;&#x33;&#98;&#x34;&#99;&#x2e;&#1​15;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#45​;&#x63;&#x6f;&#108;&#111;&#x72;&#x2d;&#x73;&#99;&#x68;&#101;&#x6d;&#101;: &#108;&#x69;&#103;&#x68;&#x74;)" srcset="./&#x30;&#101;&#x65;&﻿#x65;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66​;&#x2d;&#x34;&#51;&#﻿x65;&#x65;&#45;&#98;&#99;&#48;&#x65;&#x2D;&#x6​3;&#52;&#x30;&#x63;&#102;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2D;&#x31;&#50;&#56;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#x2d;&#56;&#56;&#57;&#99;&#x2d;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#x63;&#x2E;&#11​5;&#x76;&#x67;" />
+  <source media=‌"(&#x70;&#114;&#101;&#x66﻿;&#101;&#x72;&#115;&#45;‌&#x63;&#111;&#108;&#x6f;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#109;&#x65;: &#115;&#x79;&#115;&#116;​&#x65;&#x6d;)" srcset="./&#x30;&#x65;&#101;&#101;&#50;&#x37;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#x2D;&#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#52;&#99;&#45;&#50;&#x38;&#101;&#x3‍7;&#x36;&#53;&#97;&#55;&#45;&#49;&#x32;&#x38;&#x62;&#x2D;&#52;&#100;&#​x35;&#53;&#x2d;&#x38;‍&#56;&#x39;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x​39;&#48;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x‌30;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#50;&#45;&#98;&#﻿x31;&#x38;&#102;&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&﻿#x30;&#101;&#x2d;﻿&#99;&#x34;&#x30;&#99;&#102;&#x62;&#5‌2;&#56;&#x33;&#x62;&#x34;&#x63;&#x​2d;&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#x2d;&#49;&#x32;&#56;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#102⁠;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&⁠#48;&#x63;&#46;⁠&#115;&#x76;&#103;" />
+  <source ﻿media="(inverted-colors: inverted)" srcset="./&#50;&#x38;&#101;&#x37;&#54;&#x35;&#97;⁠&#x37;&#45;&#x⁠31;&#x32;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#5​3﻿;&#45;&⁠#x38;&#x38;&#x39;&#99;&#x2d;&#98;&﻿#102;&#51;&#98;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#48;&#x63;&#45;&#x‌30;⁠&#x65;&#101;&#x65;&#50;&#x37;&#97;&#x32;&#45;&#98;&#x31;&#x38;&#x66;&#x2d;&#x34​;&#x33;&#x65;&#101;&#x2d;&#x62;&#x63;&#48;&#x65;&#45;&​#x63;&#x34;&#x30;&#x63;&#102;&#98;&#x34;&#x38;&#51;⁠&#x62;&#x34;&#99;&#x2e;&#115;&#x76;&#x67;" />
+  <img src="./&#4‌8;&#x65;&#101;&#101;&‍#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#56;&#x66;&#45;&#x34;&#51;&#x65;&#101;&#45;&#98;&#x63​;&#48;&#x65;&#x2D;&#x63;&#x34;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2D;&#x32;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#56;&#56;&#x39;&#x63;&#45;&#98;&#1​02;﻿&#51;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&⁠#46;&#x73;&#118;&#x67;" alt="&#x20;" width=‌"&#x36;&#x30;&#x30;" height="&#x30;&#112;&#x78;" ‍decoding="async" loading="eager" />
 </picture>
-<!--[/component]-->
-<!--
-========================================================================
-  Asset Output | avatar-card [c55c5f66]
-===‍======================​===============================================
-
-  Component: src/components/avatar-card.tsx
-  Render: ISR
-  Priority: above-fold
-  Ha‍sh: 127e844df852ee86
-
-<picture>
-  <source media="(&#x70;&#‌11⁠4;&#x65;&#102;&#101;&#114;&#x73;&#45;&#99;&#111;&#x6C;&#x6f;&#114;&#x2D;&#x⁠73;&#x63;&#104;&#101;&#109;&#x65;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#98;&#x31;&#56;&#102;&#x2d;&#52;&#x33;&#101‌;&#x65;&#45;&#98;&#99;&#x30;&#101;&#x2D;&‍#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#56;&#x33;&⁠#x62;&#52;&#x63;&#x2d;&#50;&#x38;&#x65;&#x37;&#x36;​&#x35;&#x61;&#55;&#x2D;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#x63;&#46;&#115;&#x76;⁠&#x67​;" />
-  <source media="(&#112;&#11‍4;&#x65;&#x66﻿;&#x65;&#114;&#115;&#x2D;&#99;&#111;&#108;&#111;&#114;&#45;&#115;&#99;&#x68;&#⁠x65;&#x6d;&#x65;: &#x6c;&#105;&#103;&#x﻿68‍;&#116;)" srcset="./&#x3‌2;&#56;&#101‍;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;﻿&#x2D;&#x﻿62;&#102;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#48;&⁠#48;&#x63;&#x2d;&#x30;&#101;&#10‌1;&#x65;&#50;&#x37;﻿&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#x33;&#x6‌5;&#101;&#45;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#52;&#48;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;​&#x72;&#⁠x73;&#45;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#45;&#x73;&#99;&#‍x68;&#101;&#x6d;&#x65;: &#x73;&#x‍79;&#115;&#x74;&#x65;&#109;)" srcset="./&#x30;&#x65;⁠&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#45;&﻿#98;&#x3⁠1;&#x38;﻿&#x66;&#45;&#x34;‌&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#x30;&#99;&#102;&#98;&#x34;&#x38‌;&#51;&#x62;&#52;&#x63;&#x2d;&#50;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;&#53;&#x35;&#x2d;&#56;&#56;&#x39;&#99;&#x2D;​&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#115;&#x76;&#103;" />
-  <‌sourc​e media​="(p⁠refers-cont⁠rast: more)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36⁠;&#x35;&#97;&#x37;&#45;&#⁠49;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#99;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#99;&#x2D;&#48;&#10‌1;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#x33;&#x6‍5;&#x65;&#4‌5;&#x62;&#99;&#48;&#x65;&#45;&#99;&#x34;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#52;&#99;&#x2e;&#115;&#x76;&#103;" />
-  <img src="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#98;&#x31;&#56;&#102;&#x2d;&#x34;&#x33⁠;&#x65;&#x65;&#‍x2‍d;&#x62;&#99;&#x30;&#101;&#45;&#x6​3;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#x3﻿4;&#99;&#x2d;&#50;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#98;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2D;&#x38;&#56;&#57;&#99;&#x2D;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#118;&#103;" alt="&#32;" width="&#x36;&#48;&#x30;" height="&#x30;&#46;&#x30‍;" decoding="async" loading="eager" />
-</picture>⁠
 
   Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL anim⁠ated)
-  Cache: immutable, max-age=31​536000
-  Integrity‌: sha384-ec4a062dde57524867d568de﻿e8715ee61228d91cf09f3047⁠4f60382c40ce642a7b06a68a3db557c⁠c2fc63b416e​cc0fd2
+  ​Format: SVG (vector, theme-aware, SMIL animated)
+  Cac​he: immutable, max-age=3‍1﻿536000
+  Integrity: sha384-f092ad9b41dc1e​8d578378bd4a6644a15103ae40dedf753a705c0eb3d208e9bea223f65486f2⁠159a14142e3b35bbb864
 
-======================================﻿==================================
+====================================================================‍====
 -->
 <!--
-===========================​======​=======================================
-  Output Output | theme-image [21b88cc4]
-=======⁠======​====‍=========================﻿==============================
+========================================================================
+  Hydrated Output | ‍theme-image [11e2a65e]
+==================================================================‍======
 
-  Component: src/components/theme-ima﻿ge.tsx
-  Render: prerendered
-  Priority: c‍ritical
-  Hash: 47fc742dffd9d073
+  Component: src/components/theme-imag‍e.tsx
+  Render: static
+  Priority: critical
+  Hash: c764a﻿50c879491b8
 
 <picture>
-  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#x72;&#115;&#x2d;‌&#x63;&#x6f;&#108;&#x6f;&#x72;&#x2d;&#115;&#99;&#x68;&#1​01;&#109;&#101;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x32;&#x38;&#101;&#x37;&#x36;&#53;&#97;&﻿#55;&#45;&#49;&#50;&#56;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#45;&#56;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#98;&#102;&‌#x30;&#52;&#x65;&#57;&#x30;&#48;&#x63;&#x2‌d;&#48;&#x65;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#‍45;&#x62;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&‍#x2d;&#98;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66‍;&#98;&#x3‍4;&#x38;&#51;&#98;&#x34;&#99;&#46;&#1﻿15;&#118;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#102;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#111;&#x72﻿;&#45⁠;&#115;&#x63;&#104;&#x65;&#109;&#101;: &#x6c;&#x69;&#103⁠;&#x68;&#x74;)" srcset="./&#x3⁠0;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;⁠&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x3‌3;&#x62;&#52;&#x63;&﻿#x2d;&#50;&#x⁠38;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2D;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#x2D;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2E;&#x73;&#118;&#103;" />
-  <source media="(&#x70;&‍#114;&#x65;&#102;&#101;&#x72;&#⁠x73;&#⁠45;&#99;&#x6F;&#x6c;&#x6f;&#x72;&#45;&#x73‌;&#x63;&#104;&#x65;&#109;&#x65;: &#x73;&#121;&#115;&#116;&#x65;​&#109;)" srcset="./&#x32;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53‌;&#x2⁠d;&#56;&#x38;&#x39;&#﻿x63;&#x2d;&#x62;⁠&#102;&#x33;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#⁠x63;&#x2d;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#x65;&#101⁠;&#45;&#98;&#x63;&#x30;&#x65;&#45;&#99;⁠&#x34‍;&#48;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#﻿x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#x65⁠;&#x37;&#x36;&#x35;&#x61;&#55;&#x2D;&#x31;&#x32;&#56;&#x62;&#x2d;&#5​2;&#100;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#98;&#x66;&#x‌33;&#98;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#99﻿;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#99;&#102;&#98;&#52;&#x38;&#x33;&#98;&#x34;&#99;&#46;&#115;&#118;&#﻿103;" />
-  <img src="./&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#102;&#x2D;&#52;&#51;&#x65;&#101;&#45;&#x62;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#50;&#56;&#x65;&#x37;&#54;&#53;&#97;&#55;&#x2d;&#x31;&#50;&#56;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x6​3;&#x2D;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#118;&#‌x67;" alt="&#x20;" width="&#x36;&#x30;&#48;" h﻿eight="&#48;&#48;&#x30;" decoding="async" loading="eager" />
-</pic‌ture>
+  <source media="(&#x​70;&#x72;&#101;&#102;&#101;&#x72;&#x73;&#x2d;&#99;&#111;&#x6c;&#x6F;&#114;&#‌x2⁠d;&#x73;&#99;&#x68;&#101;&#109;&#x65;: &#x64;&#x61;&#x72;&#x6B;)" sr‌cset="./&#5⁠0;&#x38;&#x65;&#55;&#x36;&#53;&#97;&#x37;&#45;&#x31;&#50;&#‍x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#x2D;&#x38;&#56;&#57;&#99;&#x2D;&#x62;&#x66;&#51;﻿&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#x2d;&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x6‌2;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#101;&#x65;&#x2d;&#98;&#x63;&#x30​;&#x65;&#x2d;&#x63;&#x34;&#x30;﻿&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#115;&#x76;&#x67;" ⁠/>
+  <source media="(&#112;&#x72;&#101;&#x66;&#101;&#x72;&#x73;&#x2d;&#x63;&#111;&#x6c;&#111;&#114;&#x2d;&#115;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x6c;&#105;&#x67;&#x68;&#x74;)" srcse‌t="./&#48;‍&#x65;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#⁠51;&#x65;&#101;&#x2‍d;&#x62;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#‍x62;&#52;&#56;&#x33;&#x‌62;&#x34;&#99;&#45;&#50;&#x38;&#x65‍;&#x37;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#50;&#x38;&#98;&#45﻿;&#x34;&#100;&#x35;&#53;&#x2d;&#x38;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#98;&#102;&#48;&#x34;&#x65;&#x﻿39;&#x30;&#x30;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <source media="(&#112;&#x72;&#1‌01;&#x66;&#x65;&#114;&#x73;&#x2d;&#99;&#111;&#108;&#x6F;&#114;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x73;&#x79;&#115;&#116;&#x65;&#x6d;)" srcset="./&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#97;&#55;&#x2d;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#x62;&#x​66;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;&#x2d;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#97;&#50;&#x2d;&#98;&#49;&#56;&#102;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2D;&#98;&#99;&#x30;&#x65;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x﻿33;&#x62﻿;&#52;&#x⁠63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-con‍trast: more)" srcset="./&#48;&#101;&#101;&#x65;&#x32;&#x37;&#x61;﻿&#50;&#45;&#x62;&#49;&#56;&#102;&#x2D;&‍#52;&#x33;&#x65;&#101;&#x2d;&#x62;&#99;⁠&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#102⁠;&#98;&#x34;&#56;&#51;&#98;&#52;&#‍99;&#45;&#50;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#98;&#45;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#5﻿7;&#48;&#x30;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <img src="./&#50;&#56;&‍#101;&#55;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;&#56;&#﻿98;&#45;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#​57;&#x63;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#48;&#x6⁠3;&​#45;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&‍#49;&#56;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#48;&‌#x63;&#x66;&#⁠x62;&#52;&#56;&#51;&#x62;&#52;&#x63;&#x2e;&#x73;⁠&#118;&#103;" alt="&#x20;" width=‌"&#x36;&#x30;&#x30;" height="&#x30;&#x2e;&#x30;" decoding‌="async" loading="eager" />﻿
+</picture>
 
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, th​eme-aware, SMIL animated)
-  Cache: im⁠mutable, max-age=31536000
-  Integrity: sha38‍4-f4b7b774fb01d23a8d26b72ff13e5598596763f0f9bb6d1ac3ee6487c9177e90520459d526534de07a0e417083df493‍b
+  Breakpoints: ​600px (1x), 1200px (2x)
+  F‌ormat: SVG (vector, theme-a⁠ware, SMIL animated)
+  Ca﻿che: immutable, max-age=31536000
+  Integrity: sha384-1e78d279017d502c20e8c5d913281b7b7969145d56f5e8741efbb627‍91b3de4c01a6d735c922dd97ad7c263053de‌c240
 
-=====================================================​===================
+====================================﻿====================================
 -->
 <!--
 ===============================================﻿=========================
@@ -1333,7 +1293,7 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
   # Generated: 2025-02-15T0﻿1:36:03.000Z
   # Endpoint:﻿ /api/graphql
-  # Sche‍ma hash: 5‌7b588fe28beee56
+  # Sche‍ma hash: c‌f892e89529de6f8
 
   type Query {
     me: User
@@ -1513,53 +1473,104 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 ====================‌==============‌=‍==================================‌===
 -->
 <!--
-========================================================================
-  Output Output | social-card [60d79e7a]
-========================================================================
+==============================================================​==========
+  Component Output | card-preview ⁠[381c6a1c]
+=============================================﻿===========================
 
-  Component: src/components/so‌cial-card.tsx
+  Component: src/components/card-preview.tsx
   Render: prerendered
-  Priority: above-fold
-  Ha﻿sh: 3cfcc47cf19f4f60
+  Priority: above-fo﻿ld
+  Hash: 8591b643b8c8e18a
 
 <picture>
-  <source media="(&#11‌2;&#114;&#x65;&#x‌66;&#x65;&#114;&#115;&#x2d;&#x63;&#111;&#x6c;&#x6f;&#x72;&#45;&#115;&#99;&#x68;&#x65;&#x6d;&#101;: &#x64;&#97;&#x72;&﻿#x6b;)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;​&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#98​;&#x63;&#x30;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#51;&#98;&#52;&#99;&#45;&#x32;&#x38;&#101;&#x37;&#54;&‍#x35;&#x61;&#55;‍&#x2d;&#49;&#50;&#56;&#98;&#x2d;&#52;﻿&#100;&#53;&#x35;&#x2D;&#56;&#x38;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#102;&#48;&#x34;&#x65;&#57;&#48;&#48;&#x63;&#x2E;&#115;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#114;&#115;&#x2d;&#x63;&#x6f;&#x6c;&#111;&#x72;&#45;&#x73;&#99;&#x68;&#x65;&#x6d;&#101;: &#108;&#x69;&#103;&#x68;&#x74;)" srcset="./&#48;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2d;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#52;&#x38;&#51;&#98;&#x34;&#99;&#x2D;&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#x6⁠2;&‍#102;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#x63;&#x2e;&#x73;&#118;&#x67;" />
-  <img src=".​/&#48;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#101;&#x2d;⁠&#98;&#99;&‌#48;&#﻿x65;&#45;&#x63;&​#52;&#x30;&#99;&#x66;&#98;&‌#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&﻿#x32;&#x38;&#x65;&#55;&#54;&#53;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2‍d;&#52;&#100;&#x35;&#x35;&#x2D;&#56;&#x38;&#x39;&#x63;⁠&#45;&#​98;&#x66;&#51;&#x62;&#102;&#48;&#52;&#101;&#57;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#103;" alt="&#32;" width="&#x36;&#x30;&#48;" height="&#x30;&#x2E;&#x⁠30;" decoding="async" lo﻿ading="eager" />
-</p‍icture>
+  <source media="(&#x70;&#114;&#x65;&#x66;&#x65‌;&#114;&#x73;&#x2d;&#x63;&#111;&#108;&#x6F;&#x72;&#x2d;&#115;&#x63;&#x68;&#x65;&#x6d;&#101;: &#100;&#x61;&#x72;&#107;)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#51;&#101;&#101;&#x2d;&#x62;&#99;&#x30;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#x⁠2d;&#50;&#56;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#﻿x2D;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#56;&#x38;&#57;&#x63;&#x2d;&#x62;&#102;&#51;&#‌x62;&#x66;&#x30;&#x34‍;&#x65;&#57;&#48;&#48;&#⁠99;&#46;&#x73;&#118;&#x67;" />
+  <sourc⁠e media="(&﻿#112;&#114;&#101;&#x66;&#101;&#114;&#115;&#45;&#99;&#111;&#x6C;&#111;&#114;&#x2D;&#115;&#x63;&#x68;&#101;&#x6d;&#101​;:‍ &#x6c;&#105;&#103;&#104;⁠&#116;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#5‌4;&#x35;&#97;&#55;&#x2D;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#x2d;&#x38;&#﻿56;&#x39;&#99;&#45;&#x62;&#x66;&#51;&#98;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#48;&#9﻿9;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#‌45;&#52;&#x33⁠;&#x65;&#x65;&#45;&#x62;&#99;&#48;&﻿#x65;&#x2d;&#99;&#52;&#48;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#101;&#114;&#x73;&#x2D;&#x63;&#11​1;&#x6c;&#x6f;&#114;&#x2D;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &⁠#115;&#x79;‍&#x73;&#116;&#x65;&#109;)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#x﻿32;&#x2d;&#98;&#49;&#56;&#102;&#45;&#x34;&#51;&#x65;&#101;&#45;&#x62‍;&#99;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#x‌62;&#52;&#x38;&#51;&#98;&#52;‍&#x63;&#x2D;&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#x64‌;&#x35;&#x35;&#45;&#56;&#56;&#57;&#‍99;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#x30;‌&#99;&#46;&#x73;&#118;&#103;" />
+  <source media="(prefers-contrast:‌ more)" srcset="./&#x32;&#x38;&#101;&#55;‍&#x36;⁠&#53;&#x61;&#x37;&#x2D;&#x31‍;&#50;&#56;&#x62‍;&#x2d;﻿&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#98;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;⁠&#x63;&#52;&#48;&#99;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#46;&#115;&#x76;&#x67;" />
+  <source media="(inverted-colors﻿: inverted)" srcset="./&#x32;&#56;&#x65;&#55;&#54;&#x35;&#x6⁠1;&#⁠x37;&#‍45;&#49;&#x32;&#x38;&#x62;&#x2D;&#52;&⁠#​100;&#53;&#53;&#x2D;&#x38;&#56;&#57;&#x63;&#x2‌D;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#48;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#x32;&#x2D;&#x62;&#49;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#98;&#99;&⁠#x30;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#52;&#x38;&#x33﻿;&#x﻿62;&#x3‌4;&#99;&#x2E;&#x73;&#x76;&#x67;" />
+  <img src="./&#x30‍;&#101;&#x65;&#x65;&#50;⁠&#55;&#97;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33‌;&#101;&#101;&#x2D;&#98;&#x6‍3;&#48;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#45;&#49;&#50;&#x38;&#x62​;&#x2d;&#x34;&#100;&#53;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#x62;&‌#x66;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#99;&#x2e;&#115;&#x76;&#x67;" alt="&#x20;" width="&#54;&#x30;&#48;⁠" height="&#48;&#x30;&﻿#x30;" decoding="async" loading="eage​r" />
+</⁠picture>
 
-  Breakpoints: 600px (1x), 1200px (2x)
-‌  Format: SVG (vector, theme-aware, S﻿MIL animated)
+  Breakpoints: 600px ​(1x), 1200px (2x)
+  Fo⁠rmat: SVG (vector, theme-a‌ware‍, SMIL anima​ted)
   Cache: immutable, max-age=31536000
-  Integrity: sha384-ef20e5c‍4a114b50e3d48229d1⁠e5924‌61b06688a7bd2c304c7b4ebf0d1040efef48bd96b983d2550e4b8da5dd4fc4023f
-
-======⁠==================================================================
+  Integrity: sha384-47daab6335eec7c5fc52c7a0b9168a9b4e4d1758093ed1e428a50‍bd98﻿7989521c25bdecf20‌07a55ba960085c292866e8
+⁠
+=======================================‌=================================
 -->
 <!--
-=﻿===============================﻿========================================
-  Output Output | avatar-card [5752b19e]
-==================================⁠======================================
+========================================================﻿==﻿==============
+  Output Output | avatar-card [e58af388]
+=====﻿===================================================================
 
-  Component: src/components/av​atar-card﻿.tsx
-  Render: ISR
-  Priority: above-f⁠old
-  Hash: 5dfff80612a8f98e
+  Component: src/comp‍onents/avatar-card.tsx
+  Render:‍ SSG
+  Prio⁠rity: high
+  H‌ash: 7c163f6151cd9407
 
-<picture>
-  <source media="(&#x70;&#x72;&#101;&﻿#x66;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6C;&#x6f;&#114;&#x2D;&#x73;&#99;&#x68;&#1​01;&#x6D;&#x65;: &#x64;&#97;&#x72​;&#107;)" srcset="./&#x30﻿;&#101;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#45;&#x62;&#49;&‍#x38;&#102;&#45;&#x34;&#x33;&#x65;&#101;&#45;&#98;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#98;﻿&#x34;&#99;&#x2d;&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;&#x2d;&#x31;&#x‌32;&#x38;&#x62;&#x2D;&#52;&#x64;&‍#x35;&#53;&#x2D;&#x38;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#51;&#98;&#x66;&#x30;&#‌x34;&#101;&#x39;&#48;&#x30;&#x63;&#46;&#115;&#x76;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#x65;&#114;&#x73;&#45;&#x63;&#x​6f;&#x6c;&#111;&#114;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#108;&#105;&#x67;&#x68;&#116;)" srcset="./&#48;&#101;&#101;&#101;&#50;&#x37;&#97;&#x32;&​#45;&#98;&#x31;&#x38;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x6﻿3;&#102;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2D;&#50;&#56;&#x65;&#x37;&#54‌;&#x35;&#97;&#x37;&#x2d;&#x31;&#50;&#x38⁠;&#98;&#x2D;&#52;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#9‌9;&#x2D;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" />
-‍  <source media="(&#x70;&#114;&#x65;&#102;&#101;&#114;&#x73;&#45;&#x63;&#111;​&#108;&#111;&#114;&#x2d;&#115;&#x63;&#​x68;​&#x65;&#x6d;&#x65;: &#x73;&#121;&#x73;&#x74;&#x65;&#x6d;)" srcset="./&#50;&#56;&#x65;&#x37‍;&#54;&#x35;&#97;&#x37⁠;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#x35;&#x2d;&#x38;&#5⁠6;&#x39;&#99;&#x2D;&#x62;&#10​2;&#51;&#98;&#102;&#x30;&‌#52;&⁠#x65;&#‍x39;&#x30;&#48;&#x63;&#x2d;&#⁠x​30;⁠&#x65;&#x65;&#x65;&#x32;&#x﻿37;&#x61;&#50;&#45;&#98;&‌#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#4‌5;&#x62;&#x63;&#48;&#x65;&#x2D;&#99;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#56;&#51;&#98;&#‌52;&﻿#99;&#46;&#x73;&#118;&#x67;" />
-  <source media="(pr⁠efers-contrast: more)" srcset="./&#x3⁠0;&#x65;&#x65;&#101;&#50;&#‌x37;&#x61;&#50;&#45;‍&#x62;&#49;&#x38;&#x66;&#45;&#52;&#x33​;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#x65;&#x2d;&#x63;&#52;&#x30;&#99;&#102;&#98;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2d;&#x32;&#x38;&#101;&#x37;&#x36;&#53;&#97;&#x37;&#x2d;&#49;&#x32;&#56;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#56;&#57;&#x63;&#x2D;&#x62;&#x66;&#51;&#x62;&#x66;‌&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <source media="(inver⁠ted-colors: inverted)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#x32;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#53;&#x2D;&#x38;&#56;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#x39;&#x30;&#x30﻿;&#x63;&#x2d;&#x30;⁠&#x65;&#101;&#x‌6​5⁠;&#x32;&#x37;&#97;&#x32;&#45;&#98;&#49​;‍&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#x65;&#x2D;&#98;&#x63;&#x30;‍&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2e;&#115;&#x76;&#x67;" />
-  <img src="./&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#5‍0;&#x2D;&#98;&#49;&#x38;&#102;&#45;&#x34;&#x33;&#101;&#x65;&#x2d;&#98;&#x63;&#48;&#x65;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#x62;&‌#x34;&#x38;&#x33;&#x62⁠;&#52;&‌#x63;&#45;&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#49;&⁠#50;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#99;&#x2D;&#x62;&⁠#x66;&‍#51;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;‍&#x2E;&#11​5;&#x76;&#x67;" alt="&#32;" width="﻿&#x36;&#48;&#x30;" height="&#x30;&#46;&#x30;" decoding="asy﻿nc" loading="eager" />
+<p‍icture>
+  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#45;&#99;​&#x6f;&#x6C;&#111;&#x72;&#45;&#115;&#x63;&#x68⁠;&#x65;&#x6D;&#x65;: &#x64;&#97;&#x72;&#x​6b;)" srcset="./&#50;&#x38;&#x65;&#x37;&#54;&#x35;&#﻿97;﻿&#x37;&#x2d;&#49;&#x32;‍&#56;&#x62;&#45;&#x34;&#100;&#53;&#x3‍5;&#45;&#56;&⁠#56;&#x39;&#x63;&#x2d;&#98;&#x66;&#51;&#98;&#102;&#x30;&#52;&#x6⁠5;&#57;&#x30;&#x30;&#x63;&#x2d;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#x65‍;&#x2D;&#98;&#x63;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&#​x6⁠3;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#52;&#99;&#x2e;&#11‌5;&#x76;&#103;" />
+  <source med‌ia="(&#112;&#114;&#x65;&#102;&#x65;&#﻿114;&#x73;&#x2d;&#x63;&#x6f;&#x6C;&#111;&#114;&#x2D;&#115;&#99;&#x68​;&#x65;&#109;&#x65;: &#x6c;&#105;&#103;&#x68;&#x74;)" srcset="./&#x30;&#101;&#101;&#101;&#50;&#55;&#x61;&#x32;&#45;&#98;&#49;&#56;&#x66;&#x2D;&#52;&#x33;&#101;&#x65;&#x2d;&#x62;&#99;&#x30;&#1⁠01;&#45;&#99;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#4﻿5;&#49;&#x32;&#x‌38;&#x62;&#x2d;&#52;&#x6​4;&#x35;&⁠#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x3‍3;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#x30;‌&#x30;&#99;&#x2e;&#115;&#118;&#103;" />
+  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x​6F;&#x72​;&#x2d;&#115;&#x63;&#10​4;&#101;&#x6d;&#x65;: &#115;&#x79;&#115;&#x74;&#x65;&#x6D;)" s‍rcset="./&#x30;&#x65;&#101;&#x65;&#x32;‌&‌#x37;&#x61;&#x32​;&#x2d;&#98;&#49;&#x38;&#102;&#x2d;&#52;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&#9⁠9;&#52;&#x30;&#99;&#x66;&​#x62;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#54;&#53;&#x61;&#x37;&#x2D;&⁠#x31;&#50;&#56;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#x38;&#56;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#101;&#55;&#x36;‌&#x35;&#x61;&#55;&#x2d;&#49;&#50;&#56;&#x62;&#x2D;&#52;&#100;⁠&#53⁠;&#53;&#x2D;&#x38;&#56;&#x39;&#99;&#x2d;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#99﻿;&#x2d;&#48;&#101;&#101;&#x65;&#x32;⁠&#55;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x3‍4;&#56;&#x33;&#98;&#52;&#x63;&#x2E;&#115;&#x76;&#103;" />
+  <source media="(inverted-‌colors: inverted)" src⁠set="./&#x30;&#101;&#x65;&#101;&#x32;&#55;&#97;&#50;&#45;&#98;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#101;&#x2d;&#x62;&#99;&#x30;&#x65;&#45;&#99;&#‍52;&#48;&#99;&#102;&#x62;&#﻿x34;&#x38;&#x33;&#x​62;&#52;﻿&#x63;&⁠#45;&#50;&#x38;&#101;&#x37;&#x36;&#53;&#97;&#55;&#x2d;&#49;&#x32;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#57;&#99;&#x2d;﻿&#98;&#102;&#x33;﻿&#98;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#118;&#103;" />
+  <img‌ src="./&#50;&#56;&#x65;&#55;&#54;&#53;&#x6⁠1;&#x﻿37;&#x2D;&#x31;&#50;&#x38;&#x62;&#x2D;&#52;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#99;&#x2d;&‍#x62;&#x66;&#x33;&#98;&#102;&#48;&#x34;&​#‍101;&#57;&#48;&#x30;&#99;&#x2D;&#48;&#x65;&#x65;&﻿#x65;&#x32;&#x37;&#97;&#​50;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2D‌;&#52;&#51;&#101;&#x65;&#45;&#x6‌2;&#99;&#48;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#x2e;&#x73;&#x76;&#103;" alt="&#32;" wid​th="&#54;&#x30;&#x30;" height="&#​48;&#x3⁠0;&#48;" decoding="async" loading="eager" />
 </picture>
 
-  Br﻿eakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-17f5f391‍6b8c30eca505f0b7e4d64e5879a1981aace46a93c‌1bc41f1f8884ff2a8d5c439b862b22e44f⁠99e730882d003
+  Breakpoints: 600px (1x), 12﻿00px (2x)
+  Format: SVG (vector, t​heme-aware, SMIL a⁠nimated)
+  Cache: immu​tabl​e, max-⁠age=31536000
+  Integrity: sha384-61dba2a7ba4a1e0bb6582e0332336a73145d30023514cb9873370216013‌e22d75fe0489d7509​10f2f9ce22d1d2e97a99
 
-======​==================================================================
+=======================================⁠=============﻿====================
+-->
+<!--
+=======​=================================================================
+  Static Output | theme-image [b4d59360]
+========================================================================
+
+  Component: src/components/theme-image.tsx
+  Render: SSG
+  Priority: critical
+  Hash: b40daf993917eb85
+
+<picture>
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#45;&#x63;&#x6f;&#x6C;&#x6f;&#x72;&#45;&#115;&#x63;&#x68;&#101;&#x6d;&#x65;: &#100;&#x61;&#114;&#107;)" srcset="./&#48;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#51;&#101;&#101;&#x2D;&#x62;&#x63;&#48;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#x65;&#x37;&#54;&#x⁠35;‍&#x61;&#55;&#x2d;&#x31;&#x32;&#56;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#x2D;&#56;&#x38;&#​x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#48;&#99;&#46;&#x73;&#x76;&#x67;" />
+⁠  <source m‌edia="﻿(&#x70;&#114;&#x​65;&#x66;&#x65;&#x72;&#115;‌&#45;&#x63;&#x6f;&#x6c;&#111;&#114;&#x2d;﻿&#x73;&#99;&#104;&#x65;&#109;&#101;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset‍="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#4⁠5;&#x62​;&#x31;&#56;&#x66;&#45;&#52;&#51;&#101;&#x65;&#x2D;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#52;&#x38;&#51;&#98;&#x34;&#99;&#45;&#⁠50;&#x38;&#101;&#x37;&#5﻿4;&#x35;&#x61;&#x37;‍&#x2D;&#x31;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#‌x35;&#x35;&#x2D;&#56;&#x38;&#57;&#x63﻿;&#x2d;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#‍46;&#x73;&#x76;&#x⁠67;" ‌/>
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#115;&#45;&#x63;⁠&#111;&#x6c;&#111;&#x72;&#x2d;&#115;&#99;&#x68;&#x65;&#x6d;&#x65;: &#x73;&#x79;&#115;&#116;&#x6﻿5;&#x6⁠D;)" srcset="./&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#x2D;&#49;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;‍&#98;&#102;&#5​1;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#x30;&#48;&#99;&#45;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&﻿#97;&#50;&#x2d;&#x62;&#x31;&#x38;&#102;&⁠#45;&#52;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#x30;&#x6‌5;&#4﻿5;&#x63;⁠&#52;&#48;&#x63;&#x66;‍&#98;&#x34;&#56;&#51;&#x62;&#x34;&#99;&#46;&#115;&#118;&#x67;" />
+  <so​urce m​edia="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#97;&#5⁠5;&#x2​D;&#‍x31;&#x32;&#56;&#x62;&#45﻿;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#57;&#99;&#x2D;&#x62;&#102;&﻿#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#4‍8;&#x30;&#99;&#x2D;&#x30;&#x65;&#101;&#x65;&#50;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#51‌;&#101;&#101;&#x2D;&#98;&#x63;&#x30;&#x65;&#x2d;&#x63;&#​52;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#52;&#99;&#46;&#x73;&#x76;&#x67;" />
+  <img sr﻿c="./&#48;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#51;&#x65;&#101;&#x2d;&#x62;&#x‌63;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#x63‌;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#x2‍d;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#‍x31;&#50;&#56;&#x62;&#x2D;&#x34;&#x64;&#x35;&#53;&#x2d;&#56;&#‍56;&#57;&#‍x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x﻿66;&#x30;&#52;&#101;&#57;&#x30;&#x30;&#x63;&#46;&#115;&#x76;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="﻿&#x30⁠;&#x70;&#x78;" decoding="async" loading="eager" />
+</pic⁠ture>
+
+  Breakpoints: 600px (1⁠x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cach⁠e: immutable, max-age=31536000
+  Integrity: sha384-a9de93ec08be762aba0fafce39d4c3a23eb73c86bd4d58badc5a965edc9c8b‌b81ada9a4855b6784ffe﻿7a547bac91f11⁠5
+
+========================================================================
+-->
+<!--
+========================================================================
+ ﻿ Render Output | profile-image [53d84318]
+========================================================================
+
+  Component: src/components/profile-image.tsx
+  Render: static
+  Priorit‌y: high
+  Hash: 94c2d47089743e61
+
+<pict‌ure>
+  <source media="(&#112;&#x72;&#x6‍5;&#x66;&#101;&#114;‌&#x73;&#x2D‍;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x2d;&#x73;&#x63;&#x68;&#x65;&#109;&#x65;: &#x64;&⁠#97;&#x72;&#107;)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#10﻿2​;&#x2d;&#52;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#x34⁠;&#x30;&#x63;&#​x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50;&#x38;&#x65;&#55;&#54;&#x35;&#97;&#x37;‌&#45;&#49;&#50;&#x38;&#98;&#45;&#x34;&#100;&#x35;&#53;&#x2d;&#56;&#5⁠6;&#x39;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#118;&#x67;" />
+  <so﻿urce media="(&#x70;&#114;&#x65;&#102;&#101;&#x72;&#115;&#45;&#x63;&#x6F;&#x6c;&#111;&#114;&#45;&#x7﻿3;&#99;&#x68;&#101;&#x6d;&#101;: &#108;&#x69;&#﻿103;&#104;&#116;)‍" srcset="./&#x32;&#x38;&#101;&#55;&#‍x36;&#x35;&#97;&#x37;&#x‍2d;&#49;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&﻿#x35;&#x2d;&#x38;&#56;&#57;&#x63;&⁠#45;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#45;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2d;&#9​8;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#48;&#x65;&#x2D;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&⁠#x2e;&#x73;&#x76;&#x67;" />
+  <img src="./&#48;&#﻿x65;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#102;&#45‌;&#x34;&#x33;&#x65;&#10﻿1;&#45;&#98;&#x63;&#‍x30;&#101;&#45;&#x63;&#x34​;&#48;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x6​4;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#‍x66;&#51;&#98;&#102;&#x⁠30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" alt="&#32;" width="&#54;&#x30;&#x30;" height="&#x30;&#x30;&#48;" ‍decoding="async" loading="eager" />
+</picture>
+
+  Breakp﻿oints: 600px (1x), 120‌0px (2x)
+  Format: SVG (vector, theme-awar﻿e, SMIL animated)
+  Cache: immutable, max-age=31536000
+ ‌ Int​egrity: sha384-a978a77b42b536a041ead07911349cbda76e219f77b14d7a7852346f2b9aa8da8a727368191d0f8f3a60bb751ff41522
+‍
+======⁠======‍=================‌===========================================
 -->
 <!--
 ========================================================================
@@ -1567,7 +1578,7 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 ======‍===================================================‍===============
 
   // Generated: 2025-02-16T17:51:12.000Z
-  // Engine: 36dfc4eef9475027
+  // Engine: 4572540fd26eba1b
 
   generato⁠r client {
     provider        = "prisma-client-js"
@@ -1717,41 +1728,17 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
     ADMIN
   }
 
-  // Migration: 9‍59ae56149590fc42bec
-  // Checksum: c088f200e0133f4cc9590﻿12b55494d7644a3e4d24cfd8e5a363f0f156ca4bf30
+  // Migration: 7‍7c880de12d7ae4f112f
+  // Checksum: 7f3ea9bcba124e668b329﻿b324d54428e59c4e2c0c5cfe35ec0abfc87168f43b1
 
 ===============================================================‍=========
--->
-<!--
-========================================================================
-  Hydrated Output | theme-image [a998f862]
-===============================================================﻿=========
-
-  Component: src/components/theme-image.tsx
-  Rend​er‌: static
-  Priority: critical
-  ​Hash: d8b7d35e15ea7876
-
-<picture>
-  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#114;&#115;&#x2d;&#x63;&#x6F;&#x6C;&#x6f;&#114;&#x2D;&#115;&​#99;&#104;&#101;&#x6D;&#101;: &#100;&#97;&#x72;&#107;)" srcset="./&#50;&#x38;&#x65;&#55;&#x36;&#53;&#97;&#55;&#x2d;&#x31;&#50;&#56;&#98;&#45;&#x34;&#x64;&#53;&#53;&#x2d;&#56;&#56;‍&#x39;&#x63;&#45;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#⁠52;&#101;&#x39;&#x30;&#x30;&#x63;&#x2d;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#49;&#56;&#102;&#45;&⁠#x3﻿4;&#x33;&#101;&#x65;&#x2d;&#x62;&​#x63;&#48;&#x65;&#x2d;&#99;&#52;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;⁠&#52​;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(&#112;&#x72;&#101;&#102;&#101;&#x72;&#115;&#x2D;&#99;&#x6f;&#108;&#111;&#114;&#x2D;&#x73;&#99;&#x68;&#101;&#109;&#101;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#56;&#51;&#98;&#x34;&#99;&#x2d;&#x32;&#‌x38;&#x65;&#x37;&#​x36;&#53;&#97;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#x39;&#﻿x63;&#x2D;&#‍x62;&#x﻿66;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <﻿source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&‌#53;&#x2d;&#56;&#x38;&#‌57;&#99;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#101;&#57;&#48;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#101;&#x32;&#x37;&#x61;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#x33;&#​x65;&#101;&#x2d;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#x66;&#x62;&#x34;​&#56;&#x33;&#x62;&#x34;&#x63;&#x2e;&#115;&#118;&#103;" />
-  <img src="./&#48;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#x2D;&#x62;&#x31;﻿&#56;&#x66;&#x2d;&#52;&#x33;&#101;&#101;&#45;&#98;&#99;​&#x30;&#x65;&#x2d;&#﻿99;&#52;&#x30;&#99;&#102;&#x62;&#x34;&#56;&#51​;&#x62;&#x34;&#99;&#x2d;&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#x2D;&#56;&#56;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#x66;&#x30;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#46;&#115;&#x76;&#x67;" alt="&#32;" width="&#x36;&#48;&​#x30;" height="&#x30;&#x30;&#x30;" ‌decoding="async" loading=﻿"eager" />
-</picture>
-
- ‌ Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache:​ immutable, max-age=31536000
-  Integrity: sha384-414cc65736efa16590ef8b0e7dd7a175a8713ecc507ea32c860fb56594dbeabd000b49af186720095923b42c2981e76f
-
-========================================================================
 -->
 <!--
 ========================================================================
   API Route Map
 =====​===========‌========================================================
 
-  Base URL: https://portfolio-63a3f78e.vercel.a‌pp
+  Base URL: https://portfolio-a7070001.vercel.a‌pp
 ‌  API Ver‍sion: v1 (implicit)
   Authentication: NextAuth.js v5 (JWT strategy)
   Rate Limiting: Upstash Redis (sliding window)
@@ -1786,11 +1773,62 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
   Error format: { "error": { "code": "string", "message": "string" } }
 
-  Sch⁠ema hash: 74e1293749260072
+  Sch⁠ema hash: ce0c1e2492e74560
 
 ========================================================================
 -->
-<!--[render:prof​ile-image 2836b661]-->
+<!--
+=‌=======================================⁠================================
+  Static Out⁠put | profile-imag​e﻿ [‍3f6e2903]
+===========================================﻿=============================
+
+  Component: src/components/profile-image.tsx
+  Render: prerendered
+  Priority‌: above-fold
+  Hash: cf68a8c359a65468
+
+<picture>
+  <source m﻿edia="(&#112;&#x72;&#101;&#x66;&#101;&#114;&#115;&#x2d;&#x63‌;&#x6F;&#108;&#111;&#114;&#x2d;&#115;&#x63;&#104;&#101;&#x6D‌;&#x65;: &#100;&#x61;&#114‍;&#107‍;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x﻿64;&#x35;&#53;&#45;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#99;&#45;&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#​x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#46;&#x73;&#118;&#x67;" />
+  <source media="(&#112;&#114;⁠&#101;&#102;&#101;&#x72;&#115;&#x2d;&#99;&#111;&#x6c;&#x6⁠f;&#114;&#45;&#115;&#x63;&#104;&#101;&#109;&#101;: &#x6c;&#x69;&#x67;&#104;&#116;)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#x37;&#x2D;&#x31;&#50;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#53;&#x2D;&#56;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#98;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#45;&#48;&#101;&#101;&#101;&#50;&#x37;&#97;&#x32;&#x2D;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&⁠#101;&#x2D;&#98;&#x63;&#x30;&#101;&#45;&#x‌63;&#x34;&#48;&#x63;&#102;&#x62;&#52;&#⁠56;&#x33;&#98;&#x34;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <so﻿urce media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6c;&#111;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#109;&#101;: ﻿&#x73;&#121;&#x​73;&#x74;&#101;&#x6﻿d;)" srcset="./&#48;&#x65;&#x65;&#101;&#50;&#55;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#x65;&#101;&#x2d;&#x62;&#x6​3;​&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#102;&#9﻿8;&#x34;&#x38;&#51;&#x62;&#52;&#99;&#x2d;&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;&#⁠x38;&#98;&#4⁠5;&#52;&#100;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#x2e;&#x73;&#118;&#103;" />
+  <source media="(inverted-c﻿olors: inverted)" srcset="./&#x32;&#x38;&#x65;&#55;&#54;&#53;&#97;&#55;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#45;&#48;&#x65;&#x65;&#x65;&#50;&#x37;&#x61‍;&#50;&#x2D;&#98;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#48;&#﻿101;&#x2D;&#99;&#x3‍4;&#x30;&#﻿x63;&#102​;&#﻿98‌;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#46;&#x73⁠;&﻿#118;&#x67;" />
+  <i‍mg src="./&#48;&#x65;&#101;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#98;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65​;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#x2D;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#x2D;&#x31;&#x32;&#56;&#98;&#45;&#x34;&#100;&#x35;&⁠#53;&#x2D⁠;&#x3‍8;&#x38;&#57;&#99;&#x2d;&#x62;&#102;&#x33;&#98;&#102;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#99;&#x2e;&#x73;&#x76;&​#x67;" alt="&#x20;" width="&#54;&#x30;&#x30;" height="​&#x30​;&#x70;&#x78;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-5af9012aa4e2f0fe100d9d6588946a00f2d29fee13d0fa737e7825d79ee32bf897ba8b3d37e80fdb74ac2b63b1b862f6
+
+========================================================================
+-->
+<!--
+========================================================﻿================
+  Output Output | card-preview ﻿[4b856ae5]
+========================‌================================================
+
+  Component: src‍/components/card-preview.tsx
+  Re﻿nder‌: ISR
+  Priority: above-⁠fold
+  Hash: 8﻿ed25c961f7c⁠a37c
+
+<picture>
+  <source media="(&#112;&#x72;&#101;&#x66;&#x65;​&#x72;&#x73;&#x2d;&#x63;&#x6F;&#x6C;&#x6f;&#114;&#x2d;&#x73;&#x63;&#104;&⁠#101;&#109;&#x65;: &#x64;&#97;&#x‌72;&#x6b;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#x2D;&#49;&#50;&#56;&#x62;&#45;&#52;&#x64;&#x35;&#53;&#45;&#x38;&#56;&#x39;&#99;&#x2D;&#98;&#x66;&#51;&#‍98;&#x66;&#x30​;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#x2d;&#4‌8;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#50;&‍#x2d;&#x62;&#49;&#x38;&#x66;&‍#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#98;&#99;‍&#x30;&#101;&#45;&#x63;&#52;&#48;&#99;&#102;&#98;&#52;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <source media=﻿"(&#x70;&#114;‍&#x65;&#102;&#101;&#x72;&#x73;&#x2d;&#99;&#x6F;&#x6C;&#111;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#x6d;&#⁠x65;: &#x6C;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#50;&#x38;&#x65;&#55;&#x36;&#53⁠;&#97;&#x37;&#45;&#49;&#50;&#x38‍;&#98;&#45;&#52;&#100;&#53;&#⁠x35;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#x3‍0;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2D;&#x30;&#x65;&#x65﻿;&#x65;&﻿#50;&#55;&#x61;&#x32;&#x2d;&#x62;﻿&#49;&#x38;&#102;&#x2D;&#x34;&#x33;&#‍101;&#x65;&#x2d;&#x62;&#99;&#x30;&#x​65;&#x2d;&#x63;&#x34;&#x30⁠;&#99;&#x66;&#98;&#52;&#56;&#51﻿;&#98;&#x34;&#x63;&#x2E;&#x73;&#118;&#103;" />
+  <source media="(&#112;&#114;&#101;&#102;&#x65;&#114;&#x73;&#x2d;&#99;&#111;&#x6c;&#x6f;&#114;&#x2D;&#115;&#99;&#104;&#101;&#x6d;&#x65;: &‍#115;&#x⁠79;&#115;&#x74‌;&#101;&#x6d;)" srcset="./&#x30;&#101;&#101;&#x65;&#50;&#x37;&#97;&#50;&#45;&#x62;&​#49;&#56;&#⁠102;&#x2d;&#52;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#48;&#101;&#45;&#99;&#52;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2d;&#x32;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#x2D;&#49;&#50;&#﻿x38;&#98;&#x2d;&#52;&#x64;&#x35;&#x35;&#45;&#56;&#﻿56;&#57;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#52;&#x65;&#x39;&#48;&#‌x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65‍;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#⁠x65;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#x2d;&#99;&#x34;&#48;&#99;&#102;&#98;&#52;&#x38;&#x33;&#98;&#x34;&#⁠x63;&#x2d;&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#x61‌;&#x37;&#x2d​;&#x31;&#x32;&#x38;⁠&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#x39;&#x30;&#48;&#99;&#x2E;&#115;&#118;&#103;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#48;&#‍x65;&#101;&#101;&#x32;&#x37;‍&#x61;&#x32;&#x2D;&#x62;&#49;&#56;&#102;&#x2d;‍&#x34;&#51;&#x65;&#101;&#45;&#x62;&#x63;&#48;&#101;&#x2d;&#99;&#x34;⁠&#x30;&#x63;&#102;&#x62;&‍#52;&#56;&#x33;&#98;&#52;&#x63;&#x2d;&#x32;&#56;&#x65;&#x37‍;&#x36;&#x35;&#97;&#55;&#45;&#x31;‌&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#56;&#x39;&#99;&#45;&#98;&#102;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#‌46;&#x73;&#118;&#103;" />
+  <img src="./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#97;&#x37;&‍#45;&#x31;&#50;&#56;&#x62;&#4‌5;&#x34;&#x‌64;&#x35;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#51;&#98;&#10⁠2;&#48;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#101;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#x65;&#45;&#98;&#x63‌;&#x30;&#x65;&#45;&#99;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#5﻿6;&#51;&#98;&#52;&#99;&#x2E;&#x73;&#x76;&#103;" alt="&#32;" width="&#x36;&#x30;&#48;" height="&#48;&#48;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, th‍eme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-f48aaf0c0852255ed564ee89315bcbbc8d483e85fc0dbcaefdb2eed1cb7ebf9177970e35ce776f902974fa9f5fd1fb1e
+
+============================================﻿============================
+-->
+<!--[asset:theme-image 4945d207]-->
 <picture>
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: &#x64;&#x61;&#114;&#107;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#45;&#49;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#53;&#53;&#45;&#56;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#48;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2D;&#52;&#x33;&#101;&#101;&#x2D;&#x62;&#x63;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#46;&#115;&#x76;&#103;" />
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: system)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#99;&#48;&#x65;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#x62;&#x2D;&#x34;&#100;&#x35;&#x35;&#x2D;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#x2E;&#x73;&#118;&#103;" />
@@ -1799,14 +1837,14 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: &#x6C;&#105;&#103;&#104;&#x74;)" srcset="./&#48;&#101;&#x65;&#101;&#x32;&#55;&#97;&#50;&#45;&#98;&#49;&#56;&#102;&#x2D;&#52;&#x33;&#101;&#101;&#45;&#x62;&#99;&#x30;&#101;&#45;&#99;&#52;&#x30;&#99;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#45;&#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#x30;&#x63;&#46;&#x73;&#118;&#103;" />
   <img src="./&#x32;&#56;&#101;&#55;&#x36;&#53;&#x61;&#55;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#115;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#48;" height="&#49;&#x39;&#53;" decoding="async" loading="eager" />
 </picture>
-<!--[/render]-->
+<!--[/asset]-->
 <!--
 ==========​==​=======================‍==================================​===
-  Deployment Log ﻿| dpl_e41734520‌788771fd9ef
+  Deployment Log ﻿| dpl_79160f09c‌98e425a94f1
 =============================================================﻿===========
 
-  Deploy ID: dpl_e41734520788771fd9ef
-  URL: https://portfolio-b6e29258c44e.vercel.a﻿pp
+  Deploy ID: dpl_79160f09c98e425a94f1
+  URL: https://portfolio-6a67c4ea4a84.vercel.a﻿pp
   Production​ URL: https://as1tself.dev
 
   Timeline:
@@ -1842,38 +1880,188 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
     Regions: all
     Max Duration: 30s
 
-  Prev⁠ious deployment: dpl_4b4894475d4b9fdb653f
+  Prev⁠ious deployment: dpl_896b0f9dacccc4c9800d
   Rollback available: true
 
-  Verification: 30429083204af9f4ca7⁠7‍9b02d2a12e0afa4‌0bf30217d906850103f​434f75315d
+  Verification: 849caeaaef36079fdf5⁠b‍2b167c977405249‌a457c5a7bc49ae9a923​04cd3e79a4
 
 =====​===================================================================
 -->
 <!--
-=====​===================================================================
-  Component Output | social-card [31﻿0295b6]
-===========================⁠=============================================
+========================================================================
+  Hydrated Output | card-preview [3e801e5d]
+==========================​====================‌==========================
 
-  Component: src/components/social-ca⁠rd.tsx
-  Render: SSG
-  ‍Pr‍iority: critical
-  Hash: 6de52fed27﻿1b56f‌0
+  Component: src/components/card-preview.tsx
+  Render: static
+  Priority: critical
+  Hash: eb7‍d60a00f0aacec
 
 <picture>
-  <s‍ource media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#115;&#x2d;&#99;&#111;&#x6c;&#x6f;&#114;&#x2D;&#115;&#99;&#x68;&#101;&#109;&#101;: &#100;&#97;&#114;&#x6b;)" srcset="./&#48;&#x65;&#x65;&#x65;&#x32;&#x37​;&#x61;&#x32;&#45;&#x62;&#x31;‌&#x38;&#x66;&#x2D;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#45;&⁠#99;&#52;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#52‌;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#x2d;&#x31;&#x32;&#56;&#x‍62;&#x2d;&#x34;&#x⁠64;&#x35;&#53;&#x2d;&#56;&#x38;&#x39;&#99;&#x2d;⁠&#x62;&#x66;&#51;&#x62;&#102;&#48;&#x34;&#101;&#57;&#48;&#x30;&#x63;&#x2e;&⁠#x73;&#x76;&#x67;" />
-  <source media="(&#112;‌&#x72;&#x65;&#102;&#x65;&#114;&#x73;&#45;&#x63;&#x6f;&#108﻿;&#111;&#x72;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#x32;&#x38;&#101;&#55;&#x36;&#53;&#x61;&#55;&#x2D;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2D;&#98;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#5﻿7‌;&#x30;&#48;&#99;&#x2d;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#x38;&#102;&#45;&#x34;&#51;&#x65;&#x65;&#45;&#98;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2E;&#115;&#118;&#103;" />
-  <s⁠ource media="(&#x70;&#x﻿72;&#101;&#102;&#101;&#x72;&#115;&#x2d;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#﻿x2d;&#x73;&#x63;&#104;&#x65;&#109;&#x‍65;: &#115;&#x79;&#x73;&#x74;&#101;&#x6D;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#x6⁠1;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#x65;&#﻿45;&#x63;&#x34;&#48;&#99;&#102;⁠&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#x61;&#55;&#45;&​#x31;&#50;&#x38;⁠&#98;&#x2d;&#x34;&#100;&#53;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#98;&#x66;&‌#x33;⁠&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#118;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#100;&#x35;&#53;&#x2d;&#56;&#56;&#57;&#99;&#x2D;&#98;&#x66;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#x2D;&#48;&﻿#x65;&#x65;&#x6⁠5;&#x32;&⁠#55;&#x61;&#50;&#x2D;&#x62;&#x31;&#56;&#102;&#45;&#x34;&#51;&#101;&#x65;&#x2D;&#x62;&‌#x63;&#48;&#101;&#x2D;&#x63;&#x3‍4;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#x33;&#98;&#x34;&​#x63;&#46;&#115;&#x76;&#x67;" />
-  <source media="(i﻿nverted-colors: inverted)" srcset="./&#x30;&#﻿x65;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#‍x38;&#x66;&#x2D;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#52;&​#48;&#99;&#x66;&#98;&#52;&#56;&#x33;&#x62;&#x34;&#x63;&#x2d;&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#x61‍;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2D;&#x38;&#x38;&#x39;&#99;&#x2d;&#x62;&#102;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2e;&#x73;&#118;&#x67;" />
-  <img​ src="./&#48;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#102;&#‍45;&#x34;&#x33;&#x65;&#101;&#45;&#98;&#x63;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&‍#99;&#x2d;&#50;&#x38;&#x65;&#55;​&#54;&#x35;​&#97;&#55;&#x2d;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;‍&#x64;&#53;&#x35;&#x2d;&#x38;&#56;&#57;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2E;&#x73;&#x76;&#x67;" alt="&#32;" width="&#x36;&#x30;&#x30;" height="&#x30;&#x2e;&#48;" decoding="async" loading="eager" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#115;&#x2d;&#99;&#x6F;&#108;&#x6f;&#114;‌&#x2d;&#115;&#x63;&#104;&#x65;&#x6d;&#x65;: &#x64;&#x61‍;&‍#x72;&#107;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#45;&#x31‍;&#x3‌2‌;&#x38;&‍#x62;&#45;&#52;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&﻿#x63;&#45;&#x62;&#102;‌&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2D;&#x34;&#x33;&#1‌01‌;&#101;&#x2d;&#x62;&#x63;&​#48;&#101;&#x2d;&#99;&#x34;&#48;&#99;&#102;&#98;&#x34;&#x38;&#x33;&#x62;&#52;&#99;&#46;&#x73;&#x76;&#103;" />
+‍  <source media="(&#x70;&#x72;&#x65;&#102;&#101;&#​x72;&#x73‌;&#45;&#x63;&#111;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6D;&#x65;: &#x6C;&#x69;&#x67;&#x68;&#116;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#x2d;&#98;&#49;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#48‍;&#x65;&#45;&#99;&#52;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#x2d;&#50;&#x38;&#101;&#x37;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#x2d;&#52;&#x64;&#53;&#x35;&#4﻿5;&#56;&#x38;‍&#x39;&#x63;&#x2d;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#x‌39;&#x30;&#x30;&#x63;&#x2e;&#115;&#11﻿8;&#x67;" />
+  <source media="(&#x7⁠0;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73‌;&#x2D;&#x63;&#11‌1;&#x6c;&#x6F;&#114;&#x2d;&#x73;&#99;&#x68;&#x65;&#x6D;&#101;: &#x73;&#x79;&#115;&#x74;&#x65;&#109;)" src​se﻿t="./&#50;&#x38;&#x65;&#x37;&‍#54;&#53;&#97;&#x37;&#x2D;&#49;&#x32;&#x38;&﻿#x62;&#x2d;&#52;&#100;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x6​5;&#x39;&#48;&#48;&#x63;&#x2D;&#x30;&#x65;&#x65;&#101;&#50;&#55;&#x61;&#50;&#45;&#98;&#49;&#56;&#x66;&#​45;&﻿#52;&#x33;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#48‍;&#99;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#99;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(inverted-colors: inverted)﻿" sr‌cset="./&#48;&#x65;&#x65;&#101;&#50;&#55;&#x61⁠;&#x32;&#45;&#x62;&#49;&#56;​&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2d;&#98;&#99;&#x30;&#101;&#45;&#99;&#52;&#x30;&#99;&#‌x66;&#x62;&#x34;&#x38;&#x33‌;&#x62;&#52;&#99;&#x2D;&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;‍&#x2d;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#x3﻿5;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x⁠66;&#x30;&#52;&#101;&#x3﻿9;&#48;&#48;&#x63;&#x2e;&#x73;&#118;&​#x67;" />
+  <img sr﻿c="﻿./&#50;&#56;&#​x65;&#x37;&#54;&#x35;&#97;&#x37;&#x2D;&#49;&#x32;&#x38;&#98;&#45;&#​x34;&#100;&#x35;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&​#x34;&#⁠101;&#x39;&#x30;&#48;&#x63;&#x2D;&#48;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#56;&#⁠x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#101;&#45;&#99;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#46;&#115;&#118;&#x67;" alt="&#x20;" width="&#54;&#48;&#48;"⁠ heigh‍t="&#x30;&#x70;&#x78;" decoding="async" loading="eager" />
 </picture>
 
   Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-awa⁠re, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Int​egrity: sha384-99e﻿1264f95ac54c05f8a1159515c45f0b31519d34d1f0177e4bd93446e1d2b3a591c7a85b280e5235083ebebfe323e9f
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Ca⁠che: im﻿mutable, max-age=31536000
+  Integrity: sha384-40c81815b694bc8ad44d288b1e559589bdbb4b47a0202f0484bbbe377f60d35cafd55a2b8fc199968daef0fb432b84cb
 
-=============================================​===========================
+===========================================================‍=============
+-->
+<!--
+========================================================================
+  Hydrated Output | og-image [8b22e8c7]
+==============================================﻿==========================
+
+  Component: src/components/og-image.tsx
+  Render: SSG
+  Pri⁠ority: above-fold
+  Hash: e98db5d3ee64d3c2
+
+<picture>
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x72;&#115;&#45;&#x63;&#x6F;&#108;&#x6F;&#x72;&#x2D;&#115;&#x63;&#x68;&#x65;&#x6d;&#101;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x30;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;​&#x62;&#x63;&#x30;&#x65;&#45;&#99;&#52;&#x30;&#99;&#102;&#98;&#x34;&#56;&#x33;&#98;&#52;&#99;﻿&#x2d;&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#98;&#x2d;&#52;&#100‍;&#53;&#x35;&#45;&#56;&#56;&#57;&#x63;&#45;&‍#x62;&#x66;&#x33;&#9﻿8;&#102;&#x30;&#x34;&#101;&#57;&#x30;&#48;&#99;&#x2E;&#x73;&#x76;&#x67;" />
+  <source media​="(&#112;&#x72;&#x65;&#x66;&#101;﻿&#114;&#x73;&#45;&#x63;&#x6F;&#108;&#x6f;&#x72;&#45;&#115;&#x63;&#‌x6​8;&#x65;&#109;&#x65;:⁠ &#x6c;&#x69;&#103;&#x68;&#x74;)" srcset="./&#x32;&#x38;&#101;&#55;&#54;&#53;&#97;​&#x‍37;&#45;&#x31;&#x32;&#56;&#98;&#x2d;&#x34;&#x64;&#53;&#53;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#101;&#57;&#x30;&#x30;&#99;&#x2d;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#98;&#49;&#x38;&#102;&#x2d;&#52;‍&#x33;&#x65;&#101;&‍#45;&#98;&#99⁠;&#48;&#x65;&#x2D;&#99;&#x34;&#x⁠3‌0;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#114;&#101;&#x66;​&#x65;&#x72;&#x73;&#45;&#99;&#111;&#x6c;&#x6f;&#x72;&#x2d;&#115;&#99;&#x68;&#x65;&#109;&#x65;: &#⁠x73;&#x79;&#x73;&#116;&#101;&#x6D;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&⁠#x2d;&#x62;&#49;&#56;&⁠#102;&#x2D;&#x34;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#56;&#x33;‌&#98;&#52;&#99;&#45;&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#x37;&#45;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#x64;&#53;&#53;&#x2D;&#x38;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#x66﻿;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" ‍/>
+  <source media="(prefer‍s-c​ontrast: more)" srcset="./&#50;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2D;&#x38;&#56;&#57;&#x63;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#x30;&#99;&#x2d;&#x30;&#x65;&#x65;&#101;&#50;&#55;&#x6⁠1;&#x32;&#45;&#98;&#49;&#56;&​#102;&#45;&#x34;&#x33;&#101;&#x65;⁠&#45;&#x62;&#99;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#98;&#x34;&#x63;&#x2e;&#x73‍;&#x76;&#103;" ‌/>
+  <img src="./&#48;&#x65;&#x65;&#101;&#x3‌2;&#55;&#97;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#x2d;&#52;&#x33;&#101;&#x65;&#45;&#98;&#x‍63;&#x30;&#x65;&#​45;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#56;&#51;&#98;&#52;&#x63;&#45;&#x32;&#56;&#101;&#x37;&#x36;&#53;&#97;&#55;&#x2d;&#49;&#50;&#x38;&#98;&#x2d;&#52;&#x64;&#x‌35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#x2D;&#98;&#102;&#x33;&#x62;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#46;&#115;&#118;&#103;" alt="&#x20;" width="&#54;&#x‌30;&#x30;" height="&​#x30;&#x70;&#x78;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px ﻿(2x)
+  Format: SVG (vector, theme-aware, SMIL animated)‌
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-0629‌ef8429fae36697359f1c9674b06f2bef1edc47c47d546e2a706816cd9b7d0b08512356bc97c0a40945ab0d0a4b7b
+
+========================================================================
+-->
+<!--
+========================================================================
+  Render Output​ | ban​ner-image [e0eb44e9‍]
+========================================================================
+
+ ​ Component: src/components/banner-image.tsx
+  Render: s‌tatic
+  Priority: high
+  Hash: 12fbb2c457998ede
+
+<picture>
+  ‌<source media="(&#x7‌0;&#114;&#x65;&#x66;&#101;‍&#x72;&#x73;&#45;&#x63;&#x6F;&#108;&#111;&#114;&#45;&#x73;&#x63;&#x68;&#101;&#109;&#101;: &#x64;&#x61;&#114;&#107;)" srcset="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98‍;&#49;&#x38;&#x66;&#x2d;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&﻿#x63;&#48;&#x65;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#56;&#x33;&#x62;&#52;&#x63;&#45;&#50‌;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2D;&#x31;&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#53;&#53;&#x2d;&#56;&#x38;&#57;&#99;&#45;&#x62;&#x66;‍&#x33‍;&#x⁠62;&#102;&#x30;&#52;&#101;&#x39;&#x30;&#48;&#99;&#x2e;&#115;&#x76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#101;&#114;&#x73;&#45;&#x63;&#x6F;&#x﻿6C;&#111;&#x72;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#108;&‌#x69;&#103;&#x68;&#x74;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#‍x32;&#x38;&‍#x62;&#x2D;&#52;&#100;&#x35;&#53;&#45;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#98;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#x2d;&#x30;&#101;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#45;&#98;&#x31;&#56;&#​x66;&#45;&#52;&#x33;&#⁠101;&#x65;&#45;&#98;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#51;&‌#‌x62​;&#x34;&#x63;&#x2E;&#115;&#x76;&#‍x67;" ​/>
+  <so‌urce media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#101;&#101;&#50;&#55;&#97;&#x32;&#45;&#x62;&#49​;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#x2D;&#98;&#x63​;&#x30;&#x65;&#45;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2D;&#50;&#x38;&#101;&#x37;&#x36;&#53;&#x61;&#55;&#x2d;&#x31;&#x32;&#56;&#98;&#x2D;&#52;&#x64;&#x35;&#x35;&#x2D;&#56;&#x38;&#x39;&#﻿99;&#45;&#x62;&#102;&#x33;​&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#x63;&#x2E;&#115;&#118;&#103;" />
+  <img src="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#102;&#45;&#52;&#51;&‍#x65;&#101;&#x2d‍;&#98;&#x63;&#48;&#101;&#45;&#99;&#x34;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#101;﻿&#x37;&#x36;&#5‌3;&#x61;&#55;&#x2D;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2D;&#56⁠;&‌#x3‍8;&#x39;&#x63;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&﻿#x30;‌&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#x2E;&#x73;&#﻿x76;&#103;" alt="&#32;" width="&#x36;&#48;&#48;" height="&#x30;&#x30;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoi‌nts: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-61b6a04e5c1906b‌97dc4ec10e8b7dc902817084bf739bc36f946c91608ae7787e337b9db134dff26ba590c3fbaf10‍2e1
+
+========================================================================
+-->
+<!--
+===============================​=========================================
+  Component Output | banner-image [dd9ec3c2]
+===================​=﻿====================================================
+
+  Component: src/components/banner-image.​tsx
+  Render: prerende​red
+  Priority: above-fold
+  Hash: 5541ab7060aa41﻿e8
+
+<pictu​re>
+  <source ﻿media="(&#x70;&#114;&#x65;&#x66;&#x65;&#x72;&#115;&#x2d;&#99⁠;&#111;&#108;&#111;&#x72;&#x2d;&#x73‌;&#99;&#104;&#101;&#x6D;&#101;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#x30;&#48;&#99;&#x2d;&#x30;&#x65;&#101;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#98;&#52;&#56;&#x33;‌&#98;&#x34;&#99;&#x2e;&#115;&#x76;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#x2D;&#99;&#x6F;&#x6c;&#x6f;&#x72;&#x2d﻿;&#x73;&#x63;&#104;&#x65;‍&#x6D;&#x65;: &#108;&#105;&#103;&#104;&#x74;)" srcset="./&#​50;&#x38;&#x65;&#55;&#x​36;&#53;&#x61;&#55;&#x2D;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#x64​;&#53;&#x35;&#x2d;&#56;&#56;&#x39;&#99;&#x2d;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#x34;‍&#101;&#x3​9;&#48;&#x30;&#x‌63;&#x2D;﻿&#48;&#x⁠65;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#⁠x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#99;&#48;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#x66;&#x⁠62;&‍#52;&#x38;&#51;&#98;&#x34;&#x63;&#46;&#115;&‌#118;&#x67;" />
+  <source media="(&#⁠x70;&#114;&#101;&#102;&#x6​5;&#x72;&#115;‍&#45;&#99;&#111;&#x6c;&#x6f;&#x72;&#45;​&#x73;​&#x63;&#x68;&#101;&#109;&#101;: &#x73;&#121;&#x73;&#x74;​&#101;&#x6D;﻿)" srcset="./&#x32;&#56;&#x65;&#55;&#54;&#53;&#97;&#⁠x37;&#x2D;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#‌x64;&#53;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#x2d;&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#50;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#x2D;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#51;&#98;&#x34;&#99;&#46;&#x73;&#118;&#103;"​ />
+  <source media=⁠"(prefers-contrast: more)" srcset="./&#x30;&#1⁠01;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2d;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#52;&#48;&‍#x63;&#102;&#x62;&#52;&#x38;&#x‍33;&#98;&#52;&#99;&#x2d;&#50;&#56;&#101;&#x37;&#x36;&#53;&#97;&#55﻿;&#x2d;&#x31;&#x32;&⁠#56;&#98;&#45;&#x34;&#x6⁠4;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#45;&#98;&#x66;&#51‌;&#98﻿;&#x66;&#​x30;&#x34;&#101;&#57;&#48;&#x3⁠0;&#‌99;&#46;&#x73;&#118;&#x67;" />
+ ⁠ <img src="./&#48;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#50;&#45;&#x62;&#x31;&#​x38;&#x66;&#45;&#x34;&#51;‍&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#x2D;&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#x38;&#x38;&#57‌;&#99;&#x2D;&#98;&#102;&#x33﻿;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#x2e;&#x73;&#118;&#x67;" alt="&#x20;" width="&#54;&#x30;&#48;" height="&#x30;&#x70;&#x78;" decoding="async"⁠ loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x),​ 1200px (2x)
+  Format: SVG (ve​ctor, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-1b9d60f2‍4d66ad0bd49071c96abb5ceba24a1be7af8925b0af6ea188ca9e79c9398ae0654348453b91937ec9aad3‌02cf
+
+========================================================================
+-->
+<!--
+=​===================⁠=============⁠=======================================
+  Output Output | avata‌r-card [f37aea45]
+===============================================================​==​=======
+
+  Component: src/components/avatar-card.tsx
+  Render​: ISR
+  Priority: critical
+  Hash: ed80ec3346cb3355
+
+<picture>
+  <source media="(&#112;&#x72;&#x65;&⁠#102;&#101;&​#x72;&#x73;&#x2d;&#x63;&#x6f;&#108;&#x6f;&#x72;&#x2D;&#x73;&#x63‌;&#x68;&#‍101;&#x6d;&#x65;: &#100;&#x61;&#x72;&#107;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x3‌7;&#x2D;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&‍#100;&#53;&#x35;&#x2d;&#x38;&#5﻿6;&#57;&#99;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#x2d;&#x3‍0;&#x65;&#x65﻿;&#‍101;&#x32;&#x37;&#9‍7;&#50;&#45;&#98;&#x31‍;&#56;&#x66;&#x2d;&#52;&#51;&#101;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#x2D;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x3​4;&#56;&#51;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x⁠72;&#x73;&#45;&#x63;&#1‍11;&#x6c;&#111;&‌#x72;&#x2d;&#115;&#x63;&#104;&#x65;&#109;&#x65;: &#x6C;&#x69;&#x67​;&#x68;&#x74;)" srcset="./&#50;&#x38;&#101;&#x37;&#54;&#53;&#x61;&#55;&#x2D;&#x31;&#x32;&#x38;&#x62;&#x2D;&#52;&#100;&#53;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#102;&#48;&#52;&#101;&#57;&#48;&#48;&#x63;&#x2D;&#x30;&#101;&#x65;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#x33;&#x65‍;&#x65;&﻿#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#⁠x30;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#x62;&#x34;⁠&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#115;&#x2D;&#x63;&#x6f;&#108;&#111;&#114;&#x2d;&#x73;&#99;&#x68;&#101;&#x6d;&#x65;: &#115;&﻿#x79;&#x73;&#x74;&#101;&#x6d;)" srcset="./&#x3​0;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#x2D;&#98;&#49;&⁠#x38;&#x66;&#45;&#52;&#51;&#101;&#101;&#x2d;&#x62;&#x6‍3;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#x63​;&#102;&#98;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&​#45;&#x32;&#56;&#x65;&#55;&#x36;&#53;&#x6‍1;&#‌55;&#4﻿5;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39﻿;&#x63​;&#x2D;&#98;&#102;&#51;&#x62;&#102;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#99;&#46;&#x73;&#118;&#x67;" />
+  <source m​edia="(prefers-con‌trast: mo⁠re)" srcset="./&#x​32;&#x38;&#x65;&#x37;&#x36;&#53;&#97;&#55;&#x2D;&#x31;&‌#50;&#x38;&#98;&#x2d;&#52;&#100;&#x35;&#53;&#45;&#56;&#56;&#x39;&#99;&#45;&#98;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#99;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#51;﻿&#101;&#x65;&#x2d;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#46;&#x73;&#118;&#103;‍" />
+ ⁠ <img src="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#x37;&#45;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56;&#x3⁠9;&#99;&#45;&#x62;&#x66;﻿&#x33;&#98;&#x66;&#48;&#52;‌&#1‍01;&#x39;&#48;&#48;&#99;&#x2D;&#x30;&#﻿101;&#101;&#x65;&#﻿50;&‌#x37;﻿&#x61;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#45;&#52;&#x33;&#x65﻿;&#x65;&#x2D;&#98;&#99;&#48;&#x65;&#4‌5;&#x63;&#52;&#48;&#99;&#102;&#98;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#115;&#x76;&#x67;" alt="&#x20;" width="&#54;&#x30;&#x30;" height="&#x30;&#x70;&#x78;" decoding="a‍sync" loading="eager"⁠ />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-e5c7a6794d2291927f3b6632cbbe6af1a3a9931c31847dc002faf5398226450e16215bfcfe37b3e3bea615e3e772fb16
+
+========================================================================
+-->
+<!--
+==========================================‍==============================
+  Asset Output | social-card [265469e0]
+========================================================================
+
+  Component: src/components/social-card.tsx
+  Render: static
+  Priority: critical
+  Hash: 9a0bcafd3e933db0
+
+<picture>
+  <source m‍edia="(&#112;&#x72;&#101;&#x66;&#x65;&#114;&#x73;&#x2D;&#x6⁠3;&#111;&#x6c;&#x6f;&#114;&#x2d;&#115;&#x63;&#104;&#101;&#109;&#x65;: &#x64;&#x61;&#114;&#107;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2D;&#x31;&#x32;&#56;&#x62;&#45;&#52;&#x64;&​#53;&#x35;&#x2d;&#56;&#x38;&#5﻿7;&‍#99;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#48;&#48;&#x63;&#x2d;&#48;&#101;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#45;&#x34;&#‌51;&#‍x65;&#101;&#x2d;&#98;&#x63;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#x66;﻿&#98;&#52;&#x38;&#x33;&#98;&#x34;&#99;&#46;&#x73;&#x76;&#103;" />
+  <source media="(&#112;&#114;&#x65;&#x66;&#x65;&#‍x72;&#x73;&#x2d;&#x⁠63;&#x6f;&#x6c;&#x6F;&#x72;&#x2D;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x‌65;: &#x6c;&#105;&#x67;&#x68;&#x74;)" srcset="./&#50;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#55;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#56;&#57;&#99;&#45;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#99;&#x2d;&‌#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2d;&#52;&#x33;&#x65;&#101;&#x2d;&#98;&#99;&#x30;&#101;&#x2d;&#99;&#x34;&#48;&#⁠99;&#x66;&#98;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#﻿46;&#x73;&#x76;&​#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#114;&#115;&#x2D;&#99;&#x6F;&#x6c;&#x6f;&#114;&#x2d;&#x73;&#99;&#x68;&#101;&#109;&#101;: &#x73;&#121;&#115;&#x74;&#101;&#x6d;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#45;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#99;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#x33⁠;&#98;&#x34;&#x63;&#x2D;&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&‍#48;&#x30;&#x63;&#x2E;‍&#115;&#118;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#50;&#56;&#x65;&#55;&#54;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x‍38;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#x33;&#98;&#x66​;&#48;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#x65;&#45;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#98;&#52;&#99;&#46;&#x73;&#x76;&#103;" />
+  <source media="(inverted﻿-colors: inverted)" srcset="./&#x32;&#56;&#x65;&#x37;&#x3​6;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#x39;&#x6﻿3;&#45;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#48​;&#48;&#99;&#x2D;&#48;&#101;&‌#101;&#x65;&#x32;&#55;&‌#x61;&#⁠x32;&#x2D;&#98;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&‍#45;&#99;&#52;&#x30;&#99;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#x73;&#118;&#103;" ​/>
+  <img s‌rc="./&#x32;&#56;&#101;&#x37;&#54;&#53;&#x61;&#55;&#x2d;&#49;&#x32;&#56;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62﻿;&#x66;&#51;&#98;&#x66;&#48;&#52;&#x65;&#57;&#48;&#48;&#x63;&#x2d;&#x30;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#49;&#x38;&#x66;&#4‌5;&#x34;&#51;&#x65;&#101;&#x2d;&#98;&#x63;&#48;&#x65;&#‍45;&#x63;&#52;﻿&#48;&#99;&#x66;‍&#x62;&#52;&#x38;&#x​33;&#98;&#52;&#99;&#x2e;&#x73;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#x30;&#x30;&#x30;" decoding="async" loa﻿ding="eager" />
+</p﻿icture>
+
+  Breakpoints: 600‍p‌x‍ (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+﻿  Cache: immutable, max-age=31536000
+  Integrity: sha384-34b2f06947a0d61ac9b1a110a27541a47a13245c7deef4760a051cfc8cd0c16d638b1bcb639eac8f0fee996‍d113106d1
+
+===========﻿=======================================⁠======================
+-->
+<!--
+===============================================================‌=========
+  Render Output | banner-image [edae3860]
+=============﻿================================================​===========
+
+  Component: src/components/banner-ima﻿ge.tsx
+  Render: static
+  Priority: critical
+  Has‍h: d90fae50b3ca28b1
+
+<picture>
+  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#115;&#x2d;&#99;&#111;&#108;&#111;&#114;&#x2D;&#x⁠73;&#x63;&#104;&#101;&#x6d;&#101;: &#x64;&#97;&#x72;&#x6B;)" srcset="./&#x⁠30;&#x65;&#x65;&#101;&#50;‍&#55;&#97;&#x32;&#x2d;&#x62;&#x‌31;&#x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#101;&#x2‌d;&#98;&#x63;&#48;&#x65;&#﻿x2D;&#x63;&#x34;&#x30;&#x6‌3;&#x66;&#x62;&#x34;&#x38;&#51;⁠&#x62;&#52;&#99;&#x2d;&⁠#50;&#x38;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#45;&#49;&#x32;&#56;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#56;&#x39;&#99;&#x2d;&#98;&#﻿102;&#51;&#x62;&#102;&#x30;&#x34;&​#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#x73;&#118;&#10​3;" />
+  <source media="(&#112;&#114;&#x65;&#102;&#101;&#x72;&#115;&#x​2d;&#x63;&#111;&#x6c;&#x6f;&#x72;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#101;: &#x6C;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#x32;&#56;&#101;&#x37;&#x36;&#53﻿;&#x61;&#x37;&#45;&#49;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#x35;&#53;&#45;&#x38;&#x38;﻿&#x39;&#x63;&#x2d;&#x62;‌&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#48;&#x63;&#x2d;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#⁠x32;&#45;&#x62;&#x31;&#x38;&#102;&#4​5;&#x34;&#51;&#101;&#10​1;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#x62;&#x34;&#x63;&#46;&#115;&#118;&#x67;" />
+  <source media="(&#x70;&#114;‌&#101;&#102;&#x65;&#‍114;&#115;&#45;&#x63;&#x⁠6f;&#x6c;&#111;&#x72;&#x2d;&#115;&#x63;&#104;&#x65;&#x6d;&#101;: &#x73;&#x79;&#x73;&#x74;&#101;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#45;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#5‌6;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#‌98;&#x66;&#x30;&#x34;&#101;&#x39;&#48;&#48;&#x63;&#x2d;&#x30;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x62;&#x31;&#56;&#x​66;&#45;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#x63;&#48;&#101;&#x2D;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#x2e;&#115;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#x65;&#x37;&‍#x36;&#53;&#x61;&#x37;&#45;&#x31;&#x32;&#56;&#98;&#x2d;&#52;&#100;&#x35;&#x35;&#45;&#56;&#x‌38;&#5‌7;&#x63;&#x2d;&#x62;&#x6⁠6;&#x33;&#x62;&#102;&#48;&#52;&#101;&#57;&#x30;&#x30;&#99;&#45;&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#x32;&​#x2d;&#x62;&#49;&#56;&#102;&‍#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#﻿9​9;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#99;&#46;&#x73;&#x76;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#x32;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#49;&#50;&#56;⁠&#98;&#45;&#x3​4;&#x64;&#53;&#x35;&#x2D;&#x38;&#56;&#57;&#99;&#x2d;&#x62;&#x66;&#51;⁠&#x62;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#45;&#x30;&#x65;&#101;&#101;&#x32;&#x37;&#9﻿7;&#50;&#45;&#98;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#99;&#x30;&#x65;&#x2d;&#99;&#52;&#48;&#x63;&#x66;&#x62;&‍#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2E;&#x73;&#x76;&#103;" />
+  <img src="./&#x30;&#101;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#x62;&#﻿x31;&#56;&#x66;&#x2D;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#52;&#x38;&#51;&#98;&#x34;&#99;&#x2D;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&﻿#50;&#x38;&#x62;&#x2d;&#x34;&​#100;&#53;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63‌;&#x2D;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#x2E;&#11​5;&#x76;&#103;" alt="&#x20;" width="&#54;&#x30;&#48;" height="&#48;&#46;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 120﻿0px (2x)
+  Format: SVG (vector, theme-awar⁠e, SMIL animated)
+  Cache: immutable, max-age=31536000
+​  Integrity: sha384-edde1f00‍318a18346b6c8f91c9456b9c‌0445e2a88c6fa15ddfa24995d4af855aa30772870e01b9c7ae589f3c23de2c14
+
+===‌=====================================================================
 -->
 <!--
 ========================================================================
@@ -1881,7 +2069,7 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 ===============================​=========================================
 
   Provider: V‍ercel Edge Network
-  Purge ID: c40159dd-d1e‍4-4736-8f5a-b2​4d1a1f3f74
+  Purge ID: d87e176b-5bb‍2-4b57-a50f-99​2bc837faf8
   Timestamp: 2025-02-12T03:00:15.000Z
 
   Purged paths:
@@ -1910,88 +2098,103 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 =================================================================‌=======
 -->
 <!--
-=======================‍=================================================
- ﻿ Static Output | theme-image [2e525524]
-=======================‍=================================================
-﻿
-  Component: src/components/theme-ima﻿ge.tsx
+========================================================================
+  Component Output | card-preview [71185ec1]
+=============​======================================================﻿=====
+
+  Component: src/compone​nts/card-preview.tsx
   Render: ISR
-  Pri⁠o​rity: a⁠bove-fold
-  Hash: ea81f4201f195aec
+  Priority: above-fold
+  Hash: 41812849f28839ac
 
-<⁠picture>
-  <source media="(&#x70;&#114;&#101;&#102;&#101;&#114;&#x73;&#45;&#x63;&#x6f;&#x6C;&#x6f;&#114;&#45;&#x73;&#x63;&#x68;&#101;&#109;&#x65;: &#x64;&#x61;&#x72;&#x6B;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&‌#56;&#x62;&#x2d;&#52;&#100;&#x35;&#53;&#x2D;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#51;&#98;&#102;&#‌x30;&#x3﻿4;&‍#x65;&#x39;&#x30;&#48;&#99;&#x2D;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#101;&#x2D;&#98;&#99;&#48;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2e;&#​115;&#x76;&#103;" />
-  <source medi⁠a="(&#112;&#114;&#101;&#102;&#x65;&#114;&‍#x73;&#x2d;&#x63;&#x6f;‍&#108;&#x6f;&#x72;&#x2D;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#108‍;&#105;&#x67;&#x68;&#116;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#​x32;&#56;&#98;&#45;&#52;&#100;&#53;&#53;&#45;&#56;&#x38;&#57;&#x63;&#45;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2d;&#48;&#x65;&#101;&#x65;&#50;&#55;&#97;&#50;&#45;&﻿#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x﻿2d;&#98;&#99;&#48;&#x65;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;﻿&#x62;&#x34;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <⁠source media="(inverted-colors: inverted)" srcset="./﻿&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2D;&#x38;&#x38;&#x39;&#99;&#x2d;&#x62;&#102;&#51;&#98;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#﻿45;&#x30;&#​101;&#101;&#101;&﻿#x32;&#x37;&#97;&#x32;&#x2d;&#x﻿62;&#x31;&#56;&#102;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#52;&#x30;&#99;&#102;&#x62;&#52;&#56;&#51;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#x67;" ​/>
-  <img src="./&#x﻿32;&#56;&#101;&#55​;&#x36;&#x35;&#97;&#x37;&#x2D;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&﻿#56;&#56;&#x39;&#99;&#45;&#98;&#102;&#x33;&#x62;&#102;&‍#48;&#x34;&#x65;&⁠#57;&#48;&#48;&#x63;&#x2D;&#x3﻿0;&#x65;&#101;&#x65;&#50⁠;&#x37;&#x61;&#x32;&#45;&#98;&#x31;&#56;&#x66;&#x2D;​&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#115;&#118;&#x67;" al‍t="&#32;" width="&#x36;&#x30;&#x30;" height="&#x30;&#x2e;&#48;" decod​ing="async" loading="eager" />
+<picture>
+  <source media="(&#x70;&#114;&#x65;&#102;&#101​;&﻿#x72;&#x73;&#x2D;&#x63;&#x6F;&#x6c;&#x6F;&#114;&#x2d;&#x73;&#99;&#104;&#x65;&#x6d;&#x65;: &#100;&#97;&#x72;&#x6b;)" sr﻿cset="./&#50;&#x38;&#101;&#55;&‌#x36;&#53;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#53;&#x35;&#x2D;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#x63;&#x2d;&#x‌30;&#101;&#101​;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#x31;&#x38;&#102;&#x2D;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#99;&#48;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#52;&#‌x38;&#51;&#x62;&#52;&#99;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#‍101;&‌#114;&‌#x73;&#45;&#99;&#x6f;&#108;&#111;&#114;&#45;&#115;&#99;&#104;&#x65;&#x6d;&#101;: &#x6C;&#105;&#x67;&#104;&#x74;)" srcset="./&#48;&#101;&#x65;&﻿#x65;&#50;&#55‍;&#97;&#x32;&#45;&#x62;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#x‌34;&#48;&#x‌63;&#102;&#x62;&#​x34;&#x38;&#51;&#98;&#x34;&#x63;&#45;&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#97‌;&#55;&#x2d;&#49;&#x3﻿2;&#x38;&#x62;&#‍45;&#x34;&#x64;&#53;&#53;&#x2d;&#56;&#x38;&#57;&#99﻿;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#48;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;&#x2D;&#49;&#50;&#x38;&#x62;&#x2d;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#99;&#x2d;&#x3​0;&#x65;&#x65;&#x65;&#x32;&#‌x37;&#x61;&#x32;&#x2d;&#98;&#49;&#56;&#x66;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#x30;&#101;&#45;&#99;&#52;&#48;&#99;&#‌x66;&#98;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63​;&#x2e;&#115;&#x76;&#x67;" /‌>
+  <img src="./&#x30;&#x65;&#101;&#﻿x65;&#x32;&#5﻿5;&#x61;&#x32;&#45;&#x62;&#x31;&#56;&#102;&#45;&#x34;⁠&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#56;&#51;&#98;&#52;&#x63;&#45;&#x32;&#56;&#x65;&‌#55;&#x36;&#53;&#x​61;&#x37;&#45;&#x31;&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2e;&#115;&#118;&#x67;" alt‌="&#x20;" width="&#x36;&#48;&#x30;" height="&#x30;&#48;&#x30;" decoding="async" loading="eager" />
 </picture>
 
+  Br⁠eakpoints: 600px (1x), 1200px (2x)
+  F‍ormat: SVG (vector, theme-a​ware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-44bff6325﻿1d21dce500e6582da75c49a63b4e98c18debfae18b28673f21c48a1c0a56c9f21ce7⁠1c645947212a84dbc97
+
+========================================================================
+-->
+<!--
+========================================================================
+  Render Output | card-preview​ [11ba06ec]
+========================================================================
+
+  Component: ‌src/components/c‌ard-previe﻿w.tsx
+  Render: ISR
+  Priority: critical
+  Has⁠h: fedaeecd6b85c04f
+
+<picture>
+  <source media=​"(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6C;&#⁠x6f;&#114;&#45;&#x73;&#x63;&#x68;&#x65;&#109;&#x65;: &#1⁠00;&#97;&#114;&#x6b;)" srcset="./&#48;&#x65;&#x65;&#x65;&#50;&#x37;&#97;&#50;&#x2d;‍&#98;&#49;&#56;&#x66;&#45;&#x34;&#51;&#101;&#‌101;&#45;&#x62;&#99;&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#52;&‍#x63;&#45;&#x32;&#x38;&​#x65;&#x37;&#x36;&#x35;&#97;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2D﻿;&#x38;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#​48;&#x63;&#x2e;&#115;&#x76;&#103;⁠" />
+  <‍source media="(&#112;&#x72;&#101﻿;&#x66;&#101;&#x72;&#x73;&#x2d;&#99;&#111;&#x6C;&#x6F;&#x72;&#x2D;&#x73;&#99;&#x68;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#103;&#104;&#x74;)" srcset="./&#‌48;&#x﻿65;&#x65;&#x65;&#x32;&#55;&#97;&#50;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#101;&#x65;⁠&#x2d;&#x62;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&​#x30;&#99;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#99;&#45;&#x32;&#56;&#101;&#55;&#54;&​#x35;&#x61;&#x3⁠7;&#45;&#49;&#x32;&#56;&#x62;&#45;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#x2D;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#x63;&#x2E;&#115;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x30;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2D;&#x34;&#5⁠1;&#101;&#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#52;&#‍x30;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2D;&﻿#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&﻿#x37;&#x2d;&#49;&#x32;&#x38;&#98;&#45;&#52;&#x64;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48​;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset=".‌/&#x30;&#101;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#1‍02;&#x2d;&#x34;&#x3﻿3;&‍#x65;&#x65;&#x2d;&#98;&#99;&#48;&#x65;&#x2D;&#x63;&#x34;&#48;&#x63;&#102⁠;&#98;&#52;&#56;&#x33;&#x62;&#52;​&#x63;&#x2d;&#50;&#56;&#x65;&#55;&#54;&#x35;&#97;&#55;&#x2d;&#49;&#x32;&#56;&#98;&#x2d;&#52;&#100;&#x35;&#x35;&#x2D;&#56;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#4​8;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <img src="./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61​;&#50;&#x2d;&#x62;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#52;&#x30;&‍#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#x2D;&#x32;&#x38;&#x65;&#55;&#x⁠36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#98;&#⁠x2d;&#52;‍&#x64;&#53;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#51;&#98;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#46;&#115;&#118;&#103;" alt="&#x20;" width="&#54;&#48;&#x30;" height="&#x30;&#48;&#x30;" decoding="async" loading="eager" />
+</picture>﻿
+
   Breakpoints: 600px (1x), 1200px (2x)
+  ⁠Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-a82f34212a5e1e3f06c53650283b435ba81cdd73b749ae595e​1d763f7ec1ebe34a958﻿5c06fc3ce0086625064e92c17b2
+
+=====================​==============================================​=====
+-->
+<!--
+======‌==================================================================
+  Asset Out⁠put | avatar-card [9d3a8a8d]
+============================================﻿============================
+
+  Component: src/components/avatar-card.tsx
+  Render: static
+  Priority: above-fold
+  Hash: d50d07273024​fa38
+
+<picture>
+  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#114;&#11‍5;&#45;&#x‍63;&#x6F;&#x6c;&#111;&#x72;&#x2D;&#x7​3;&#x63;&#104;&#101;&#x6D;&#x65;: &#100;&#97;&#x72;&#107;)" srcset="./&#x32;&#x38;&#101;&#x37;&#⁠54;&#53;&#97;&#55;&#x2d;&#x31;&#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35‍;&#x2d;&#x38;&#56;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#57;&#48;&#‌48;&#x63;&#x2D;&#48;&#x65;&#101;&#10﻿1;&#x32;&#x37;&#x61;&#50;&#x2d;&#98;&#49;&#x38;&#x66;&‍#45;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#﻿x62;&#x34;&#99;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media​="(&#11‍2;&#x72;&#x65;&#x66;&#x65;&#114;&#115;&#45;&#x63;&#x6f;&#1‍08;&#x6F;&#x72;&#x2d;&#x73;&#99;&#104;&#101;&#109;&#101;: &#x6C;&#x69;&#103;&#104;&#116;)" srcset=‍"./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#4‍5;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#x2D;&#x38;&#x38;&#x39;&#x63;&#x​2d;&#98;&#102;&#x33;&#x62;&#102;&#48;&#‍52;&#x65;&#x39;&#x30;&#48;&#x63;&#x2d;&#x30;&#x65;&#x65;&#101;&#5⁠0;&#55;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#99;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x72;&#115;&#45;&#x63;&#111;&#x6C;&#x6‌f;&#114;&#x2d‌;&#x73;&#99;&#x68;&#﻿101;&#x6d;&#x65;: &#x73;&#121;&#x73;&#x74;&#x65;&#109;)" srcset="./&#x32;﻿&#x38;&#x65;&#x﻿37;&#x3​6;&#53;&#x61;&#55;&#45;&#x31;&#50;&#56;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#​45;﻿&#56;&#x38;&#57;&#x⁠63;&#x2d;&#x⁠62;&#102;&#51;&#98;&#102;&#x30;&#52⁠;&#101;&#57;&#x30;&#48;&#99;&#x2d;&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#x‍32;&#x2d;‍&#x62;&#x‌31;&#56;&#102;&#45;&#x34;&#51;&#101;&#x65;&#x2d;​&#98;&#99;&#48;&#x65;&#x2d;&#99;&#52;&#x30;&#x63;&#102;&#x62;&​#52;&#56;&#51;&#x62;&#52;&#99;&#46;&#x73;&#118;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#101;&#x37;&#54;&#x﻿35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#x66​;&#x3​3;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#99;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&⁠#50;&#45;&#98;&#x31;&#56;&#x66;&#x2d;&#52;&#x33;&#101;&#101;&#x2D;&#98;&#x63;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#52;&#99;&#x2E;&#115;&#x76;&#x67;" />
+  <sou﻿rce media="(‍inverted-colors: inverted)" srcset="./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#97;&#50;&#45;&#98;&#49;&#56;&#x66;&#x2d;&#52;&#x33;&#101;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#45⁠;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#‍x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2d;⁠&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#55;&#45;&#x31;&#50;&#x38;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#57;&#99;&#x2d;&#98;&#102;&﻿#51;&#98;&#x66;&#x30;&#52;&#101;&⁠#57;&#x30;&#x30;&#x63;&#x2E;&#115‍;&#118;&#x67;" />
+  <img src="./&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#97;&#x37;&#x2d;&#x31;&#x32;&#x38;&‍#x62;&#45;&#52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#‌98;&#x66;&#﻿x30;&#x34;&#101;&#57;&#4‌8;&#48;&#99;&#x2D;&#x30;&#101;&#x65;&#101;&#50;&#x37;&#97;&#50;&#45;&#98;&#x31;&#56;&#x66;&#x2D;&#52;&#x33​;&#101;&#x65;&#x2d;&#98;&#99;&#48;&#x65;&#45;&#99;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#98;&#52;&#x63;&#46;&#1‌15;&#x76;&#x67;" alt="&#x20;" width="&#54;&#x30;&#x30;" height="&#48;&#x70;&#x78;" decoding="async" loading‍="eager" />
+<⁠/pict‍ure>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-a‍ware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Int﻿egrity: sha384-86fdd71468e89cb45d131c0ccb0bfb7b76a7769b8f83381545ee1b256848cd1cd2c4c30c3ceac3ddf82815bd0ba⁠f7f6f
+
+========================================================================
+-->
+<!--
+=============================​===========================================
+  Static Output⁠ | avatar-card [9ef1c267]
+=========================================‍======================​=========
+
+  Component: src/components/avatar-card.tsx
+  Render:⁠ prere‍ndered‌
+ ​ Priority: high
+  Hash: 75ce97bbd961f092
+
+<p﻿icture>
+  <source media="(&#x70;&#114;&#x65;&#1‌02;&#x65;&#x72;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#100;&#97;&#114;&#107;)" srcset="./&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x‌37;&#45;&#x31;&#x32;&#x38;&#98﻿;&#45;&⁠#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x63;&#x2⁠d;&#x62;&#x66;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#x2D;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#9﻿8;&#49;&#x38⁠;&#x66;&#⁠x2D;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63⁠;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&​#99;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#52;&#x63;&#x2​e;&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x6​5;&#x66﻿;&#101;&#114;&#x73;&#45;&#99;&#x6F;&#x6c;&#x6f;&#114;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d⁠;&#x65;: &#1﻿08;​&#105;&#x67;&#x68;&#x74;)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x3​8;&#x62;&#45;&#52;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#x39;&⁠#x63;&#45;&#x62;&#x66;&#x33;&#98;&#102;&#48;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#x2d;&#x30;&#101;&#x65;&#101;​&#50‌;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#46;&#x73;&#118;&#x67;"﻿ />
+  <sou⁠rce media="(&#112;&#114;&#x65;&#x66;&#x65;‍&#x72;&#x73;&#45;&#x63;&#111;&#108;&#x6F;&#x72;&#45;&#x73;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#115;&#x79;&#115;&#116;&#x65;&#109;)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;﻿&#4‌9;&#x38;&#102;&#⁠x2d;&#x34;&#51;&#x65;&#101;&#45;&#98;&#99;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#98;&#52;&#x3‍8⁠;&#x33;&#x62;&#x34;&﻿#99;&#x2d;&#50;&#x38;&#101;&#55;&#54;&#x35;&#x61;&#55;&#x2D;&#x31;&#x32;&#x38;&#x62⁠;&#45;&#x34;&#x64;&#53;&#x35;&#45;&#x38;&#56;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#x62;&#102;&#48;&#52;&#101;&#x39;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <img src="./&#x32;&#56;&#x65;&#55;&#‌x36;&#x35;&#97;&#x37‌;&#x2d;&#x31;&#x32;&#56;&#x62;&#x2D;&#52;&#x64;&#x35;&#53;&#x﻿2D;&#56;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;‌&#x65;&#x39﻿;&#48;&#x30;&#x63;&#x2d;&#48;&#x65;&#101;&#x65;‌&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&﻿#102;&#x2d;&#52;&#x33;‌&#x65;&#101;﻿&#45;&#98;&#x63;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#98;&#52;&#x63;&#46;&#115;&#x76;&#x67;" alt="&#x20;" width="&#54;&#x30;&#x30;" height="&#x30;&#x2e;&#48;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x﻿)
   Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrit‌y: sha384-fa188bf205ec26c306b3d784d51eff433687f5189a3794059bb4acf144fafdb81fd0d00bf30713c321017b209cfb215a
+  Cache: immutable, max-ag​e=31536000
+  I‍ntegrity: sha384-4219375b7b6f72b2bf1958e8202503bca4d65280fc81abbd0020689d80034a84693c2b33c30db7a9c﻿f4cd1322b6be76​b
 
-========================================================‍========‍========
--->
-<!--[asset:hero-image faaf7fa4]-->
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#x6C;&#x6f;&#114;&#45;&#115;&#99;&#104;&#101;&#x6d;&#101;: &#100;&#x61;&#x72;&#x6b;)" srcset="./&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#51;&#98;&#x34;&#99;&#x2D;&#50;&#x38;&#101;&#x37;&#54;&#53;&#97;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#100;&#53;&#x35;&#45;&#x38;&#56;&#57;&#x63;&#x2D;&#98;&#102;&#51;&#98;&#x66;&#48;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#115;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#x72;&#115;&#x2d;&#99;&#x6F;&#x6C;&#111;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#101;: &#x6c;&#x69;&#103;&#104;&#x74;)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#98;&#49;&#56;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#45;&#50;&#x38;&#x65;&#x37;&#54;&#53;&#x61;&#x37;&#x2D;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(&#x70;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6c;&#x6F;&#x72;&#45;&#x73;&#99;&#x68;&#x65;&#x6D;&#x65;: &#x73;&#121;&#115;&#x74;&#x65;&#x6d;)" srcset="./&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#x30;&#x65;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#50;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#55;&#45;&#49;&#50;&#x38;&#98;&#x2D;&#52;&#100;&#x35;&#53;&#x2D;&#x38;&#x38;&#57;&#99;&#x2D;&#98;&#102;&#51;&#x62;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#x63;&#46;&#x73;&#118;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#x37;&#97;&#50;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2d;&#98;&#x63;&#x30;&#x65;&#45;&#99;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#54;&#53;&#97;&#55;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#52;&#x64;&#53;&#x35;&#x2d;&#x38;&#56;&#57;&#99;&#45;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#98;&#49;&#56;&#x66;&#45;&#52;&#x33;&#101;&#101;&#45;&#x62;&#99;&#48;&#101;&#x2d;&#99;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#45;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#98;&#x2D;&#x34;&#100;&#53;&#x35;&#45;&#56;&#56;&#x39;&#99;&#x2d;&#x62;&#102;&#x33;&#98;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <img src="./&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#56;&#102;&#45;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#x2D;&#50;&#x38;&#101;&#x37;&#54;&#x35;&#97;&#55;&#x2D;&#x31;&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#102;&#x30;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#x67;" alt="&#x20;" width="&#54;&#x30;&#48;" height="&#48;&#x2e;&#x30;" decoding="async" loading="eager" />
-</picture>
-<!--[/ass​et]-->
-<!--
-=====================================================================​===
-  Static Output | card-preview [5abbcde9]
-=========================================================​====﻿===========
-
-  Component: src/components/card-preview.tsx
-  Render: prer‍endered
-  Priority: high
-  Hash: 34efdf7280081f35
-
-<picture>
-  <source media="(&#x70;&#114;&#101;&#102;&#101;&#x72;&#115;&#x2﻿D;&#‌99;&#111;&#108;&#111;&#x72;&#x2d;&#x73;&#x63;&⁠#x68;&#x65;&#109;&#101;: &#x​64;&#97;&#x72;&#107;)" srcset="./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#50;&#x2d;&#98‌;&#x31;&#x38;&#102;&#x2d;&#‌x34;&#x33;&#101;&#x65;&#45;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#52;&#4‍8;&#99;&#102;&#x62;&#52;&#56;&#x33;&#x62;&#52;&#x63﻿;&#x2d;&#50;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#45;&#x31;&#50⁠;&#56;&#98;&#x2d;&#52;&#﻿100;&#x35;&#x35;&#x2D;&#x38;&#x38;&#x​39;&#99;&#x2d;&#98;﻿&#1﻿02;&#51;&#x62;​&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#x2e;&#115;&#118;&#1​03;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#99;&#x6F;&#x6c;&#​x6f;&#x⁠72;&#45;&#x73;&#x63;&#104;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#116;)" srcset="./&#x30;&#x65;&#⁠x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#56;&#x66;&#x2D;&#52;&#51;&#x65;&#101;&#x2d;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#52;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#99;&#x2⁠d;&#x3‍2;&#56;&#101;&#55;&#54;&#53;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#⁠x34;&#1﻿01;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#102;&#101;&#x72;&#x73;&#45;&#x63;&#111;&#x6c;&#111;&#114;&#x2d;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#x73;&#x7‍9;&#x73;&#116;&#x65;&#x6d;)" srcset="./&#x32;&#x38;&#101;&#x37;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x﻿38;&#98;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38﻿;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#98;&#x66;&#x30‍;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#x65‍;&#x32;&#﻿55;&#97;&#50;&#45;&#x62;&#49;&#56;&#102;&#x2D;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#48;&#x65;&#x2D;&​#x63;&#x34;&#x30;&#99;&#102;&#98;&#52;&#56;&#51;&#x62;&﻿#x34;&#99;&#46;&#115;&#x76;&#x67;" />
-  <source media="(prefers-contrast: more)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#99;&#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;‌&#x39;&#﻿48;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#51;&#x65;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#52;&#x﻿30;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(inverted-colors‌: inverted)" srcset="./&#x32;&#x38;&#101;&#55;&#x36;&#53;&#x61;&#55;&#45;&#x31;&#x32;&#x38;‌&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#​98;&#102;&#51;&#x62;&#x66﻿;&#4​8;&#x34;&#x65;&#57;&#48;&#48;&#x63;&#45;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#50;&​#x2d;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#x33;&#x65;&#101;&#45;&#98;&#99;﻿&#x30;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2E;&#x73;&#x76;&#x67;" />
-  <img src="./&#50;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&‍#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#x64;&#x35;&#53;&#45;&#56;&#56;&#57;&#x63;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#45;&#48;&#101;&#x65;&#x65;&#50;&#x37;&#x​61;&#x32;&#x2D;&#x62;&#49;&#x38;&#x66;&#x2D;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2E;&#x73;&#118;&#x67;" alt="&#32;" width="&#54;&#x30;​&#x30;" height="&#48;&#x2e;&#48;" decoding="async" load‌ing="eager" />
-</picture>
-
-  Breakp‍oints: 600px﻿ (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL ‍animated)
-  Cach​e: immutable, max-age=31536000
-  Integrity: sha384-b5cf5538‍76d40107c949f64b7b88d75d6d809a‍dabbec07c1858337510d9910db58e⁠d87b2e2df7b71e023621dd71a4915
-
-========================================================================
--->
-<!--
-========================================================================
-  Compon⁠ent Output | card-preview [55‍bfb3dc]
-===========================⁠=============================================‍
-
-  Component: src/components/card-preview.tsx
-  Render: SSG
-  Pr​iority: critical
-  Hash: b1150698b14587c3
-
-<picture>
-  <source media="(&#112;&#x72;&#x‌65;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6c;&#x6f;&#x72;&#x2D;&#x7‍3;&#99;&#104;&#x65;&#109;&#101;: &#x64;&#97;&#114;&#x6b;)" srcset="./&#x30;&#x65;&#101;&#101;&#50;&#55;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#102;⁠&#x2D;&#x34;&#51;&#x65;&#101;&#45;&‍#x62;&#x63;&#x‌30;&#x65​;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#x2d;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#53;&#45;&#56;&#x38;&#57;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66⁠;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#99;&#x2E;&#115;&#⁠x76;&#x67;" />
-  <source ‌media="(&#112;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#x2d;&#x63;&#111;&#108;&#x6f;&#x72;&#45;&#115;&#x63;&#104;&#x65;&#x6d;&#101;: &#x6c;&#x69;&#x67;&#104;&#116;)" srcset="./​&#x30;&#x65;&#x65;​&#101;﻿&#x32;&#55;&#97;&#50;&#x2D;&#98;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#52;&#x​30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50‌;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#49;&#x32;&#x38;&#‌x62;&#x2D‍;&#52;&#100;&#x35;&#​53;&#45;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#‌x34⁠;&#x65;&#x39;&#x30;&#x30;&#x63⁠;&#46;&#x73;&#x﻿76;&#103;‌" />
-  <source med‍ia="(pr‌efers-contrast: more)" srcset="./&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2D;&#x62;&#4‍9;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#98;&#99;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x‍63;&#102;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2D;&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#4﻿5;&#x62;&#x66‌;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#x63;&#46;&#115;&#118;&#x67;" />
-  <img src="./&#x30;&#101;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#45;&#⁠98;&#x31;&#x‌38;&#x66;&#x2D;&#52;&#x33;&#x6​5;&#x65;&#x2d;&#98;&#99;&#48;&#101;&#x2D;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;‍&#x﻿34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2d;&#50;&#x38;&#101;&#55;&#54;&#53;&#x61;&#x37﻿;&#x2d;&#x31;&#x32;&#56;&#x6⁠2;&#x2D;&#52;⁠&#x64;&#x35;&#x35;&#45;&#56;&#56;&#57;&#x63;&#x2D;&#x62;&#102;&‌#x33;&#x62;&#102;&#48;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#x67;" ​al​t="&#32;" width="&#x36;&#48;&#x30;" height="&#x30;&#48;&#48;"​ decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SV⁠G (vector, t​heme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-‌  Integri‍ty: sha384-84cbd81b3dd325fce769117c98af92acdaf8e22c047eb4dacff382c37c12ac85548ce8c4b2b17e6e66a08c7‌7cafcdee1
-
-================================‍===============================﻿=========
+======================================================‌==================
 -->
 <!--
 ============================‍============================================
@@ -2030,65 +2233,13 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
     Response: 6ms (avg)
 
   Dashboard: https://vercel.com/as1tself/portfolio/analytics
-  Export ID: 4119483f-fb68-4845-b581-3f3c2eaf3dd0
+  Export ID: a652bd0e-0551-48ee-8f1c-a4ac5b0ce0ff
 
 =======================⁠===========﻿====﻿==================================
 -->
 <!--
-============================================================⁠============
-  Render Output | social-card [2b8ff35a‍]
-====================================﻿==================================﻿==
-
-  Compon⁠ent: src/components/social-card.tsx
-  Render: prerendered
-  Priority: above-fold
-  Hash: 67d6bad0b154285a
-
-<picture>
-  <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#x6f;&#x6⁠C;&#⁠x6f;&#114;&#x2d;&#115;&#x63;&#104;&#x65;&#x6d;&#‌x65;: &#100;&#97;&#x72;&#x6b;)" srcset="./&#x32;&#56;&#101;&#55​;&#x36;&#53;&#x61;&#x37;&#45;&#49;&#50;&#x38;&#98;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#x38;&#56;&#57;&#9‌9;&#45;&#x62;&#102;&#51;&#98;&#102;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#x2D;&#x30;&#x65;&#1⁠01;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#49;&#x38;&#102‌;&#x2D;&#5‍2;&#x3‌3;&#x65;&#x65;&#45;&#x62;&#x63;&#48;&#x65;&#⁠45;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  ​<source media="(&#112;&#x72;&#x65;&#x66;&﻿#x65;&#x72;&#115;&#x2d;&#99;&#x6f;&#108;&#x6f;&#x72;&#45;&#115;&#99;&#104;&#x65;&#x6d⁠;&#x65;: &#x6C;&#x69;&#103;&#x68;&#x74;)" srcset="./&#x30;&#‌x65;&#101;&#x65;&#x3⁠2;&#55;&#97;&‍#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#51;&#x65;&#101;&#45;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#102;&#98;&#52;&#56;&#51;&#x62;&#x34;&#x63;&#x2d;&#50;&#x38;&#101;&#55;&#x36‌;&#​53;&#x61;&#55;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#x35;&#53;&#x2d;&#x38;&#x38;&#57;&#99;&#45;&#x6​2﻿;&#102;&#51;&#x62;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#x2e;&#x73;&#x76;&#103;" />
-  ​<source media="(&#x70;​&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2D;&#99;&#﻿x6F;&#x6C;​&#x6f;&#114;&#﻿x2d;&#115;&#99;&#x68;&#101;&#x6D;&#x65;: &#115;&#121;&#x73;&⁠#116;&#x65;&#x6d;)" srcset="./&#x30;‌&#101;&#101;&#101;&#50;&#x37;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#x2D;&#52;&#x33;&#101;&#x65;&#x2d;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#52;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#x2D;&#x34;&#x64;&#53;&#53;&#x2d;&#x38;&#x38;&#57;&#99;&#x2d;&#98;&#102;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#99;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(prefers-cont‌rast: more)" srcset="./&#x30;&#x65;&#101;&#101;&#x32;&#55;&#97;&#x32;&#45;&#x62;&#x31;&#56;&#x66;&#x2d;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#x﻿30;&#x65;&#x2d;&#99;&#52;‍&#x30;&#99;&#102;&#98;&#52;&#x38;&#51;&#x62;&#52;&#99;&#45;​&#x32;&#x38;&#101;&#x37​;&#54;&#x35;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#x62;&#45;&#x34​;&#x64;&#x35;&#53;&#45;&#x38;&#56;&#57;&#x63;&#45;&#98;&#x66;&#x33;&#x62;&#x66;&#48;&#‍52;&#101;&​#x39;&#x30;&#x30‌;&#99;&#x﻿2e;&#115⁠;&#x76;&#103;" />
-  <source media="(inverted-⁠colors: inverted)" srcset="./&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#1⁠00;&‍#x35;&#53;&#45;&#x38;&#56;&#57;&#x63;&#45;&#‌x62;&#x66;&#x33;&#x62;&#102;&#x30;&#⁠52;&#x65;&#57;&#48;&#x30;&​#99;&#45;&#48;‍&#x65;&#x65;&#101;&#50;&#55;&#x61;&#50;​&#45;&​#x62;&#x31;&#x38;&#x66;&#x2d;&#52;&#51;&#101;&#x65;&#45;​&#x62;&#x63;﻿&#x30;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#x66;&#x6⁠2;&#52;&#x38;&#x33;&#98;&#52;&#x63;&#46;&#x73;&‌#118;&#x67;" />
-  <img src="./&#x32;&#56;&#101;&#x37;&#x36;&#53;&#97;&#55;&#x2D;&#49;&#x32;&#x38;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#57;&#48;&#48;&#x63;&#x2d;&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2D;​&#x62;&#x63;&#48;&#x⁠65;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x3⁠4;&#56;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#x76;&#103;" alt="&#32;" width="&#x36;&#48;&#x30;" height="&#x30;&#x30;&#x30;" decoding="async" loading="e‍ager" />
-</picture>
-
-  Breakpoi‍nts: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, S﻿MIL animated)
-  Cach⁠e: immutable, max-age=31⁠536000
-  Integrity: sha384-b9e4e6b683042cf1c1afe906cda8c9c61658‌09d95﻿c06be47dc​ab13916f28be6cd9190fbb80a66ef7⁠d9bc‌9edb908107da
-
-==================⁠======================================================
--->
-<!--
-========================================================================
-  Output Output | hero-‌image [25ee4dbf]
-========================================================================
-
-  Component: s⁠rc/components/hero-ima﻿ge.tsx
-  Render: ISR
-  Priority: abov​e-fold
- ⁠ Hash: 87141cf3b21679ed
-
-<pictu​re>
-  <source media="(⁠&#x70;&#114;&#101;&#x66;&#‌101;‍&#114;&#x73;​&#45;&#x63;&#x6f;&#x6c;&#x6F;&#x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#109;&#101;: &#x64;&#x61;&#114;&#x6b;)" srcset="./‍&#50﻿;&#x38;&#x65;&#x3‌7;&#x36;&#53;&#97;&#55;⁠&#x2d;&#49;&#x32;&#x38;&#x62;&#45;&#x34;‌&#100;&#53;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#x66;﻿&#x30;&#52;&#101;&#x39;&#⁠48;&#48;&#99;&#45;&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#101;&#x65;&#x2D;&#x​62;&‍#x63;&#x30;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#52;&#56;&#x33;&#x62;&#52;&#99;&#x2e;&#115;&#11‍8;&#x67;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#1﻿01;&#114;&#115;&#x2D;&#99;&#x6f;&#x6c;&#x6f;⁠&#x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#109;&#x65;: &#x6c;&#x69;&#103;&#104;&#x74;)" srcset="./&#x32;&#x38;&#x65;&#55;&#54;&#5‍3;&#x61;&#x37;&#x2d;&#49;&#x32;&#x38;&#98;&#45;&#x34;&#x64;&#53;&#53;&#x2﻿d;&#56;&#56;&#x39;&#x63;&#x2d;&#98;&#102;&#51;&#﻿x62;&#x66;&#x30;&#x34;&#101;&#x39;&‌#x30;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#x65;&#50;&#x37;&#x61;&#x‍32;&#x2D;&#x62;&#x31;&#x38;&#x66;﻿&#45‌;&#x34;&#51;&#101;&#x65;⁠&#x2d;&#98;&#x﻿63;&#x30;&#⁠x65;&#45;&#x63;&#x34;&#48;&#x63;&#102;&#98;&#52;&#56;&#x33;&#x62​;&#52;&#99;&#46;&#x73;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#10⁠1;&#x66;&#x65;&#114;&#x73;&#x2d;&‌#x63;&#x6f;&#108;&#x6f;&#114;&#x2d;&#115;&#99;&#104;&#x65;&#109;&#x65;: &#x73;&#121;&#x73;&#116;&#x65;&#109;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d‍;&#49;&#x32;&#​x38;&#x62;&#x2D;&#x34;&#x64;&#53;&#53;&#x2D;&‌#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x‍33;&#x62;&#102;&#48;&#x34;&#x‍65;&#57;&#48;&#x30;&#x63;&#x2d;&#48;&#x65;&#‍x65;&#101;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#x31;&#56;&#102;&#x2d;&#x34;&#x33;&#x65;&#101;&#x2D;&#98;&#x63;&#48;&#x65;&#45;&#99﻿;&#x34;&#x30;&‍#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2e;&#115;&#118;&#x67;" />
-  <source media="(pre⁠fers-contrast: more)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#⁠x2D;&#x62;&#49;&#x38;&#x66;&#x2D‍;&#x34;&#x33;&#101;&#x65;&#x2⁠D;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#x34;&#48;&#99;&#x66;&#x62;&#52;&‍#56;&#x33;&#98;&#52;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#5﻿4;&#x35;﻿&#97;&#55;&#x2D;&#x31;&#50;&#56;&﻿#x62;&#x2D;&#x34;&#x64;&#53;&#53;&#x2‍d;&#x38;&#56;&#57;&#99;&#x2d;&#98;&#​x66;&#51;&#x62;&#102;&#x30⁠;&#x34;&#x65;&#x39;&#x30;&#48;&﻿#x63;&#x2e;&#115;&#x76;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#x‍35;&#x35⁠;&#x2d;&#x38;&‌#56;&#57;&#99;&#x2d;&#98;&#102;&#51;&#x62;&#102;&#48;&#x34;&#x65;&#57;&#48;&#48;&#9​9;&#45;&#x3⁠0;&#x65;&#x65;&#101;&#50;&#x37;&#97;&#x32;&#x2d;&#x62;&#x31;&#56;&#x66;&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#99;&#48;&#x65;&#x2D;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#﻿46;&#x73;&#x76;&#103;" />
-  <img src="./&#x32;&#56﻿;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#45;&#x34;&#x6‌4;&#x35;&#53;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#48;&#52;&#101;&#57;&#x30‍;&#x30;&#99;&#x2d;&#x30;&#101;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&⁠#56;&#102;&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#x62;&#99;&#x30;&#x65;&#45;&#99;&#52;&#48;&#x63;&#102;&#x62;&#⁠52;&#x38;&#x33;&#x62;&#x34;&#99;&#x2e;&#x73;&#x76‌;&#x67;" alt​="&#x20;" width="&#⁠x36;&#48;&#48;" height="&#48;&#x70;&#120;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrit‍y: sha384-b753ce3be7ec3f90cc‍1ceb0f669691df84030a5b1830bbc8e2a96050299655f5‍ecfa1561333ddd9728b453c1a55c699d
-
-==================================⁠=========================‍=============
--->
-<!--
 ==========‍==============================================================
-  Session Encryption Key [358a8a29]
+  Session Encryption Key [d011df7e]
 ======================================================================​==
 
   Encoding: base64
@@ -2102,13 +2253,13 @@ Ho+Pb6zmqACoOCI/Wwn+KjdC5SnMnWJ0Xxy6yq4YeuL0BUUTcisikHSqPyRUE​akXUI+hRLGUmHOs
 jareA8a5jF2cKqismaeK0+8TskfhK3OMwSQ3XsxvhPIKm6lcSW/BsB0e7bWG/sEQyQk7UrgM79cf
 Nza5Yq7FvURBu6NBDtYu
 
-  Checksum: sha256:d842be47d6044e71dbc84bdde7db1309cbe2476ae3e39c30bef60128f32095af
+  Checksum: sha256:bd0aa934401e9ccde92de909e7e2b7d272945404d2e5c87251ee7dfa54e1fb90
 
 ========================================================‌=============⁠===
 -->
 <!--
 ============================================================‍===========‌=
-  VAPID Key Pair [eba⁠9b50b]
+  VAPID Key Pair [489⁠720de]
 ========================================================================
 
   Encoding: base64
@@ -2121,9 +2272,110 @@ wBgXSmo90uPpOtdfN1dUJ1dVfMQl8bHqgK​9Ac44QqXCuvGLoDD﻿yPgwjhB99bdsEBO⁠rzQd3w
 gzvYeHmWmNCRJCMotNSO5K1LDzDhIcBfRkpUSERa3qtUeJiGE4zEBiwAWTRZRhurbcVyM/t5ViBx
 JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 
-  Checksum: sha256:621dbb1a1b8e2e3fca21e15e55cae2f69ce75111003​a92e5243589ffb‍0585abc
+  Checksum: sha256:ca57e3fa8abf72b6d5fd023d40b91f892f9572bfbf0​83acbb703fc663‍902fd04
 
 ==========================================================​==============
+-->
+<!--
+========================================================================
+  Render Output | avatar-card [72f8d030]
+====================================‌========﻿============================
+
+  Component: src/components/avatar-card.tsx
+  Render: SSG
+  Priority: above-fold
+  Hash: f7af171b868cc545
+
+<picture>
+  <source media="(&#x7﻿0;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#x6C;&#x6f;&#114;&#x2D;&#x73;&#x63;&#104;&#101;&#x6D;&#x65;:‌ &#100;&#x61;&#x72;&#x6b;)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#97;&#x32;&#x2d;&‌#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#98;&#x63;&​#x30;&#x65;&#x2d;&#x63;&#﻿52;&​#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#51;&#98;&#52;&#x63;&#x2d;&#x32;&#x38;&#x65;&#x37;&​#x36;&#x35;&#97;&#55;&#x2d;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#x64;&#53;&﻿#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#x2D;&#98;&#102;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#46;&#x73;&#x76;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#10‍2;&#x65;&#114;&#115;&#45;&#99;&#x6F;&#108;&#x6F;&#x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#109;&#101;: &#108;&#x69;&#103;&#104;&#x74;)" srcset="./&#x30;&#101;&#101;&#x65;&#50;&#55;&#97;&#50;&#45;&#x62;&#x31​;&#56;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#52;&#x30;&#99;&#102;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#45;&#50;&#56;&#x65;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;​&#52;&#x64;&#53;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;&#x2d‌;&#x62;&#102;&#51;&#98;&#102;&#x30;‍&#x34;&#x65;﻿&#x39;&#x30;&#x30;&#x63;&#46;&#115;&#118;&#103;" />
+  <sourc‍e media="(&#112;​&#x72;&#101;&#x66;&#x65;&#114;&#x73;&#x2D;&#x63;&#x6F;&#x6c‍;&#111;&#x72;&#x2D;&#x73;&#99;‍&#x68;&#101;&#109;&#101;: &#x⁠73;&#x79;&#115;&#116;&#x65;&#109;)" srcset="./&#50;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#48;&#48;&#x6‍3;&#x2D;&#x30;&#101;&#101;&#x65;&#x32;&#55;&#97;&#50;&#x2d;&#x62⁠;&#49;&#56;&#x66;&#x2d;&#52;&#x33;&#101;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&⁠#48;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#55;&#x2d;&#x31;&#50;&#x38;&#x62;&#‌45;&#52;&#x64;&#x35;&#5‍3;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#45;&#48;&#x65;&#x6﻿5;&#x65;&#x32;&#55;&#97;&#x32;&#45;⁠&#98;&#49;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#101;&#x2d;&#98;&#99;&#x30;&#x65;&#45;&⁠#99;&#x34;&#x30;&#99;&#‍x6‍6;&#98;&#x34;&#x38;&#x33;&#x62;&#x3﻿4;&#x‌63;&#x2E;&#115;&#‍x76;&#103;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2d;&#52;&#51;&#101;&#101;&#45;&#98;&#99;&#x30;&#x65;&​#x2D;&#x63;&#52;&#x30;&#99;&#1‌02;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2d;&#50;&#x38;&#101;&#x37;&#54;⁠&#53;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#‌x64;&#x35;&#x35;&#x2D;&#x38;&#56;&#57;&#99;&#x2d;&#x62;&#102;&#51;&#x62;&#102;&#x30‍;&#52;&#x65;&#57;&⁠#x30;&#x30;&#x63;&#46;&#x73;&#118;&#x67;" />
+  <⁠img src="./&#48;&#x65;&#101;&#x65;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#x31;&#⁠x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;‌&#98;&#x63;&#x30;&#101;&#x2d;&#x63;&#52;&#48;&#99;&#102;&#﻿98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#45;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#45;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#48;&#99;&#46;&#x73;&#118;&#103;" alt="&#x20;" wid﻿t‌h="&#x36;&#48;&#x30;" height="&#x30;&#x2E;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-c198eac9eea7c0c2⁠edd88fffd359957fa7bd7a4﻿a5327b6777cbe5f72eec1ac079ca20fccc7826b962ca887b2b9491a8e
+
+============﻿=====================================‍=======================
+-->
+<!--
+========================================================================
+  Output Output | banner-image [528ada0c]
+===========​==================================================﻿===========
+
+  Component: src/components/banner-image.tsx
+  Render: static
+  Priority: high
+  Hash: 4fa‌bbd354deced74
+
+<picture>
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x72;&#115;&#45;&#x63;&#111;&#‌108;&#x6﻿F;&‍#114;&#x2D;&#115;&#99;&#104;&#101;&#x6D;&#101;: &#100;&#x61;&#x72;&#x6b;)" srcset="./&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#51;&#98;&#x6​6;&#48;&#x34;&#x65;&#57;&#x30;&#x30⁠;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;‍&#55;&#97;&#x32;&#45;&#‍x62;&#x31;&#56;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&‍#48;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#98;&#52;&#x63;&#46;&#x73;&#​118;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#114;&#x73;&#45;&#x63;&#111;&#x6c;&#x6F;&#114;&#45;&#x73;&#99;&#104;&#101;&#109;&#101;: &#x6C;&#105;&#103;&#104;&#x74;)" srcset=".﻿/&#48;&#x65;&#x65;&#x65;&#50;&#55;&#97;&#x32;&#x2d;&#x﻿62;&#49;&#56;&#x66;&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#x65;&#x2D;﻿&#99;&#52;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33⁠;&#98;&#x34;&#99;&#45;&#x32;&#x38;&#x65;&#55;&#x36;&#﻿53;&#97;&#x37;&#x2d;&#49;&#x32;&#56;&#x62;&#x2D;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#57;&#48;&#x30;&#x63;&#46;&#115;&#x76;&#x67;" />
+  <source﻿ media="(&#​112;&#114;&#x65;&﻿#102;&#x65;&#x72;&#x73;&#x2d;&#﻿99;&#x6f;&#x6C;&#x6f;&#x72;&#x2D;&#x73;&#99;&#x68;&#x65;&#109;&#x65;: &#x73;&#x79;&#x73;&#x74;&#x65;&#x6d;)" srcset="./&#x32;&#56;&#x65;&#x37;&#x36;&#53;&#97;&#55;&#45;&#x31;&#​x32;&#x38;&#98;&#x2D﻿;&#x34;&#x64;&#x35​;&#53;&#x2d;&#56;&#56;&#x39;&#99;&#45;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#﻿x39;&#48;&#x30;&#x63;&#x2D;&#x30;&#x65;&#x65;&#101;&#x3‍2;&#55;&#97;&#x32⁠;&#x2d;&#x62;&#49;&#56;&#x66;&﻿#x2D;&#x34;&#x33;&#x65;&⁠#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#x34;&#​48;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#46;&#x73;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#x65;&#5‍5;&#54;&#53;&#97;&#55;&#x2d;&#x31;&#x32;&#x38;&#98;&#45;&#52;&#x64;&#​x35;&#x35;&#45;&#x38;&#x38;&#57;&#99;&#45;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#48;&#48;&#x63;&#x2d;&#48;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31‌;&#x38;&#x66;&#45;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#x63;&#x30;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2e;&#115;&#x76;&‍#103;" /‍>
+  <source media="(inverted-colors: inverted)" srcset="./&#x32;​&#x38;&#x65;&#x37;&#x36;&﻿#x35;&#x61;&#55;&#x2D​;&#49;&#50;&#x38;&#98;&#x2d;&#x34;&#x64;&#53⁠;&#53;&#x2D;&#x38;&#x38;&#x3‌9;&#x63;&#x2d;&#98;&#x66;&#51;&#98;&#x66;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#48;‍&#x65;&#101﻿;&#10‌1;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x​62;&#49;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#99;&#102;&#98;&#52;&#56﻿;&#51;&#x62;&#52;&#x63;‌&#x2e;&#x73;&#118;&#103;" />
+  <img src="./&#x30;&#x65;&#‍x65;&#x65;&#x32;&﻿#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&⁠#x65;&#45;&#98;&#x63;&#48;&#x65;&#x2D;&#99;&#x34;&#x‍30;&#x63;&#102;&#x62;&#x34;&#56;&#51;&﻿#x62;&#x34;&#x63;&#x2d;&#x32;&#x38﻿;&#x65;&#55;⁠&#x36;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#x2D;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2E;&#115;&#x⁠76;&⁠#103;" alt="&#x20;" width="&#x36;&#x30;&#x30;" h‌eight="&#48;&#x70;&#120;" decoding="async" loading="eager" />
+<​/picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+‌  Cache: immutable, max-age=31536000
+  Integrity: sha384-dbf7b4e732b3a35f93b5de956b80f7244f21fec⁠2f338ffeb91b8f7614edf2d173d2828c4aff0a623a81c9a98eefa70ed
+
+‌==========‍======‌============================================⁠============
+-->
+<!--
+=‍====⁠======================‌=‌==‍==========================================
+‍  Asset Output | theme-image [903746bf]
+========================================================================
+
+  Component: src/components/theme-image.tsx
+  Render: prerendered
+  ​Priority: high
+  Hash: 55c5c77972979c84
+
+<picture>
+  <sou‍rce media="(&#x70;&#x72;&‍#101;&#x​66;&#101;&#x72;&#115;&#x2D;&#x63;&#x6F;&#108;&#1​11;&#114;&#x2d;&#115;&#x63;&#x68;&#x65;&#x6d;&#101;: &#x64;&#97;&#x72;&‌#x6B;)" srcset="‍./&#x30;&#101;&#101;&#x65;&#50;&#x37;&#97;&#50;&#x2D;&#x62;&#x31;&#56;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#x30;&#101;&#45;⁠&#x63;&⁠#x34;&#x30;&#x63;&#x66;&#x62;&#52;﻿&#x38;&#51;&#x62;&#x34;&#x63;&#x2D;&#x32;&‍#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#102;&#4​8;&#x34;&#x65;&#57;&#x30;&#48;&#99;&#x2E;&#115;&#118‌;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#101;&#114;&#x73;&#x2d;&#x63;&#x6F;&#x6c;&#111;&#x72‍;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#x6c;&#105;&#x67;&#x68;&#116;)" srcset="./&⁠#x32;&#x‍38;&#x65;&#55;&#x36;&#53;&#x61;&#55;&#45;&#49;&#50;&#5⁠6;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&#x2D;&#56;&#x38;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x​30;&#x63;&#x2D;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#50;&#45;&#x62;&#x31;&‍#x38;&#‍x66;&#45;&#52;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#x65;&#x2D;&#99;&#52;&#48‌;&#99;&#102;&#x62;&#52;&#5⁠6;&#x33;&#x62;&#x34;&#x63;&#x2E;&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#45;&#x63;&#111;&#108;&#111;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#101;: &#115;&#x79;&#115‌;&#x7‌4;&#x65;&#10﻿9;)" srcset="./&#x30;&⁠#x65;&#101;&#101;&#50;&#x37;&#97;&#x‌32;&#45;&#98;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#52;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#52;&#99;&#45;&⁠#x32;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#‌50;&#x38;&#98;&#4​5;&#52;&#100;&#53;&#53;&#45;&#56;&#x‌38;&#x39;&#‌99;&#x2d;&#x62;&#102;&#51;&#98;&#x66;&#48;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#x2e;&#115;&#118;&#x67;​" /﻿>
+  <source media="(inverte⁠d‌-colors: inverted)" srcset="./&#x32;&#x38;&#‌101;&#55;&#54;&#53;&#x61;&#55;&#45;&#49;&#x32;&#x38;&#x62;&#x2D;&#52;&#x64;&#x35;&#53;&#x2D;&#x38;&#56;&#x39;&#x63;&#x2d;&#98;&#102;&#51;&#x62;&#x66;&‌#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#101;&#101;&#⁠x2d;&#x62;&#x63;&#x30;&#x65;&#x2D;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;﻿&#99;&#46;&#x73;&#x76;&#x67;" />
+  <img ﻿src="./&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#102;&#x2D;&#52;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;‍&#x30;&#99;&#x66;&#98﻿;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#45;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#x62;&#x﻿66;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#x67;⁠" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#48;&#48;​&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 120‌0px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-181b0ecd462f30d6a1fc14​9﻿8b9d61b9dc47319dbeb168df3a0bf7997472e08a485d528840c11550ba242f6288a9ba534
+
+===============================​=================================﻿=⁠=======
+-->
+<!--
+======‌=================⁠=================================================
+  Hydrated Output | banner-image [391ec3b2]
+====⁠====================================================================
+
+  Component: src/components/banner-image.tsx
+  Render: prerendered
+  Priority: high
+  Hash: e97ab3b991﻿bf9045
+
+<picture>
+  <source media="(&#x70;&#x72;&#x65​;&#x6‍6;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6f;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#99;&#104;&#x65;&#109;&#x65;: &#100;&#x61;&#x72;&#x6B;)" srcset="./&#x30;&#101;&#x65;&#101;&#x32​;&#x37;&#x61;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#101;&#45;&#98;&#99;&#x30;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x6‍3;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2d;&#50;&#x38;&#101;&#55;&#x36;&#53;&#x61;&#x37;&#⁠x2d;&#x31;&#x32;&#56;&#98;&#x2d;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x39;&#99;‌&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#48;&#48﻿;&#99;&#46;&#x73;&#118;&#103;" />
+  <source media="(&#112;&#114;&#1⁠01;&#x66;&#101;&#114;‌&#x73;&#45;&#x63;&⁠#x6f;&#108;&#x6f;&#x72;&#x2d;&#115;&#x63;&#1⁠04;&#101;&#x6d;&#x65;: &#x6C;&#x69;&#x67;&#104;&#x74;)" srcset="﻿./&#48;&#101;&#x65;‌&#x65;&#x32;&#55;&#97;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#x2d;&#52;​&#x33;&#x65;⁠&#⁠x65;&#x2d;&#98;&#x﻿63;&#48;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#102;&#​x62;&#52;&#56;&#x33;&#98;&#x34;&#99;&#x2d;&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#x2D;&#x31;&#x32‌;&#56;&#x62;&#x2d;&#x34;&#100​;&#53;&#x35;&#45⁠;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30﻿;&#99;&#46;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-c‍ontrast: more)" srcset="./&#48;&#x65;&#101;&#x65;&#50;&#55;&#97;&#x32;&#45;&#98;&#x31;&#56;&#102;&#45;&#52;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#10⁠1;&#x2d;&#99‌;&#‍52;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#52;&#⁠x63;&#45;&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#49;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#48;​&#x30;&#x63;&#x2E;&#x73;&#x76;&#x67;" />
+  <⁠i﻿mg src="./&#48;&#x65;&#x65;&#x65;&#​50;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#56;&#102;&#x2d;&#x34;&#x33﻿;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#x﻿2d;&#x63;&#52;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x6﻿3;&⁠#45;&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#45;&#98;&#x‌66;&#51;&#x62;&#x66;&⁠#48;&#x34;&#x65;‌&#x39;&#48;&#48;&#x63;&#46;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x3​6;&#x30;&#x30;" height="&#48;&#x30;&#x30;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1200px (2x)
+  Format: SVG (vector, theme-aware, SMIL animated)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-052444f59296282957b1a4364187ccce1019aa722e2c62fdbdfdf90acbf1283397b9eef0‍0c728897faeee57c07a2ec23
+
+===============⁠=========================================================
 -->
 <!--
 =====================================================================‌===
@@ -2166,59 +2418,9 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     - Stale-wh﻿ile-revalidate for cached pages
     - Static fallback for complete failure
 
-  Config﻿ ID: 367c5402-b7fa-4d4b-9f2c-ab98bedac404
+  Config﻿ ID: 45d344c5-ddd3-43e5-9562-6e6ad7e5030e
 
 ========================================================================
--->
-<!--
-============‌=========================​===================================
-  Output Output | social-card [0c848a44]
-==================⁠======================================================
-
-  Component: src/c﻿omponents/social-card.tsx
-  Render: static
-  Priority: above-fold
-  Hash: a7139df6d4af52c2
-
-<picture>
-  <source media="(&#112​;&#114;&#x65;&#102;&#101;&#114;&#x73;&#x2d;&#99;&#x6F;&#108;&#x6f;&#114;&#x2D;&#x73;&#x63;&#x68;&#x‌65;&#x6D;&#x65;:‌ &#100;&#x﻿61;&#114;&#x6b;)" srcset="./&#x30;&#101;&#101;⁠&#x65;&#x32;&#55;&#x61;&#50;&#45;&#x62;&#49;&#5​6;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#⁠x2d;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#56;&#x33;&⁠#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#‍x32;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#53;‌&#x2d;&#56;&#56;&#x39;&#x63;&#x2D;&#x62;&#102;&#51;&#x62;&#102;&#48;&#52;&#x65;&#57;&#x30;&#x30;&#99‍;&#46;&#x73;&#x76;&#x67​;" />
-  <source media="(&#x70;&#x72;&#x65;&#102;&#101;&#x72;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x6f;&#﻿x72;&#45;&#x73;&#99;&#104;&#x65;&#109;&#101;: &#108;&#x69;&#x67;&#x68;&#116;)" srcset=".​/&#x32;&#56;&#x65;&#x37;&#x36;&#5⁠3;&#x61;‍&#x37;&#x2d;&#49;&#x32;&#x38;&#x﻿62;&#x2D;&#52;&#100;&#53;&#53;&#x2d;&#56;&#56;&#57;&#x63;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#99;&#x2d;&#x30;&#x6‌5;&#x6﻿5;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#56;&#x66;&#45;&#52;&#x33;&#x65;&#101;&#x2d;&#9⁠8;&#x63;&#x30;&#101;&#45;&#99;&#x34;&#48;&#x63;​&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#46;&#115;&#118;&#x67;" />
-  <source media​="(&#x70;&#x72;⁠&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x6F;&#114;&#45;&#x73;&#99;&#x68;&#x65;&#x6d;&#101;: &#x73;&#121;&#115;&#x74;&#101;&#109;)" srcset="./&#x30;&#101;&#x65;&#101;&#50;&#55;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#52;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#101;&#x2D;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34⁠;&#56;&#x33;&#98;&#x34;&#x63;&#x2d;&#x32;&#x38;&#x65;&#x37;&‍#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;﻿&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#x3﻿9;&#99;&#x2D;&#x62;&#102;&#x33;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#99;&#x2E;&#x73;&#x76;&#x67;" />
-  <source media="(prefers-contrast: more)" src​set="./&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#45;&#x‌34;&#x64;&#53;&#x35;&#x2D;&#x38;&#x38;&#57;&#99;&#x2d;&#98;&#102;&#51;&#9‍8;&#x66;&#x30;&#x34﻿;&#‍101;&#57;&#x30;&#48;&#x63;&#45;&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;⁠&#50;&#x2d;&#x62;&#49;&#56;&#102;​&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <img src="./&#48;&#101;&#x65;&#x65;&#50;&#​55;&#x61;&#x32;&#45;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#x​30;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#51;&#98;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#5‍4;&#53;&#97;&#x37;&#45;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#x2d;&#x38⁠;&#56;&#57;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x6⁠6;&#x30;&‍#52;&#101;&#x39;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#x67;" alt="&#32;" width="&#54;&#48;&#48;" height="&#x30;&#x2e;&#x30;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL ani﻿mated)
-  Cache: immutable, max-age=31536000⁠
-  Integrity: sha384-574c7dce4fa3f84da026d14b8ff3b8246a1c31066771147c55375899cb3532a76396c818943bfa60b2d0c5ee9470a8fa
-
-=====================================​===================﻿================
--->
-<!--
-=============​======================================​=====================
-  Component Output | og-image [2c5a6b5d]
-============​=====​=======================================================
-
-  Component: src/components/og-image.tsx
- ⁠ Render: ISR
-  Priority: high
-  Hash: c034ecfb5a3f8a75
-
-<picture>
-  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x6F;&#114;&#45;&#x73;&#x63;&#x68;&#x65;&#109﻿;&#x65;: &#1‍00;&#97;&#x72;&#x6b;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2D;&#49;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#53;&#x35;&#x2d;&#56;&#56;&#x39;&#x63;&#x2d;&#9⁠8;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;‍&#x65;&#x39;&#x30;&#48;&#99;&#45;&#x30;&⁠#x65;&#101;&#101;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#45;&#x63;&#52;&#48﻿;&#x63;&#x66;&#x62;&#x34;&#x38;&#⁠x33;&#98;&#x34;&#99;&#x2E;&#115;&‍#x76;&#103;" />
-  <source media="(&#112;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#x2d;&#x63;&#x6f;&#108;&#‍x6F;&#x72;&#x2d;&#115;&#99;&#x68;&#x65;&#109;&#101;: &#108;&#105;&#103;&#x68;&#116;)" sr‌cset="./&#4﻿8;&#x65;&#x65;&#101;&#50‌;&#x37;&#97;&#50;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#x65;&#101;&#x2d;&#98;&#99;&#x30;&#101;&#​x2D;&#99;&#x34;&#x30;&#x63;&#102;&#98;&#52;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#50;&#56;&#x65;&#x37;&#x36;&#53;&#97;&#55‌;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#52;&#100;&#x35;&#x35;&#x2D;&#56;&#x38;&#57;&#99;&#x2D;&#x62;&#x66;&#x33;‍&#x62;&#x66;&⁠#x30;‍&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#46;&#115;&#118;&#103;" />
-  <source me‍dia="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#115;&#x2d;&#99;&#x6﻿f;&#108;&#x6f;&#x72;&#45;&#115;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#x73;&#x79;&#x73;&#x74;&#x65;&#x6D;)" srcs⁠et="./&#50;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#45;&#52;&#x64;⁠&#x35;&#x35;&#x2d⁠;&#‍x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&‍#48;&#x63;&#45;&#48;&#x65;&#1​01;&#101;&#50;​&#x37;&#x61;&#x32;&#x2d;&#x62​;&﻿#49;&#x38;&#x66;&#45;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#99​;&#46;&#x73;&#x76;&‍#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#x65;&#﻿x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#x66;&#98;&#52;&#x​38;&#x33;&#x62;&#x34‌;&#x63;&#x2d;&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x‍2d;&#56;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#x76;&‌#103;" />
-  <img src="./&#x30;&#101;&#101;&#x65;&#x32;&‍#5‍5;&#97;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#45;&#x6‍2;&#9‌9‌;&#x30;&‍#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#52;&#56;&﻿#x33;&#x62;&#52;&#99;&‌#x2d;&#50;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#x2d;&#x62;&#x66;&#x33;&‌#9‌8;&#x66;&#x30;&#x34;&#101;​&#x39;&#x30;&#x30;&#x63;&#46;&#115;&#x76;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#x30;" height="&#x30;&#x70;&‍#x78;" decoding="async" loading="eager" />
-</pictu​re>
-
-  Br‌eakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-6ab5cc0c3f34aa6c1e838fd99c71c7a42c11119a17238e63ab1d9f6014d76ca7f138fa06cf8eb306c424ce6f72c84272
-
-====‍====================================================================
 -->
 <!--
 =========================​=========================================​======
@@ -2229,7 +2431,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 
   Active Experiments:
 
-  [experiment-532d1e8e] Hero Section Layout
+  [experiment-c9c0d003] Hero Section Layout
     Status:﻿ running
     Started: 2025-02-18T00:‍10:44.000Z
     Traffic: 50/50
@@ -2239,9 +2441,9 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Metric: bounce_rate, time‍_on_page
     Significance: 95%
     Current results: control +4.4% (not yet significant)
-    Cookie: __exper⁠iment_hero_873f25
+    Cookie: __exper⁠iment_hero_8417c3
 
-  [experiment-8ad3b31f] Blog Post CTA
+  [experiment-46b54d7f] Blog Post CTA
     Status: running
     Started: 2025-02-11T15:18:35.000Z
     Traffic: 33/33/34
@@ -2252,62 +2454,87 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Metric: click_through_rate
     Significa﻿nce: 95%
     Current results: variant_b +3.3% (p=0.032)
-    Cookie: __experiment_cta_f8cd67
+    Cookie: __experiment_cta_cf9da1
 
   Middleware: src/middleware.ts (edge runtime)
   Analytics: Vercel Web Analytics‌ + PostHog
-  Config hash: e8ab1b475217b1d4
+  Config hash: 1046c4458774afed
 
 =====================‌===================================================
 -->
 <!--
-========⁠================================================================‌
-  Hydrated Output | theme-image [2f8a2b98]
-====================================⁠==‌===‍===============================
+============﻿======================================‌======================
+  Render Output | banner-image [13d8b201]
+========================================================================
 
-  Component: src/﻿compo‌nents/theme-image.tsx
-  Render: SSG
-  Priority: a﻿bove-fold
-  Hash: 2f38bbddd4b42249
+  Component: src/components﻿/banner-image.tsx
+  Render: static
+  Pr‌iority: critical
+  ‌Hash: fa4c12f74a2ed83a
 
 <picture>
-  <source media="(&#112;&#114;&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#99;&#x6F;&#x6c;&#x6f;‌&#x72;&#x2d;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#x64;&#x61;&#x72;&#x6B;)" srcset="./&#x32;&#56;&#x65;&#x37;&#54;&#53;&#x61;&#55;&#x2D;&#x31;&#x32;&#5‌6;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#x2D;&#x62;&‍#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#99;&#45;&#x30;&#101;&#x65;&#101;&#x32;&#x37;&#97;&#50;&#x2D;&#x62;&#49﻿;&#56;&#102;&#x2d;&#x34;&#51‌;&#x65;&#x65;&#45;&#98;&#99;&#x30;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#46;&#x73;​&#118;&#x67;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#x72;&#115;&#x2d;&#x63;&#x6F;&#108;&​#111;&#x72;&#x2D;&#x73;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#x6C;&#x69;&‌#x67;&#x68;&#x74;)⁠" srcset="./&#⁠x30;&#‍x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2D;&#98;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#48;&#x65;&#x2d;&#99;&#52;&#x30;&#99;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2D;&#50;&﻿#x38;&#101;&#x37;&#54;&#x35;&#97;&#⁠55;&#x2D;&#x31;&#50;&#x38;&#x62;&#45;&#52;&#100;&#x35;&#53;&#x2D;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#x63;&#46;&#x73;&#x76;&#103;" />
-  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#114;&#115;&#x2d;&#x63;&#x6F;&#x6C;&#x6⁠f;&#x72;&#x2D;&#x73;&#99;&#x68;&#x65;&#x6d;&#​x65;: &​#x73;&#x79;&#115;&#116;&#x65;&#109;)" srcset="./&#x32;&#56;&#x65;&#x﻿37;﻿&#x36;&#53;&#x61;&#55;&#x2d;&#x31;&#x32;&#x38;&#98;&#x2​d;&#52;&#x64;&#x35;&#53;&#45;&#x38;&#x38;&#​x39;&#x63;&#x2d;&#x62;&#​102;​&#x33;&#x62;&#x66;&#48;&#x34;&#10‌1;&#x39;&#x30;&#x30;&#99;&#x2D;&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#x﻿61;&#﻿50;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2e;&#x73;&#118;&#x67;" ‍/>
-  <img src="./&#50;&#x38;&#x65;&#55;&#54;&#x35;&#97‍;&#55;&#x2d;&#x31;&#x32;&#x38﻿;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56‌;&#57;&#99;&#45;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;‍&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&﻿#x32;&#x‌37;&#97;&#50;&#x2D;&#98;&#x31;&#‌56;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2​E;&#x73;&#118;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#x30;" h﻿eight="&#48;&#48;&#48;" decoding="async" loading="eager" />
+  <source media="(&#112;&#114;&#101;&#x66;&#101;&#x72;&#115;&#45;&#x63;&#x6f;&#108;&#111;&#114;&#x2d;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#100;&#x61;&#x72;&#x6b;)" srcset="./&#50;&#x38;&⁠#x65;&#x37;&#‌x36;&#53;&#x61;&#55;&#x2D;&#x31;&#50;&#x38;&#98;&#x2d;&#x34​;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x6﻿5;&#x39;&#x30;&#x30;&#x63;&#x2d;&#48;&#x﻿65;&#x65;&#x65﻿;&#50;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2D;&#x34;&#51;&#101;&#x65;&#x2D;&#98;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x6‌5;&#x72;&#11​5;&#45;&#x63;&#111;&#x6C;&#x6f;&#x72;&#x2d;&#x73;﻿&#x‌63;&#x68;&#10‌1;&#x6D;&#x65;: &#x6c;&#x69;&#103;&#104;&#x74;)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#50;&#45;&#98‍;&#﻿x31;&#x38;&#102;&#x2D;​&#5‍2;&#51;&#101;&#x65;&‌#x2d;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#99;&#x66;&#98;&#52‌;&#56;&#x33;&#98;&#52;&#x63;&#x2D;&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#x2D;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2D;&#‍98;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#x65;&#57;&#48;&#x30;﻿&#x63;&#x2E;&#1⁠15;&#118;&#103;" />
+  <source media="﻿(&#112;&#x72;&#101;&#x66;&#x65;&#x72‌;&#115;&#45;&#x​63;&#111;&#108;&#x6F;&#114;&#45;&#x73‍;&#x63;&#x68;&#x65;&#x6d;&#101;: &#x73;&#x79;&#x73;&#x74;&#101;&#x6D;)" srcset="./&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#98;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x‍65;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#x66;&#98;&#x34;&#56;&#51;&#‍x62;&#52;&#x63;&#45;&#x32;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#x38;&#98;&#x2d;&#52;&#x64;&#x3⁠5;&#53;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33​;&#x62;&#102;&#x30;&#52;&#x65;&#57;&#x30;&#48;&#x63;&#x2E;&#115;&#118;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#97;&#50;&#x2D;&#98;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#x‍65;&#x2D;&#x62;&#x63‍;&#48;&#x65;&#x2D;&⁠#99;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#x3​8;&#x33;&#x62;&#x34;&#99;&#x2D;&#50;&#56;&#x65;&#‌55;&#x36‍;&#53;&#97;&#x37;&#45;&#49;‍&#50;&#x38;&#98;&#x2D;&#x34;&#x64;&#53;&#53;&#45;&#56;&#x38;&#x39;&#x63;​&#45;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#x‍30;&#x63;&#x2e;&#x73‍;&#118;&#x67;" />
+  <img src="./&#x32;&#56;​&#101;&#x37;&#54;&#53;&#97;&#x37;&#45﻿;&#49;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;​&#45;&#98;&#102;&#51;⁠&#x62;&#102;&#48;&#52;&#x65;&#x39;&#x30;&#48;&#99;&#x2D;&#48;&#x65;&#x65;&#101;&#50;&#x3⁠7;&#97;&#50;&#x2D;&#98;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#101;&#10﻿1;&#45;&#x62;&#x63;&#48;&#1​01;&#45;&#x63;&#x34;&#48;&#x63;&#102;⁠&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#x2e;&#115;&#118;⁠&#103;" alt="&#x20;" width="&#x36;&#48;&#48;" height="&#x30;&#x70;&#120;" dec⁠oding="async" loading="ea​ger" />
 </picture>
 
   Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=315360⁠00
-  Integrity‌: sha384-ec6664108fc394fa7094f39c002d994cd9dd24079449479dabc1856e0b1afaece3308﻿f92c484ffd4fb813de18dd61734
+  Format: SVG (vector, theme-aware, SMIL animated)﻿
+  Cache‍: immutable‌, max-age=31536000
+  Integrity: sha3​84-29282961f8ea42cf97b1b3e9dbf24ac99ef329529370ef53b4b56b98bd3edc75c89874563094980b312b199e0c518d80
 
-=====================‌===============​====================================
+========================================================================
 -->
 <!--
-===================================================⁠=====================
-  Component Output | avatar-card [3ef388e9]
-==============================﻿==========================================
+=====⁠====​===========⁠=====================﻿=====================‍==========
+  Outpu​t Output | og-image [3b8f0e9e]
+========================================================================
 
-  Component: src/components/avatar-card.tsx
-  Render: ISR
+  Component: src/compo‍nents/og-image.tsx
+ ‌ Render: ISR
   Priority: critical
-  Hash: e‍8e585d854a11afb
+  Hash: cd5653171e389543
 
 <picture>
-  <source media="(&#112;&#114;&#x65;&#102;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6c;&#111;&#x72;&#x2D;&#x73;&#9﻿9;&#x68;&#x65;&#x6D;&#101;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#45;&#98;&#x63;&#48;&#101;&#x2D;&#x63﻿;&#x34;&#x30;&#x63;&#x66;&#98​;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#45;&#x3‌2;&#x38;&#x65;&#x37;&#54;&#53;&#x61;&#55;&#45;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#x64;​&#53;&#x35;&#x2d;&#56;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#98;&#102;&#x30;&#52;&#101;&#57;&#x30;&#x30;&#99;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&﻿#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&⁠#x2d;&#x63;&#111;&#108;&#111;&#114;&#45;&#115;&#99;&#x6​8;&#x65;&#x6D;&#101;: &#x6c;‍&#x69;&#x67;&#104;&#x74;‌)" srcset="./&#x30;&#101;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#x2d;&#x‌62;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2D;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#99;&#x2d;&#50;&#x38;&#x65;&#55;&#54;&#x35;&#x61;‌&#55;&#x2D;&#x31;&‍#x32;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#102;&#51;&#98;&#x66;&#48;&#52;&#x65;&#x39;&#48;&#48;&#99;&#x2E;&#x73;&#x76;&#103;" />
-  <source media="(&#⁠x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2d;&#x63;&#x6F;&#108;&#111;&#x72;&#45;&#115;&#x63;&#104;&#x65;&#x6D⁠;&#x65;: &#x⁠73;&#x79;&#115;&#116;&#x65;&#x6d;)" srcset="./&#x32‌;&#x38;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&#x2d;&#x38;&#56;&#x3⁠9;&#x63;&#x2d;&#x62;&#102;&#51;&#98;&#x66;&#x30;&#52;&#x65;&#57;&#48;&#x3﻿0;&#99;&#45;&#48;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#x63;&#​x30;&#x65;&#45;&#x63;&#52;&#x30;&#x63;&#102;&#98;&#52;&#x38;&#51;&#98;&#x3‍4;&#x63;&#‍46;&#x73;&#118;&#x67;" />
-  <source m​edia="(prefers-contrast: more)" srcset="./&#x30;&#101;&#x65;&#101;&#x32;&#x37;&#97;&#50;&#45;&#x⁠62;&#x31;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101;&#45;&#98;&#x63;&#48;&#x65‍;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2d;&#50;&#x38‌;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&﻿#45;&#49;&#x32;&#56;&#x62;&#45;&#x34;&#x64;&#x35;&#x35‍;&#x2d;&#x38;&#x38;&#x39;&#99;&#x2D;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#48;&#48;&#99;&#x2e;&#11﻿5;&#118;&#x67;" />
-  <img src="./&#48;&#x65;&#101;&#101;&#5​0;&#55;‍&#x61;&#50;&#x2d;&#98;&#x31;&#56;&#x66;&#x2D;&#52;&#51;&#x‍65;&#x65;&#45;&#x62;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#98‍;&#52;&#99;&#x2D;&#x32;&#56;&#x65;&#x37;&#x36;&#53;&#‍97;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#52;&#100;&#x35;&#53;&#45;&#x38;&#56;&#x39​;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#1‍02;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#x63;&#x2E;&#x73;&#x76;&#x⁠67;" alt="&#x20;" width="&#x36;&#48;&#48;" height="&#48;&#x30;&#48;" decoding="async" loading="eager" />
+  <source media="(&#112;&#x72;&#101;&#x66;&#x65;&#114;&#x73;&#45;&#x63;&#x6F;&#108;&#111;&#114;&#x2d;&#115;&#x63;&#x68;&#101;&#x6d;&#x65;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#50;&#x38;&#​101;&#x37;&#54;&#x35;&#x61;&#x37;&#45;&#x31;&‍#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&‌#x35;&#x2d;&#56;&#x38;&#x39;&#99;&‍#x2d;&#x62;&#x66;&#x33;&​#98;&#102;&#48;&#x34;&#x65;&#57﻿;&#x30;‌&#x30;&#x63;&#45;&#48;&#x65;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#x65;&#x2D;&#98;&#99;&#48;&#x65;&#45;&#99;&#52;‌&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34‍;&#x63;&#x2e;&#115;&#x76;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#102;&#x65;&#114;&#1‌15;&#x2d;&#⁠99;&#111;&#108;&#111;&#x72;&#45;&#x73;&#x63;&#104;&#x65;&#x6d;&#101;: &#x6C;&#105;&#x67;&#x68;&#x74;)" srcset="./&#50;&#56;&#x65;&#x37;&#‌54;&#x35;&#97;&#x37;&#x2D;&#49;&#x32;&#x‍38;&#98;&#x2D;&#x34;&#x64;&#53;&#x35;&#45;&#x38;‍&#x38;&#x39;&#9﻿9;&#‌x2d;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#99;&#x2D;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#98;&#49;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#56;&#51;&#x62;&#x​34;&#x63;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(&#x70;&#x7‍2;&#101;&#102;&#x65;&#114;&#x73;&#45;&#x63;&#x6f;⁠&#108;&#x6f;&#x72;&#x2D;&#x73;&#x63;&#x68;&#x65;&#﻿109;&#101;: &#115;&#121;&#x73;&#116﻿;&#101;&#109;)" srcset="./&#x30;&#101;‍&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2D;&#52;&#51;&#101;&#x‍6⁠5‍;&#x2d;&#x62;&#99;&#x30;&#x65;&#4‍5;&#x63;&#x34;&#x30;&#x63;&#102;&#9​8;&#﻿x34;&#x38;&#x33;&#x62;&#52;&#99;&#x2D;&#x3﻿2;&#​56;&#x65;&#55;&#54;&#x35;&#x61;&#x37;&#x2D﻿;&#49;&#50;&#x38;&#x62;&#45;&#x34;&#x64;&#53;&#x35;&#x2D;&#56;&#56;&#x39;&#x63;&​#45;&#x62;&#x66;&#51;&#98;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2E;&#115;&#x76;&#103;" />
+  <source media="(pre⁠fers-cont⁠rast: ﻿more)" srcset="./&#x30;&#x6‍5;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#56;&#102;​&#45;&#52;&#51;&#101;&#101;&#x2d;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;‍&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x6⁠3;&#x2D﻿;&#x32;&#56;&⁠#x65;&#55;&#54;&#x35;&‌#97;‍&#x37;&#x2D;&#x31;&#50;&#56;&#98;&#45;&#52;&#100;&#x35;&#53;&#45;&#x38;&#56;&#57;&#x63;&#x2d;&#98;&#x66;&#x33;&#98;&#102;&#x30;&#﻿52;&#101;&#x39;&#x30;&#48;&#99⁠;&#x2E;&#x73;&#x76;&#x67;" />
+  <img src="./&#48;&#101;&#x65;&#101;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&﻿#45;&#52;&#51;&#101;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#x2d;&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&​#x61;&#x37;&#x2d;&#49;&#50;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#53;&#x2d;&#56;&#x38;&#57;&#99;&#x2d;&#x62;&#102;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#x39;&#48;&#⁠x30;&#x63;&#x2E;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="&#48;&#x2e;&#x30;" decoding="async" loading="eager" />
 </picture>
 
   Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
+  Format: SVG (vector, theme-aware, SMIL animated​)
   Cache: immutable, max-age=31536000
-  Integrity: sha384-a304373c0810882687974ac1987e8ce‌646ca7d0c8edd‌6bc81338097193f6de87﻿28f7be4072d77382596931c74a971ad6
+ ​ Integr‌ity: sha384-18977e6d9c5ca2b0984ed﻿e0c1e306c91d9d06cab0fffd6763581bae832e5efcdfeab60954157f5f9a423a8149a41169b
 
-=======================================﻿===============﻿=======​===========
+====================‌==​=====================⁠==========================​===
+-->
+<!--
+=========================================﻿===============================
+  Render Output | banner-image [7238bf72]
+=============​==================================================﻿=========
+
+  Comp​onent: src/components/banner-image.tsx
+​  Render: prerendere⁠d
+  Priority: above-fold
+  Hash: a60b8cdae94c1a2c
+
+<pictu‌re>
+  <source media="(&#112;&#x72;&#x65;&#‌x66;&#x65⁠;&#114;&#x73;&#4​5;&#x63;&#111;&#x6c;&#111;&#x72;&#45;&#11​5;&#99;&#x68;&#101;&#x6D;&#101;: &#x64;&#97;&#114;&#107;)" srcset="./&#x32;&#56;&#101;&#x37;&#54;&#x35;&#x61‌;&#⁠x37;&#45;&#49;&#50;&#56;&#x62;&#x2d;&#x34;&#100;&#53;‍&#x35;&#x2D;&#56;&#56;&#57;&#99;&#45;&#98;&#x66;&#51;&#98;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#102;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2e;&#‍x73;&#x76;&#103;" />
+  <source media="(&#112;&#x72;&#‍x65;&#102;&#x65;&#114;&#115;&#x2d;&#99;&#x6F;&#108;&#x6f;&#114;&#x2D;&#﻿x73;&#99;&#x68;&#101;&#109;&#101;: &#x6c;&#x69;&#103;&#x68;&#116;)" srcset="./&#x30;&#x65;&‍#101;&#101;&#50;&#x37;&#97;&#50;&#45;&#98;&#x31;&#56;&#102;&#x2d;&⁠#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#x3﻿8;&#51;&#x62;&#x34;&#99;&#x2D;&‍#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#45;&#x31;&#50;&#56;&#x62;&#45;&#x34;&#100;&#53;&#53;&#45;&#x38;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#46;&#x73;&#x76;&#103;" ‌/>
+  <source media="(&#112;&#114;&#101;&#x66⁠;&#x65;&#x72;&#x73;&#x2d;&#x63;&#‍x6f;&#x6c;&#x6f;&#x72;&#45;&#x73;&#99;&#104;&#101;&#x6d;&#101;: &#x73;&#x79;&#x73;&#116;&#x65;&#x6d;)" srcset="./&#x30;​&⁠#101;‍&#101;&#101;&#50;&#x37;&#x61;&#50;&#x2d;&#98;&#x31;&#x38;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#x‍65;&#45;&#x63;&#52;&#48;&#x63;&#102;&#98;&#x34;&#56;&#51;&#98;&#52;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;﻿&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#45;&#56;&#x38;&#x39;&#99;&#45;&#x62;&#x66;&#x33;&#x62;&#102;&#48;&#52;&#x65;&#5﻿7;&#x30;&#x30;&#99;&#x2e;&#x⁠7⁠3;&#x76;&‌#x67;" />
+  <img src="./&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#97;&#x37;&#x2d;&#49;&#x32;&#‌56;&#x62;&#x2D;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#56;&#57;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#x2d;&#48;&#101;&#x65;&#101;&#50;&#55;&#97;&#x32;&#45;&#98;&#49;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#101;&#x2D;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#46;&​#x73;&#118;&#x67;" alt="&#32;" width="&#x36;&#48;&#x30;" heigh﻿t="&#x30;&#x70;&#x78;" decoding="async" loading="eager" />
+</picture>
+
+  Breakpoints: 600px (1x), 1⁠200px (2x)
+  Format: SVG (vector, theme‌-aware, SMIL animate‌d)
+  Cache: immutable, max-age=31536000
+  Integrity: sha384-34ee8cfc2ec0b06773d7056c322e63a19ec132fb2f64e5794bc21d56fa6b6a19ae95e08f2cd95a8ac5d7ebb7bed037f﻿b
+
+⁠===========‌=============================================================
 -->
 <!--
 ===================================﻿=‍====================================
@@ -2315,7 +2542,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 ===========================​=============================================
 
 ‌  Provider: Vercel Edge Config
-  Edge Config ID: ecfg_5915935caca478a5dc344fe8
+  Edge Config ID: ecfg_f6edc9aa7872997e61faca63
   Last synced: 2025-02-11T03:52:16.000Z
 
   Flags:
@@ -2341,218 +2568,60 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     - production: as configured above
 
   Evaluation: edge (< 1ms latency)
-  Config hash: dc5dda4210ec168c
+  Config hash: 65a565f9778f8582
 
 =﻿===========================================================‌============
 -->
 <!--
-========================================================================
-  Output Output | theme-image [f238c⁠10f]
-========‌===========================================================​=====
-
-  Component: src/components/theme-image.tsx
-  Render: prerendered
-  Priority: high
-  Hash﻿: db91ab6ed936f6a0
-
-<picture>
-  <source ﻿media="(&#x70;﻿&#114;&#x65;&#102;&#101;&#x72;&#x73;&#45;&#x63;&#111;&#108;&#x6f;&#x72;&#45;&#x73;&#99;&#104;&#101;&#x6d;&#x65;: &#100;&#97;&#x72;&#x6b;)" srcset="./&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#56;&#x62;&#x2d;&#52;&#100;&#x35;&#53;&#45;&#56;‌&#x38;&#57;&​#x63;&#x2D;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x3﻿4;&‌#101;&#x39;&#‌48;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#101;&#50;&#x37;&#97;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#x2d;&#52;&#x33;&‍#x6﻿5;&#101;&#45;&#98;&#x6​3;&‍#48;&#x65;&#45;&#99;‌&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#98;&#x34;&#99;&#46;&#x7‌3;&#x76;&#x67;" />
-  <source media="(&#112;&#x72;&#101;&#102;&#x65;&#x72;&#115;&#x2d;&#x63;&#x6F;&#108;&#111;&#114;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x6c;&#x69;&#x67;‍&#x68;&#116;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#x3﻿5;&#x61;&#55;&#⁠x2d;&#49;&#x32;&#56;&#x62;&#45;&#x34;﻿&#100;&#x35;&#53;&#45;&#x38;&#x38;&#‌x39;&#x63;&#x2d​;&#98;&#102;&#51;&#98;&#102;&#x30;&#x‍34;&#101;&#57;&#48;&#x30;&#x63;&#45;&#x30;&#x65;&#101;&#x65;&#50;&#55;&#97;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2d;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#‍x34;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#46;&#115;&#118;&#103;" />
-‍  <source media="(prefers-contrast: more)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#⁠x31;&#56;&#102;&#45;&#x34;&#51;&#x65;&#x65;&#x2d;&#98;&#99;​&#x30;&#x65;&#x2d;&#99;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#x2d;&#50;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#55;&#x2d;&#x31;&#x32;&#56;&#x62;&#45;&#52;&#x64;&#x35;&#x35;&#x2D;&#56;&#x38;&#x39;&#x63;&#45;&#x62;&#10‍2;&#x33;&#x62;&#x66;‍&#x30;&#x34;&#x65;&⁠#57;&#48;&#48;&#x63;&#x2e;&#x73;&#x76;&#10​3;" />
-  <img src="./&#x30;&#x65;&#x65;&#x65;&#x3‌2;&#x37;‍&#x61;&#x32;&#45;&#x62;&#x3‍1;&#56;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#98;&#x63;&#48;&#x65;&#x​2D;&#99;&#x34;&#48;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#52;&#x‍63;&#x2d;&#50;&#56;&‍#101;&#x37;&#x36;&#53;&#x61;&#55;&#45;&#x31​;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#x﻿35;&#53;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x3​4;&#x65;&#x39;&#48;&#⁠48;&#x63;&#x2e;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x36;&#x30;&#x30;" height="&#48;⁠&#x2e;&#48;" decoding="async" loading="eager" />
-</picture>
-
-  Break﻿points: 600px (1x), 1200px ​(2x)
-  Format: SVG (vector, theme-awa⁠re, SMIL animated)
-  Cache: immutable, max-age=31536000
-  I⁠ntegrity: sha384-db9966cb39836ceaf0366010bad4a9d4e7ab9983f4d96ad17c5f41165da0⁠1abcb5a708767fbee29a0c8cf​d12ca8edee8
-
-========================================================================
--->
-<!--
-=================================​==============⁠=========================
-  Component Output | hero-imag‌e ‌[4eb042ca]
-========================================================================
-
-  Component: src/components/hero-image.tsx
-  Render: static
-  Priority: critical‍
-  Hash: 25b5516073075a2d
-
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#115;&#x2D;&#99;&#x6f;&#x6c;​&#x6f;&#x72;&#x2d;&#x73;&#x63;&#104;&#101;&#109;&#x65;: &#x64;&#x61;&#x72;&#107;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#‌x31;&#x32;&#x38;&#98;&#x2D;​&#52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x‍39;&#x63;&#45;&#x62;&#x66;&#51;&#x62;&#﻿x66;&#x30;&#52;&#x65;&#57;&#48;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#x2D;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#52;&#48;&#99;&#102​;&#98;&#x34﻿;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2e;&#x73;&#118;&#x67‌;" />
-  <source media="(&#x70;&#x72;&#x65;⁠&#x66;&#101;&#x72;&#115;&#x2D;&#x63;&#111;&#x6c;&#x6f;&#x72;&#45;&#115;&#99;&#104;&#x65;&#x6d;&#x65;​: &#108;&#105;&#103;&#x68;&#116;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#x35​;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#98;&#x2d;&#x34;&#x64;&#53;&​#x35;&#x2d;&#56;&#56;&#57;&#x63;&#x2D;&#x62;&#x66;&#51;&#98;&#102;‍&#48;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2D;&#4​8;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#x2D;&#9​8;&#49;&#56;&#x66;&#x2D;&#x34;﻿&#x33;&#101;&#x‍65;&#x2d;&#x62;&#99;&#x30;&#101;&#x2d;&#⁠99;&#x34;&#x30;&#x63;&#x66;&#x62;‍&#x34;&#x38;&#x33;&#x62;&#x34;&#x⁠63;&#x2e;&#115;&#x76;&#x67;" />
-  ﻿<sourc﻿e media="(prefers-contrast: more)" srcset="./&#x32;&#x38;&#x65;﻿&#55;&#x36;&#x3‍5;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#10​0;&#53​;&#53;&#x2d;&#x38;&‍#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#​x30;&#48;&#x63;&#45;&#48;&#101;&#x65;&#101;&#50;&#x37;&‌#97;&#x32;&#45;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#x33;&#x65‌;&#101;&#45;&#x62;&#‌x63;&#48;&#101;&#x2D;&#x63‍;&#52;&#48;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2e;&#x73;&#118;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#101;&#x37;&#x36;&#x35‍;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;﻿&#53;&#x35;&#x2D;&#56;&#56;&#57;&#x63;&#x2d;&#x62;&#102;&#51;&#x62;&#102;&#48;&#52;&#x65;&#57;&#x3‌0;&#x30;&#x63;&#x2d;&#x30;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#50;&#45;&#98;&#x31;&#x38;&#102;&#45;&#52;&#x33;&#101;&#101;&#x2D;&#98;&#x63;&‍#x30;‍&#x6⁠5;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#98;&#x34;&#56;&#51;&#x62;&#x34;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <img src="./&#50;&#x38;&#x65;&#55;&#54;&#53;&#x61;&#﻿55;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#100;&#53;&#x35;&#45;&‌#x38;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&‍#x2D;&#x30;‍&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2d;&#52;&#x33;&#x65;&#101;&#x2d;&#x62;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2E;&#x7​3;&#x76;&#x67;" alt="&⁠#x20;" width="&#54;&#x30;&#48;" height="&#x30;&#x2E;&#x30;" decoding="async" loading="eager" /‌>‌
-</​picture>
-
-  Breakpoints: 600px (1‍x), 12​00px (2x‌)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-​7cd184e73d1ea24aee044dcc7cdb96d4c529cbb2187fe784fbd0fb589​5bf3304d1bf4fbece40b1b8324f02101a894e75
-
-========================================================================
--->
-<!--
-==============‌==========================================================
-  Compo​nent Output | og-image [3213e174]
+========================================================================﻿
+  Static Output | og-image [dfc629⁠4c]
 ========================================================================
 
   Component: src/components/og-image.tsx
   Render: ISR
   Priority: critical
-  Hash: a6602dd4f755b30f
+  Hash: 2e416bcc6866ca3a
 
 <picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#x2D;&#99;&#111;&#108;&#x6F;&#114;&#x2d;&#x73;&‍#99;&#10﻿4;&#101;&#x6d;&#101;: &#x64;&#x61;&#114;&#x6b⁠;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#⁠97;&#x37;&#x2d;&#x31;&#x32;&#56;&#98;&#x2d;&#52;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;﻿&#x65;&#101;&#x65;&#50;&#x37;&#97;&#50;&#45;&#​98;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;⁠&#x63;&#x30;&#101;&#45;&#99;&#x34;&#x30;&#99;&#x66;&#x‍62;&#52;&#56;&#x33;&#98;&#52;&#x63;&#x2e;​&#x73;&#x76;&#x67;" />
-  <source media="(&#x70;​&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#45;‍&#99‌;&#x6f﻿;&#108;&#111;&#x72;&#x2d;&#115;&#x63;&#104;&#x65;&#x6d;&#x65;: &#x6C;&#105;&﻿#x67;&​#x68;&#x74;)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#45;&#98;&#49;&#x38;&#102;&#x2D;&#52;&#​51;&#101;&#101;&#x‌2d;&#x62;⁠&#x63;&#48;&#x65;&​#45;&#99;&#52;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#‌98;&#x34;&#99;&#x2d;&#x32;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#x2D;&#52;&#x64;&#53;&#53;&#x2d;&#56;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#98;&#102;&#48;&#52;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#x73;&#11﻿8;&#x67;" />
-  <source media="(&#x70;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#45;&#x63;&#x6f;&#x6C;&#x6f;&#114;&#45;&#x73;&#99;&#x68;&#x65;&‍#x6d;&⁠#x65;: &#115;&#x79;&#x73;&#116;&#101;&#x6d;)" srcset="./&#50;&#x38;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&⁠#52;&#100;&#x35;&#53;&#x﻿2d;&#56;&#x38;&#57;&#99;&#4‌5;&‍#98;&#x66;&#51;&#x62;&#x66;&#x30;&#52;﻿&#x65;&#x39;&#48;&﻿#48;‌&#99;﻿&#45;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#x2d;&#9﻿8;&#49;&#56;&#102;&#x2D;&#x34;&#51;&#‌x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#56;&#51;&#98;&#x34;&#99;&#46;&#x73;&#x76;&#x67;" />
-  <img src="./&#48;&#101;&#101;&#‍x65;&#x32;&#x37;&#97;⁠&#x32;&#x2D;&#x62;&#49;&#x38;&#x66;&#45;&#52;&#51;&#x65;&#x65;&#x2d;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#52;&#48;&#99;&#x66;&#98;&#x34;&#56;&#51;&#98;&#x34;&#x63;&#45;&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#45;&#x31;&#x32;&#56;&#x62;&#45;&#52;&#100;&#x35;&#x35;&#x2D;&#x38;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#x67;" alt‌="&#32;" width="&#x36;&#x30;&#48;" he﻿ight="&#48;&#x2e;&#x30;" decoding="async" loading="eager" />
-</picture>
+  <source media="(&#x70;&#114;&#101;&#102;&#101;&#x72;&#x73;&#x2d;&#x63;&#111;&#108;&#1⁠11;&#x72;&#45;&#x73;&#99;&#x68;&#101;&#x6d;&#​x65;: &​#x64;&#x61;&#x72;&#x6b;)" srcset="./&#48;&#x65;&#101;&#101;&#x32;&#x﻿37;﻿&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#45;&#x34;&#51;&​#101;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x​2D;&#x63;&#x34;&#x30;&#x​63;&​#102;&#x62;&#52;&#56;&#x33;&#x62;‌&#x34;&#99;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#﻿x31;&﻿#x32;&#x38;&#x62;&#x2d;&#52;&#x64;&#53;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2D;&#98;&#x66;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#57;&#x30;&#48;&#99;&#x2e;&#x73;&#x76;&#103;" />
+  <source me‍dia="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#x2d;‍&#x63;&#111;&#x6c;&#x6f;&#x72﻿;&#x2D;&#115;&#x63;&#104;&#x65;&#109;&#x65;: &#108;‌&#105;&#103;&#104;&#116;)" srcset="./&#x32;&#x38;&#101;&#x37;&#‍x36;&#53;&#97;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#45;&﻿#x34;&#1‌00;&#x35;&#53;&#x2D;&#56;&#56;&#‌57;&#99;&#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2d;&#x30;&#101;&#101;&#x65;&#x32;&#55;&#x61;&#x32;&#x2d;&#x6​2;&#x31;&#x38;&#x66;&#x2d;&#52;&#51;&#x65;&#x65;&#x2D;&#x62;&#x﻿63;&#48;&#x65;&#x2d;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#56;&#x33;&#98;&#x34;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#102;&#x65;&#x72;&#115;&#x2D;&#99;&#x6f;&#1⁠08;&#111;&#114‌;&#x2d;&#115;&#x63;&#104;&#x65;&#x6d;&#x65;: &#x73;&#121;&#115;&#116;&#x65;&#x﻿6d;)" srcset="./&#x30;&#x65;&#101;&#x65;&#x32;&#x3‌7;&#97;&#50;&#x​2d;&#x62;&#x31;&#56;&#102;&#x2d;&#52;&#51;&#101​;&#101;&#45;&#﻿x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#52;&#x38;&#51;&#98;&#x34;&#‍x6‍3;&⁠#x2D;&#x32;&#x38;&#101;&#55;&#x36;&#x35;&#97;&#x37;&#45;&#x3‍1;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#53;&#x35;&#4​5;&#x3﻿8;&#x38;&#x39;&#x63;&#x2D;&#98;&#x66⁠;&#x3​3;&#98;&#x66;&#x30;&#52;﻿&#x65;&#57;&#x30;&#x30;&#99;&#x2E;&#x73;&#118;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#50;&#x38;&#101;&#55;&#x36;&#53;&#x61;⁠&#x37;&#45;&#x31;&#x32;&#x38;‍&#x62;&#45;&#x34;&#x64;&#53;&#x35;&⁠#x2d;&#x38;&#56;&#x39;&#x63;&#45;&#98;&#102;&‍#51;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#48;&#48;&#x63;&#x2D;&#48​;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#x2D;&#52;&#x33‌;&#101;&#101;&#x2d;&#x62;&#99;&#x30;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#‍x66;&#98;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#x6⁠5;&#x65;&#x32;&#x37;&#x61;&#50;&#45‍;&#x62;&#x31;&‌#56;&#x6​6;&#45;&#52;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#48;&#x65;&#x2D;&#x63;&#52;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#55;&#x36;&#53;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#x2d;&#52;&#x64;&#x35;&#53;&#x2D;&⁠#x38;&#56;&#x39;&#99;&#45;&#x62;&#102;&#x33;&#98;&#x66;⁠&#x30;&#x34;&#101;&#x39;&‌#48;&#48;&#x63;&#x2E;&#x73;&#118;&#103;" />
+  <img src="./&#x30;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#x2D;&#x62;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2d;&#98​;&#99;&#x30;&#101;​&#45;&﻿#99;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#56;&#51;&#x62;&#x34;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#x​31;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#45;&#56;&#x38;‌&#x39;&#x63;&#45;&#98;&#x66;&#51;&#x62;&#102;&#48;&#52;&#101;&#x39;‌&#48;&#x3‍0;&#x63;&#46;&#115;&​#118;&#x67;" alt="&#32;" width="&#x36;&#x30;&#48;" height="&#x30;&#x70;&#x78‌;" ⁠decoding="async" loading="eage⁠r" />
+</picture﻿>
 
-  Breakpoints: 600px (1x), 1​200px (2x)
-  Format: SVG (vector, theme-awa⁠re, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-2da4209d9cf36eeb32e78f95da165923a497547ce1017a3101649ebbe074efcda969009c5a1f71211a835cd953b6f983
-
-=============================⁠===========================================
--->
-<!--
-========================================================================
-  Output Output | banner-image [3687f9ed]
-==============================================================﻿==========
-
-  Component: src/components/banner-image.tsx
-  Render: static
-  Priority: above-fold
-  Hash: 5b53a94a2ff02187
-
-<picture>
-  <source media="(&#112;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#x2d;&#99;&#111;&#x6c;&#111;&#‍x72;&#x2d;&#x73;&#99;&#x68;&#x65;&#109;&#101;: &#100;&#97;&#x72;&#x6B;)" srcset="./&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#56;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#45;&#98;﻿&#102;&#51;&#x62;&#x66;&#x30;&‍#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#x2D;&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#50;&#45;&#x62;&#x31;&#x38;&#x66;&#‌x2d;&#x34;&#51;&#x65;&#101;&#x2d;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#48;&#x63;&#102;&#98;&#x34;&#x38;﻿&#x33;&#x62;&#52;&#99;&#46;&#x73;&#118;&#x67;" />
-  <source media="(&#x70;&#x72;&#101;&#‍x66;&#x65;&#114;&#115;&⁠#45;&#99;&#111;&#108;&#111;&#x72;&#45;&#x73;&#x63;&#x68;&#x65;&#x6D;&#101;:⁠ &#x6c;&#105;&#103;&#x68;&#116;)" srcset="./&#48;&#101;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#45;&#98;&#49;&#x38;﻿&#102;&#45;&#52;&#x33;&#101;&#x65;&#x2d;&#98;&#99;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63‌;&#x66;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#x2D;&#x32;&#56;&﻿#101;&#55;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#50​;&#x38;&#98;&#x2d;&#x34;&#100;&#53;&#x35;&#45;&#x38﻿;&#56;&#x39;&#99;&#x2d;&#98;&#102;&#51;&#x62;&#x66‍;&#x30;&#x34;&#101;&#x39;&#x30;&#48;&#99;&#x2E;&#x73;&#118;&#x67;" />
-  <source media="(&#112;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#x2D⁠;&#x63;&#x6f;&#108;&#x6F;&#114;&#x2D;&#115;&#x63;&#x68;&#101;&#x6d;&#101;:⁠ &#x73;&#x79;&#x73;&#116;&‍#x65;&#109;)" srcset="./&#x30;&‌#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#x2D;&#98‌;&#49;&#x38;&#x66;&#x2d;&#﻿52;&#51;&#x65;&#x65;&#45;&‌#x62;&#99;&#x30;&#x65;&#x2d;&#x⁠63;&#x34;&#48;&#x63;&#x⁠66;&#98;&#x34;&#x38;&#51;&#98;&#52;&#99;&#x2d;&#50;&#56;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#49;&#x32;&#x38;&#98;&#x2D;&#52;&#100;&#5﻿3;&#53;&#45;&#x38;&#x38;&#x39;&#99​;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#48;&#x34;&#x65​;&#x39;&#x30;&#x30;&#x63;&#x2e;&#115;&#118;&#x67;" />
-  <source media=​"(inverted-colors: inverted)" srcset="./&#50;&#x38;&#101;&#55;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#50;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#x35;&#45;&#x3﻿8;&#56;&#x39;&#99;&#x2d;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#x﻿30;&#99;&#45;&#x30;&#x65‌;&#x65;&#101;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#⁠48;&#101;&#x2D;&#x63;&#52;&#x30;&#x6​3;&#x66;&#x62;&#x34;&#5​6;&#x33;&#x62;&#x34;&#99;&#x2e;&#x73;&#x76;&#103;" />
-  <img src="./&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#53;‌&#x35;&#x2D;&#x38;&#‍56;&#57;&#99;&#x2D;&#98;⁠&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#45;&#x30;&#x65;&#101;&#101;&#50;&#x37;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#x65;&#101;&#x2D;&#98;&#x63;&#x30;&#x65;&#45;&#99;&#52;&#48;&#99;&#102‌;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#9‌9;&#x2e;&#x73;&#x76;&#103;" alt="&#x20;" width="&#54;&#x30;&#48;" height="&#x30;&#46;&#48;" decoding="async" loading="eager" />​
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
+  Brea‌kpoints: 600px (1x‍), 1200‌px (2x)
   Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity: sha384-c2daff4d967023783a1ce7adb1324913ab466323dce3e93ee0ccfcdfade73f5d100df718e30d32‍32306979c26c9f062b
+  Cache: immutable, max-age=31536000‍
+  Integrity: sha384-866ef25b746693cee7514a484ae2233362184a1e304bd28aecdeffab78ef72a58556f7f536ac5‍d017d713948a57e8e70
 
-=======================================================================‌=
--->
-<!--[hydrated:profile-image a52e6289]-->
-<picture>
-  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#x72;&#x73;&#x2D;&#x63;&#x6f;&#108;&#111;&#114;&#x2d;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x64;&#97;&#114;&#107;)" srcset="./&#x32;&#56;&#101;&#x37;&#54;&#53;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#x35;&#x2D;&#x38;&#x38;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#98;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#52;&#99;&#x2e;&#x73;&#118;&#x67;" />
-  <source media="(&#x70;&#114;&#x65;&#x66;&#x65;&#x72;&#115;&#x2D;&#x63;&#111;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#99;&#x68;&#101;&#109;&#x65;: &#108;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#48;&#101;&#101;&#x65;&#x32;&#55;&#97;&#50;&#45;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#45;&#x62;&#99;&#x30;&#x65;&#x2d;&#99;&#52;&#48;&#99;&#102;&#x62;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#x2D;&#50;&#x38;&#101;&#55;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#x2D;&#x34;&#x64;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#48;&#99;&#x2E;&#x73;&#x76;&#x67;" />
-  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#x72;&#x73;&#x2d;&#99;&#x6f;&#108;&#111;&#114;&#x2D;&#115;&#99;&#x68;&#101;&#109;&#101;: &#x73;&#121;&#x73;&#x74;&#101;&#x6d;)" srcset="./&#x30;&#101;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#102;&#x2d;&#52;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#x38;&#57;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#99;&#x2e;&#115;&#x76;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2D;&#98;&#102;&#x33;&#x62;&#102;&#48;&#52;&#101;&#57;&#x30;&#48;&#x63;&#x2d;&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2e;&#115;&#x76;&#x67;" />
-  <img src="./&#50;&#56;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#x2d;&#x31;&#x32;&#56;&#98;&#x2D;&#52;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#48;&#x30;&#99;&#x2d;&#x30;&#x65;&#x65;&#101;&#50;&#55;&#97;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x36;&#x30;&#x30;" height="&#x30;&#x30;&#x30;" decoding="async" loading="eager" />
-</picture>
-<!--[/hydrated]-->
-<!--
 ========================================================================
-  Asset O﻿utput | social-card [9a40d9df]
-========================================================================
-
-  Component: src/components/social-card.‌tsx
-  Render: ISR
-  Priority: high
-  Hash: b425864d2c82‍1dca
-
-<picture﻿>
-  <source medi‍a="(&#x70;&#x72;&#x6​5;&#x66;&#x65;&#x72;&#x73;&#x2d;&#99;&#111;&#x6c;&#111;&#x72;&#x2d;&#x73;&#99;&#104;&#101;&#109;&#101;: &#x64;&#x61;&#114;&#x6B;)" ﻿srcset="./&#50;&#x3﻿8;&#x65;&#55;&#54;&#x35;&#9‍7‌;‍&#55;&#x2d;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#x64;&#53;&#x35;&#45;&#56﻿;&#56;&#x39;&#x63;&#45;&#98;&#102;&#51;&#98;&#102;&#48;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#x2‍d;&#98;&#x31;&#x38;&#x﻿66;&#x2d;&#x34;&#51;&#x65;&#x65;&#x2D;&⁠#x62;&#99;&#x30;&#x65;&#x2d;&#x63;&⁠#52;&#x30;&#x63;&#x66;&#x62;&#52;&#x‌38;&#x33;&#x62;&#52;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
-  <source media="(&#112;&#114;&#x65;&#102;&#x65;&#x72;&#115;&#45;&#99;&#x6F;&#108;&#x6f;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#x6C;&#x69;&#x67;&#104;&#116;)" srcset="./&#x30;&#x65;&‍#101;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#x62;&#x⁠31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#x⁠65​;&‌#45;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#x34;﻿&#48;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2d;&#x32;&#x38;&#101;&#55​;&#x36;&#53;&#97;&#x37;&#x2D;&#x31;&#x32;&#x38;&#x﻿62;&#x2d;&#x34;&#​x64;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#​x63;&#x2D;&#98;&#x66⁠;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x6‌3;&#46;&#x73;&#x76;&#x67;" />
-  <source me‌dia="(&#1⁠12;&#x72;&#x65;&​#x66;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#​x6c;&#x6f;&#x72;&#x2D;&#x73;&#99;&#104;&#x65;&#109;&#101;: &#115;&#x79;&#115;&#x74;&#x65;&#x6d;)" srcset="./‌&#x⁠30;&#x65;&#101;&#x65;&#50;&#x37;&#97;&#50;&#x2D;&#98;‍&#x31;&#x38;&#102;&#45;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#x30;&#101;&#45;&#x63;&#52;&#48;&#x63;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#97;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#x64;&#53;&#53;&#45;&#x38;&#56;&#57;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x3‍4;&#x65;&#57;&#48;&#x30;&#x63;&#x2e;&#x73;&#x76;&#103‍;" />
-  <source media="(prefers-contrast: more)" srcset="./&#48;&#x65;&﻿#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#101;&#10‍1;&#45;&#98;&#x63;&#48;&#101;&#x2D;&#x63;&#52;&#48;&#99;&#x66;&#98⁠;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#45;&#50;&#56;&#x65;&#x37;&#54;&#53;&#97;&#55;&#x2d;&#49;&#x32;&#﻿x38;&#x62;&#45;&#x34;&#x64;&#53‍;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#x62;&#102;&#48;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#x65;&#x37;&#54;&#x35;‌&#x61;&#55;&#x2d;&#49;&#50;&#x38;&#x62;&#x2d⁠;&#x34;&#x64;&#53;&#x35;&#x2D;&#x‍38;&#x38;&#x39;&#x63;&#x2d;&#98;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#x2D;&#48;&#101;&#101;​&⁠#101;‍&#x32;&#55;&#97;&#50;&#45;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#x30;&#101;&#45;&#x‍63;&#x34;&#48;&#99;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <img src="./&#x32;&#56;&#x65﻿;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#53;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#45;&#98;&#x66;&#x33;&#﻿x62;&#x66;&#x30;&#x34;&#x65;⁠&⁠#x39;&#x3‌0;&#x30;&#99;&#x2d;&#48;&#x65;&#x65;&#101;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38‌;&#x66;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#x62;&#x63;&#x30;&#101;&#45;&#99;&#x34;&#x30;&#x63;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#46;&#x73;&#118;&#103;" alt="&#32;" width="&#x36;&#48;&#x30;" height="&#x30;&#x30;&#x30;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, S​MIL animated)
-  Cache: immutable, max-age=31536000
-  Integrity﻿: sha384-d32099b0c7cf0f388babe279ec9c5c799271c2df7dd62206c8761c826c0c4de2e16500e1acd40710688f2efa5f⁠110b24
-
-===============================‌====================‌=====================
 -->
 <!--
-====================​========‌============﻿================================
-  Hydrated Output | ca‌rd-preview [c3487e15]
-========================================‌================================
+========================================================================
+  Output Output | card-preview [a826f0c3]
+========================================================================
 
   Component: src/components/card-preview.tsx
   Render: prerendered
-  Priority: high
-  Hash: 11e807f5905afd40
+  Priority: cri﻿tical
+  Hash: 0⁠8ffed8f62⁠03932c
 
 <picture>
-  <source media="(&#112;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#x63;&#x6f;&⁠#108;&#x6f;&#x72;&#x2d;&#‌115;&‍#99;&#104;&#101;&#x6D;&#x65;: &#100;&#x61;&#x72;&#x6b;)" srcset="./&#x32;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2D;&#x38;&#x38;&#x​39;&#99;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#57;&#48;&#48;&#x63;&#x2d;&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#‍x32;&#x2D;&#x62;&‍#x31;&#x38;&#102;&#x2D;&#52;&#51;&#101;&#x65;&#x2d;&#x62;&#99;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#52;⁠&#99;&#x2‍e;&#x73;&#118;&#103;" />
-  <source media="(&#112;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#45;&#x63;&#x6f;&#x6C;&#111;&#x72;&#45;&#x73;&#99;&#104;&#x65;&#x6d;&#x65;: &#x6C;&#105;&#x67;&#x68;&#116;)" srcset="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#x62;&#x31;&#56;&‍#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#x2d;&#x62;&#x63;&#x30;⁠&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#52;&#56;&#51;&#98;&#x34;&#x63;&#x2D;&#50;&#x38;&#101;&#x37;&#54;&#53;&#97;&#x37;&#45;&#49;&#x32;&#x38;&#98;&#x2D;&#52;&#100;&#x35;&#x35;&#x2D;&#x38;&#56​;&#57;&#99;&#45;&#98;&#x66;&#x﻿33;‍&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;&#x2e;&#x73;&#x76;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#102;&#x65;&#x72;&#x73;&#x2d;&#x63;&#111;&#108;&#111;&#x72‌;&#x2‍d;&#115;&#x63;&#104;&#x65;&#109;&#x65;: &#115;&#121;&#115;&#116;&#x65;&#﻿x6d;)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#45;&#x62;&#49;&#56;&#x66;&#x2d;&#52;&#51;&#101;&#1‍01;&#45;&#98;&#x63;⁠&#x30;&#x65;&#x2d;&#x63;&#52;&#x30;&#99;&#102;&#x62;&#52;&#x38;&#5‌1;&#x62;&#52;&#99;&#45;&#50;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&#56;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#x38;&#56;&#x39;&#x63;&#45;&#98;&#x66;&#51;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#99;&#46;&#115;&#x76;&#103;" />
-  <s‌ource media="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#98;&#x2d;&#x34;&#100;&#x35;&#53;&#⁠45;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x3﻿3;&#x62;&#x66;&#​48;&#52;&#x65;&#57;&#48;&#48;&#x63;&#45;&#x30;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#45;&#98;&#x31;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#x65;&#x2D;&#x62;&#x63;&#x30;&#x65;&#x2D;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#x34;&#x63;&#x2E;&#115;&#118;&#103;" />
-  <img src="./&#x30;&#x65;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#x31;&#56;&#x66;&#45;&#52;&#x33;&#x⁠65;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#x2d;&#x32;&#x38;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#x32;&#56;&#98;&#x2D;&#x34;&#x64;&#x35‍;&#53;&#x2d;&#56;&#56;‍&#x39;&#99;&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#101;&#x39;&#x30;&#x30;&#x63;&#x2E;&#115;&#118;&#x67;" alt="&#32;" width="&#54;&#x30;&#x30;" height="&#x30;&#x30;&#x30;" decodin‍g="async" loading="eager" />
-</picture>
+  <source media="(&#112;&#x72;&#x65;&#102;&#x65;&#x72;&#115;&#x2D;&‌#x63;&#x6f;&#x6c;&#111;&#x72;&#x‍2d;&#x73;&#99;&#x68;&#101;&#x6d;&#x65;: &#x64;&#x61;&​#x72;&#x6B;)" srcset="./&#50;&#56;&#x65;&#x37;&#54;&﻿#53;&#x61;&#x37;&#x2d;&#x31;&#50;&#56;&#x62;&﻿#45;&#52;&#x64;&#x35;&#x35;&#x2D;&#56;&#56;&#x39;&#x63;&#4‍5;&#98;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x6​5;&#x65;&#101;&#x32;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#56;&#x66;&#x2d;&#x34;&#51;&#101;&#101;&#x2D‍;&#x62;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(&#x70;&#114;&#x65;&#x66;&#101;&#114;&#115;&#x2D;&#x63;&#11​1;&#108;&#x6F;&#x72;&#45;&#115;&#x63;&#x68;&#101;&#x6d;&#x65;: &#108;&#x69;&#x67;&#x‍68;&#x74;)" srcset="./&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#x66;&#x2d;&#52;&#x33;&#x65;&#101;‍&#x2d;&#x62;&#99;&#x30;&#101;&#x​2d;&#99;&#x​34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#x33;&#x62;‍&#52;&#99;&#45;&#50;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2D;&#49;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#99;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(&#x70;&#114;&#x65;&#102;&#101;&#x72;&#x73;&#x2D;&#x63;&#x6f;&#108;⁠&#x6f;&#x72;&#x2D;&#115;&#99;&#104;&#101;&#109;&#x65;: &#115;​&#x79;&#x73;&#x74;﻿&#x65;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#x37;&#x2D;&#x31;&#50;&#56;&#98;&#x2D;&#52;&#100;&#x35;&#x35;&#x2d;&#56;&#​56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#x62;&#x66;&#48;&#52;&#x65;&#57;&#‍x30;&#x⁠30;&#x63;&#45;&#x30;&#101;&#x65;&#101;&#50;&#x37;&⁠#x61;&#50;&#45;&#98;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#5​2;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&⁠#51;&#98;&#x34;&#x63;&#46;&#115;&#118;&#x67;" />
+  <source media="(prefers-contrast: m‌ore)" srcset="./&#x32;&#56;&#x65;&#55﻿;&#x36;‌&#x35;&#97;&#x37;&#x2D;&#x31;&#x32;&#56;&#x62;&#45;&#52;&#100​;&#53;&#x35;&#x2d;&#56;&#x38;&#x39;​&#x63;&#45;&#x⁠62;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;‌&#‌48;&#x63;&#x2d;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2d;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#101;&#45;&#x63;&#x‍34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <img src="./&#x30;&#101;&#10​1;&#x65;&#50;&#x37;&#x61;&#50;&#x2D;&#x62;&#49;&#56;&#102;&#x2d;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#x30;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&‌#x66;&#98;&#52;&#56;&#51;&#​98;&#x34;&#x63;&#x2D;&#50;&#x38;&#x65;&#x37;‍&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#x3﻿2;&#56;&#98;&#x2d;&#52;&#100;&#53;&#x35;&#x2d;&#56;&#x38;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#48;&#99;&#46;&#x73;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#48;" hei​ght="&#48;&﻿#x70;&#x78;" decoding="async" loading="eager" />
+</pic‌ture>
 
-  Breakpoint​s: 600px (1x), 1200px (2x)
+  Breakpoints: 600px (1x), 1200px (⁠2x)
   Format: SVG (vector, theme-aware, SMIL animated)
   Cache: immutable, max-age=31536000
-  Integrity: sha384-21eabb5d0957d7ea6d6ff8540dce78ad5eb804df462d04b471f470c079ea53324df5e43879407e9fd34867e923b8be21
+  Integr​ity: sha384-4fbc4d647a1813735e01f6eb4c026bfeb1f6e5747702dc1d7e0ba4a0f24a2c8c1a30​b2e8e507a8ce0e502d08beca66cf
 
-=======================================================================﻿=
--->
-<!--
-========================================================================
-  Hydrated Output | social-card [ae97d8cc]
-=====================​============﻿==============‌=======================‌==
-
-  Component: src/c⁠omponents/social-card.tsx﻿
-  Render: SSG
-  Priority: above-fold
-  Hash:‌ cd43db2bd28067ee
-
-<picture>
-  <source media="(&#x70‌;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#x2D;&#99;&#x6f;&#108;&#111;&#x​72;&#x2d;&#x73;&#x63;&#x68;&#101;&#109;&#﻿101;: &#x64;&#x61;&#x72;&#x6B;)" srcset="./&#x3⁠0;&#x65;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#45;&#x62;&#x31;&#56;&#102;&#45;&#52;&#x33;&#101;&#101;&#4⁠5;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#51;&#98;&#x34;&#x63;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2D;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64​;&#x35;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#x2D;&#x62;&#102;&#51;&‍#x62;&#102;&#x30;&#52;&#x65;&#x39;&#x30;&#⁠x30;&#x63;&#46;&#x73;&#118;&#103;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#45;&#99;&#111;&#x6c;&#111;&#x72;&#x2D;&#115⁠;&#x63;&#104;&#101;&#x6d;&#x65;: &#x6c;&#x69;&#103;&#x68;&#x74;)" srcse﻿t="./&#x32;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2D;&#x34;&#x64;&#53;&#53;&#x2d;&#x38;&#x38;&#x39;&⁠#99;&#x2d;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#101﻿;&#x39;&#x30;&#x30;&#99;&#45;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#49;&#56;&#x66;&#45;&#52;&#51﻿;&#101;&#x65;&#x2d;&#98;&#99;&#x30;&#x65;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&#x34‌;&#x38;&#x33;&#98;&#x34;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <source media="(&#x70;&#x72;&#101;&#x66;&#101;&#114;&#x73;&#x2d;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x2D;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#x73;&#x79;&#x73;&#x74;&#x65;&#109;)" srcset="./&#50;&#56;&#x65;&#55;&#x36;&#53;&#97;&#x37;&#x2d;&#49;&#50;&#x38;&#98;&#x2d;&#52;&#100;&#⁠53;&#53;&#45;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#﻿102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#57;&#48;&#x30;&#x63;&#45;&#48;&#x65;&#101;&#101;&#x32;&#x37;&#x61;&#‌50;&#x2d;&#x62;&#x31;‍&#56;&#102;&#x2d;&#52;&#⁠x33;&#x65;&#x65;&#45;&#x62;&#x63;&#x30;⁠&#101;&#x2d﻿;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#52;&#56;&#x33;&#98;&#x34;&#x63;&#x2e;&#115;&#x76;&#103;" />
-  <source media="(p​re‍fers-contrast: more)" src⁠set="./&#x32;&#56;&#x65;&#55;&#x36;&#x35;&#x61‌;&#x37;&#x2d;&#x31;&#50;&#56;&#98;&#x2d;&#52;&#x64;&#53;&#x35;&#x2d;&#x38;&#x38;&#57;&#9﻿9;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;﻿&#x30;&#101;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#45;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#‌x33;&#x65;&#1⁠01;&#x2d;&#x62;&#99;&#x30;&#x65;&#4﻿5;&#x63;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#46;&#x73;&#x76;&#x67;" />
-  <source media="(inverted-colors: inverted)" srcset="./&#50;&#x38;&#x65;&#55;&#x36;​&#53;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#53;⁠&#x35;&#x2d‍;&#x38;&#x38;&#57;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#52;&#x65;&#x39;﻿&#48;&#x30;&#99;&#45;&#48;&#101;&#x65;&#x65;&#50;&#x37;&#97;&#x32;&#‍45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#51;&#x65;&#101;&‌#45;&#98;&#x63;&#48;&#101;&#4‍5;&#x63;&#52;&#x30;&#99;&#102;&#x62;&#52;&#56;&#51;&#x62;&#52;&#x63;&#46;&#115;&#118;&#x67;" />
-  <img ‌src="./&#x30;&#101;&#101;&#x65;&#x3‍2;&#55;&#x61;&#x32;&#x2D;&#98;&#49;&#x38;&#x66;&#x2D;&#x34;&#x33;&#101;&#‌101;&#x2D;&#x62;&#99;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#x63;&#102;‌&#98;&#x34;&#x38;&#51;&#x62;&#52;&#x63;&#‍45;&#5⁠0;&#x38;&#101;&#x37;&#54;&#5‍3;&#x61;&#x37;&#‍45;&#49﻿;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#x2e;&#115;&#x76;&#103;" alt="&#32;" width="&#54;&#48;&#48;" height="&#48;&#x2E;&#48;" decoding="async" loading="eager⁠" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  Format: SVG (vector, theme-aware, SMIL animated)
-  Cache: immutable,﻿ max-age=31536000
-  Integrity: sha384-df31d6c462cd2423b7bdc4⁠e33d⁠16cf8b‍8488593f24627d9f9aa0884dfaca8a6edb7b51⁠2​0c5f94ea71fea68af3f1f1abe
-
-===================‌=====================================================
--->
-<!--
-==========⁠==========================================================​====
-  Static Output | profile​-image [c750a023]
-========================================================================
-
-  Compo‍nent: src/components/profile-image.tsx
-  Render: prerendered
-  Priority: critical
-  ‌Hash: 26a1fb48d14a8626
-
-<picture>
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;﻿&#114;&#x73;&#x2d;&#x63;&#111;&#x6C;&#x6f;&#114;&#x2d;&#115;&#x63;&#x68;&#x65;&#x6d;&#x65;:⁠ &#x64;&#x61;&#x72;&#x6b;)" srcset="./&#48;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;​&#x63;&#x30;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#102;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#50;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#52;&#101;&#57;&#x30;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" />
-  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&﻿#x73;&#x2D;&#99;&#111;&#x6C;&#111;&#x72;&#45;&#x73;&#x63;&#x68;&#101;&#x6d;&#x65;: &#x6c⁠;&#105;&#x67;&#x68;&#x74;)" srcset="./&#48;&#101;&#x65;&#101;&#50;&#x37;&#97;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#51;&#x65;&#x65;&#x2d;&#98;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#45;&#x32;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#55;&#x2D;&#x31;&#x32;&#56;&#98;&#x2d;&#52;&#x64;​&#53;&#53;&#x2D;&#56;&#x38;&#57;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#x3﻿9;&#48;&#x30;&#99;&#46;&#x73;&#x76;&#103;" />
-  <source media="(&#112;&#114;&#x65;&#x66;&#101;‍&#x72;&#x73;&#x2d;&#x63;&#111;&#x6c;&#111;&#‍x72;&#45;&#x73;&#x63﻿;&#104;&#101;&#x6d;&#101;: &#x73;&#121;&#x73;&#x74;&#x65;&#x6d;)" srcset="./&#x30;&#x65;&#1​01;&#x65;&#x32;&#55;&#x61;&#x32;&﻿#45;&#98;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#x65;&#x65;&#45;&#98;&‌#x​63;&#48;&#101;&#x2D;&⁠#x63;&#x34;&#x30;&#x63;&#102;&#98;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#x2D;&#50;&#5​6;&‍#101;&#55;&#54;&#x35;&#97;&#x37;&#45;&#49;&#x32;&#x38;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#99;&#46;&#115;&#118;&#103;" />
-  <source media="(inverted-colo‍rs: inverted)" srcs‍et="./&#50;&#⁠x38;&#x65;&#x37;&#x36;&#53;&#97;⁠&‌#55;&#45;&#x31;&#x32;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#56;&#57;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#x​30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#45;&#48;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#98;⁠&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#x2D;&#99;&#x34;&#4⁠8;&#x63;&#102;&#98;&#5⁠2;&#56;&#51;&#98;&#x34;&#x63;&#x2E;&#115;&#x76;&#x67;" />
-  <img src="./&#x30;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#x32;‌&#x2D;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#45;&#98;&#99;&#48;&#x65;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#99;&#x2d;&#x32;&#x38;&#101;﻿&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#x2d;&#52‍;&#100;&#x35;&#53;&#x2d;&#5‍6;&​#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#48;&#48;&#99;&#x2e;&#115;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#48;&#x70;&#x78;" decoding="async" loading="eager" />
-</picture>
-
-  Breakpoints: 600px (1x), 1200px (2x)
-  For⁠mat: SVG (vector, theme-aware​, SMIL animated)
-  Cache: immutabl⁠e, max-age=31536000
-  Integrity: sha384-33c14612c1f655b93526c02a3da1258a82a22055c5f60394df9cfd6cb5c2b393f2156339‍8d9cb32951a0478‌d26113999
-
-=================================‌=======================================
+===================================​=====================================
 -->
 <!--
 ================================‍=================‍=====================‍==
@@ -2562,9 +2631,9 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
   Build completed successfully.
 
   Summary:
-    Build ID     : 37d51809-d4f2-4924-9cf1-b532‌feceb‌ad9
-    Deploy ID   ⁠ : dpl_80e8825b83e‌bd5df4788
-   ﻿ Git SHA      : b5becd6fc303334857f880bad0610d2470917ad8
+    Build ID     : 134191a3-b2ae-45e3-98cf-2e6b‌dc1e6‌a47
+    Deploy ID   ⁠ : dpl_d33a7c67f27‌03b32f19f
+   ﻿ Git SHA      : 6c0a6ee8e09559beb1ee13542c2d17dcc1683376
     Timestamp    : 2025-02-08T17:40:22.⁠000Z
     Duration     : 23s
     Node.js      : v22.14.0
@@ -2587,7 +2656,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Build        : ✓ completed
     Deploy       : ✓ live
 
-  Integrity: sha512-c0fa76e3795d593a5ff5e726555d8291490c70861​3853394eeee5e2e772215463e370d8d13ba3ea3df5f341315636e8e0d847b0cc593656c8bb11b448b08672b
+  Integrity: sha512-2e64ef9faa99292e5b86b5be64c7732fbe89473bf​62d40f3182ef4445a582e6039aa7a949e41454ed90b121f761bcf7308c9437645abda301cd754b9993c9623
 
   DO NOT MODIFY THIS FILE MANUALLY.
   G﻿enerated b‍y @vercel/build-output-api v3.
