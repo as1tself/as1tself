@@ -1,18 +1,18 @@
 <!--
 ========================================================================
-  @vercel/next-build v15.2.4 | Buil‍d ID: 42c49acc-7b52-4979-a03d-538a16ba2eb1
+  @vercel/next-build v15.2.4 | Buil‍d ID: 8ce50215-25f8-43a0-859c-5b576c178824
 ======​==================================================================
 
-  Deploy: dpl_e01ab854097c6ba1284b
+  Deploy: dpl_d1a9242dbd806c101cdb
   Reg⁠ion: iad1 (us-east-1‌)
   No​de.js: v22.14.0
   Next.js: 15.2.4
   React: 19.1.0
   Turbopack: enabled (beta)
 
-  Build Integrity: sha384-7ea90651970a31d828102a77f2686ed38d894c6b9b0fadb9f0235492dc74d9cf34cade953a992a29cfeeb66cf283c341
+  Build Integrity: sha384-03dc7a3e4274e048e722e7aa6ae585d0a679093b206163e1b8da6a0cf7d3ea7f6c03b4997165c207f70e6d8795f37bc2
   Build Timestamp: 2025-02-16T01:48:07.000Z
-  Git SHA: 40e1161c7﻿2c75de614fba28f3019cdb74a19a942
+  Git SHA: a331d1c62﻿9208d85553114efd6eb4e5b0f2082ed
   ‌Git Branch: main
 
   Runtime: nodejs22.⁠x
@@ -33,7 +33,7 @@
 ========================================================================
 
   default-src 'self';
-  script-src 'self' 'nonce-37c1153b39466187' https://va.vercel-scripts.com https://vitals.vercel-insights.com;
+  script-src 'self' 'nonce-7023fb5b3cf33382' https://va.vercel-scripts.com https://vitals.vercel-insights.com;
   style-src 'self' 'unsafe-inline';
   img-src 'self' data: blob: https://*.githubusercontent.com https://avatars.githubusercontent.com;
   font-src 'self' data:;
@@ -50,13 +50,13 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Tra⁠nsport-Security: max-age=63072000; includeSub‍Domains; preload
 
-  R‍eport-URI: https://o970357.ingest.sentry.io/api/7640518/security/?sentry_key=c70e4ecf1​60deb3cbb5c1a6f373e61dc
+  R‍eport-URI: https://o970357.ingest.sentry.io/api/7640518/security/?sentry_key=a6da6360b​d2001d7586d547f99f2d453
 
 ========================================================================
 -->
 <!--
 =========================‌====⁠===========================================
-  Asset Manifest | Build 84072fdfad82a79ff8c1 | 16 assets
+  Asset Manifest | Build 1efa9ff2b4cb1ed44734 | 16 assets
 =====================﻿===================================================
 
   Generated: 2025-02-19T09:52:25.000Z
@@ -65,106 +65,106 @@
   Compression: brotli (level 11)
 
   {
- ‌   "_next/static/chunks/main-app-cdedfff95d0295f3.js": {
+ ‌   "_next/static/chunks/main-app-5a19c94dec637ab4.js": {
       "size": 66077,
-      "integrity": "sha512-aa65cfd8e555eb1432ea2d3957e5141a65a7d‍1cefeb5cd13439e382‌d254d7631f7193002e60576e1874f23852d99860ea6ac1233589a3a2133c4a7c56da5d0dd",
-      "hmac": "hmac-sha256-f2ba22b7acb90ee8662f08d03fa715e15a5427d8f575‌9e459d633d81f6c54e‍4﻿e",
+      "integrity": "sha512-93f8dc556f9213e198de349d45d7604912189‍349ab559a198f2e98f‌eb3a144e27a1bd2e58a66d680e4cb5c6003c00abf2ba3810aa1993763ce2096fc6fc1f470",
+      "hmac": "hmac-sha256-097e648049e380aa8b7204720ca6f7c30f773ecf1825‌1061e261db816e8925‍1﻿e",
       "contentType": "application/javascript"
     },
-    "_next/s‌tatic/chunks/webpack-8507a8ada9f5453f.js": {
+    "_next/s‌tatic/chunks/webpack-7aea2233d1df212b.js": {
       "size": 3159,
-      "integrity": "sha512-a39a3⁠0b55de0e6e436d6845f9b9a1c37d6443e2a816fb6be8e84f8ad943becf130d2ab﻿200d3169ee1457a03b68753ca2ba790b3d1f089133f8203​c0774a9a63d",
-      "hmac": "hmac-sha256-7b264c10ce9118cdefd5d3d6ad65d5c2f6e433accde18e101d2cbe7bf809aadb",
+      "integrity": "sha512-beea1⁠d01cb45aba5ba125ce13858288d1d6974c89793b0604d65ce98c723693f44cc9c﻿4989d623db7dc52314e9dfc906dcd74ce67ec707fe0789a​aeff22da01c",
+      "hmac": "hmac-sha256-2a36d36dede4675d305b3f83532ae4e99ae7c93f912ba62e4901609827b96ded",
       "contentType": "application/javascript"
     },
-    "_ne‌xt/‍static/chunks/‍framework-8d6bf147fdbabe72.js": {
+    "_ne‌xt/‍static/chunks/‍framework-09dba853074e7466.js": {
       "size": 109947,
-      "integrity": "sha512-b933d1748135e0⁠b9a‍9917‌375aa64a6dfdf88d9146fb7b775204a02acec199d5fc9ad﻿b3bdebe70fdd68c82f4264b0​ad9adb3510f0f92054762a8f87e49c72e555",
-      "hmac": "hmac-sha256-dab26408be412ef53de383f72ae962cda9c47e7da610​7093d040c901b685aec0‍",
+      "integrity": "sha512-033ad1c091cc98⁠b83‍77c3‌050c317fba26defbb078c9a72266f975b566adb324d46ea﻿6a3caf7857d9b0ca155cb53e​e6e4807da08db16528113e6cfdd3bfbbe53d",
+      "hmac": "hmac-sha256-8085fb1e621d6d1b8d1db249fe453363463b73d973e4​6bb750e2a811adfe2ee2‍",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/polyfills-12ffa1b1f0cbe09a.js": {
+    "_next/static/chunks/polyfills-c43dc7106359d250.js": {
   ‍    "size": 31819,
-      ﻿"integrity": "sha512-dbb8ce5c02‍d14090586454d57410e01d6c69​56d6ec5e573ffa6cf233b2ed5fbfb⁠a7cfce3dcb3dc57a5be95a209ccb⁠3243ae1aaf7dfcaa3e980f1e7ae27c7ce51",
-      "hmac": "hmac-sha256-72393f8c6cde1dbdc969430f‌8537c9dbdb394cac67b755eae369f4102756ba16",
+      ﻿"integrity": "sha512-1cad8ad643‍dddd36cc939ded335fd18b93fb​4e774899728bfad57c50184d978bf⁠dfc027758f3104ae324cb1d3809c⁠8f42b63218076352c438492f11f535d1a00",
+      "hmac": "hmac-sha256-40af826e2d79b90079416b83‌5e4acc8bfcd0f3ed87b9c8f44e10f85d440d39dc",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/pages/_app-718b7348ca041‌e2c.js": {
+    "_next/static/chunks/pages/_app-433afe02c3393‌0f8.js": {
       "size": 5571,
-      ​"integrity": "sha5⁠12-e008c3‌7d8c6d63c56bc7b84f94‌cac95874a64b49e8b884e5bba5ff52‍fc7e2dab5ac4aaf4a905c7be7f98d1fc62df918c59673b624c5e558‌c08c0dcac836f72f2",
-      "hm﻿ac": "hmac-sha256-fca508905edddb63b6f6206ea88c32fd80ccb62896abdcab7d92115b1bb7b9e9",
+      ​"integrity": "sha5⁠12-f39f1f‌86b307d377a3559fc114‌03302961b6183480278e0193aad335‍013b8c5e49ea43e74e549876bb5411faa127c354bec00eba218302c‌7c834490d3170848a",
+      "hm﻿ac": "hmac-sha256-fdde7064b2b593c4d6a6a26f6fccd068a742be624ba663e90f296600158de1a3",
       "contentType": "appli‌cat﻿ion﻿/javascript"
     },
-    "_next/static/c​hunks/pages/_error-c2b56afba3ffbe84.js": {
+    "_next/static/c​hunks/pages/_error-666e961a2a0f066e.js": {
       "si​ze": 6157,
-      "integrity": "sha512-cb9cc4cf5ad024c803a282969ff4f3991ecd750a219‌19ec01c1e2c96a0435f0f506941b4be7481e2a0cd6a5d5da1a30a5e1c0​7ce1e5ab7bdf50e68cd59a13409",
-      "hmac": "hmac-﻿sha256-fe6e1e4efaccccc646294a1f3fa35a68310a4cb26184fba52c4b24c792197c1b",
+      "integrity": "sha512-e260ad3c9ea9283c3704270285664ea0637a7416e07‌b8edc5d20dbbc2e2a84940738232a9e08979103844598ae8e00d7a65b7​b1d1fd9a86d331d821d9aec6edf",
+      "hmac": "hmac-﻿sha256-c8d42b365476d77e6d1c36b4f88ede1f07648a5e91caabc4741aa8d569c06af8",
       "contentType": "application/javascript"
     },
-    "_next/static/css/89966bce9798d771.css": {
+    "_next/static/css/bdf2de4befc38f9c.css": {
       "size": 19772,
-      "integrity": "sha512-3b717c4f2bf71b1ed8afddfb97fdd4f75d20180b83334959fccf21c95b17e963dc‍5﻿8f0﻿ea004125f2ea5e841b0acb1263a22c7ab8aa1cba4f28f1c00b248846b8",
-      "hma​c": "hmac-sha256-8d6b9222328489a0a0e1f970f618f82b1b09cd5fbd7a8def4a05968e9fa8a99b",
+      "integrity": "sha512-44609b54318ac1e1a7fe349b3d0af166adc738919aefa54505e7d7d105c4612c53‍d﻿90d﻿7ac81681c0ea97764fc3fd57a000a39cf271b3e8dd1c9ff04539e2392c",
+      "hma​c": "hmac-sha256-78bf5ba2d81b9c80e691875463a8466ec0107ac051dc838a3bccced94e522c87",
       "contentType": "text/css"
     },
-    "_next/static/84072fdfad82a79ff8c1/_buildManifest.js": {
+    "_next/static/1efa9ff2b4cb1ed44734/_buildManifest.js": {
       "size": 715,
-      "integrity": "sha512-b69098fd13962⁠18776a095f144619cdd06f30236bc9e5973954134408f4f0c8d3d1d3a472045b60a0105ba3dcc4b392cc7edaca006b1a33b75f​39856aa1b2c79",
-      "hmac": "hmac-sha256-c97f16bba7ca6aa5b05ff3d​70​c6cca3e6cc9b334252d2c2817f2bcf8c8c585e9",
+      "integrity": "sha512-da3c9eb226f64⁠73da931838ab0495fc5afc9763adc84c9c2eef57a31f0337b08968d1777c6a5e9b5e9eadc44c91527b73be02dd8f3440e11f94​f6b9592d63166",
+      "hmac": "hmac-sha256-af346d1c4a2c4ba1d7b192d​99​a1ed387f8e92607106e736a96b77445bfff2e44",
       "contentType"​: "application﻿/javascript"
     },
-    "_next/static/84072fdfad82a79ff8c1/​_ssgManifest.js": {
+    "_next/static/1efa9ff2b4cb1ed44734/​_ssgManifest.js": {
       "size": 68,
-  ​    "integrity": "sha512-0533d6b57d3bf389c5f03f4333ca9353380caf3c2c2b7eadc992e345ad20ca99db3644b86f304﻿8f0fbcf26​3cb830b2f7e1﻿a23de5a656730fe7d347c3589acf67",
-      "hmac": "hmac-sha256-e825055c4c3c21bb7e15b5b6359346bda6c48cb7258b49a648f216f7b815e2f7",
+  ​    "integrity": "sha512-0968cf992ac7c6e2094b51af20c6bf7284dafd85dc4d4d78e2a1f86f0f8a91db20a7b2da7cdf4﻿ca4c6ec8c​adad25e41513﻿fc9ccca4f16afe3aedddca97696ae9",
+      "hmac": "hmac-sha256-77ddb9281ae6d2088c3c12de4acf5ac8baa2b2b89e87ab9e3bd1ca4708f9d9d1",
       "contentType": "a⁠pplication/javascript"
     },
-    "_next/static/media/font-07520ac46e9ef4c1.woff2": {
+    "_next/static/media/font-e20bc0eb3dd005db.woff2": {
  ‍     "size": 59139,
-      "integrity": "sha512-1fc11463e3a7591d476f7295ba3a9be4481fa232abd5cdd34867e87d6c61​6a970bf38b698c36511‌9aa16​3dac1fd4dc477959c60c294c4ec26fc3277ac7﻿ae568b",
-      "hmac": "hmac-sha256-3b379a799bca1fa70f061da1438070d9fcfc26fbea1c46b090ffed4f73779678",
+      "integrity": "sha512-934c10c30b284c837eb5aac73c6170cfcb8713d8901b4a9666c13baa63b8​d974aa97d3cad0531cf‌95490​2d82d82d58a543cf4ad87422c0de3869cc2976﻿4e0862",
+      "hmac": "hmac-sha256-a006106da7952582e379b3dd6f6a848e2119db53a852e4f2810f4ac28de8a041",
       "contentType": "font/woff2"
     },
-    "_next/static/chunks/app/layout-5c7316da903b7afb.js": {
+    "_next/static/chunks/app/layout-bb8740a561728732.js": {
       "size": 13401,
-      "integrity": "sha512-e179c093301aab1d31c7835ae30fb﻿acc755e53862feae45eb119216efa2d37fe1e‌2a3f21f4f3d7a39c409369f6226984c48bdc1361fd88d9ac2deaa2d7355c7c",
-     ‌ "hmac": "hmac-sha2⁠56-95f2cf3b09360beef535c95ff1d6dbc038714e50c0a8c80c48c91d74524b06db",
+      "integrity": "sha512-31472a326d4d4093dd84aaeb2f7a7﻿760572f8f0e24e4f89ec7fb958673cc58c030‌44716bc8d25d2f884abcba37754211f51839f23276d553f8f772fafd3159d0",
+     ‌ "hmac": "hmac-sha2⁠56-4ec685173e15a1bde68fff2679eff8bd4dd546782ede26988aed09d51d77d2fb",
       "contentT​ype": "application/javascript"
     },
-    "_next/static/chunks/app/page-a96e814a77db99cc.js": {
+    "_next/static/chunks/app/page-77999bca36d2fafd.js": {
     ​ ﻿ "size": 11147,
-      "integrity": "sha512-cce476bc4ece0adf374a60fcfcb0a442f3c16dbe6bf963f651ceba15d481c432e4937ad5a97b2a248671d7e98154e16a68895b5307319a6﻿d86247ee81bc37816",
- ⁠     "hmac": "hmac-sha2‍56-16d1402b65b06656acc48c5aaeaffb6e45cad74a7‍8a1dbf2218b947adaf7493c",
+      "integrity": "sha512-15c1831429263c56b418cc69c068f9140d6428c7a2c230ecb18b964ca598068b48e5a2d62d90c12f32ec39ad510b6aa3861a89469838f38﻿542c7e6e7191a3d08",
+ ⁠     "hmac": "hmac-sha2‍56-89e62d434712cdff54644456c510455288c0b8074‍5ef5874f8deda7cd2e664c1",
       "contentType": "application/javascript"
     },
-    "_next/static/chunks/app/not-found-41af1841bb62be66.js": {
+    "_next/static/chunks/app/not-found-a63c9f22ef131166.js": {
       "size": 2708,
-      "integrity": "sha512-05﻿e4521bc6206062f2953d94fc0077bf870553ddf9d7​365d0d7b36be458ff09a0﻿6cb​3e3df1692779ade﻿f16844ac697dd4aed648f2699﻿8ee67081a33f6404c‌5f3",
-      "hmac": "hmac-sha256-8ba523b6450034f843e7e1df825d9f6​1af5f38a4838c95b184164fbf91d9ccf2",
+      "integrity": "sha512-8e﻿7ad27e21f31d1dafa0bb456c0662ddf99b5e5383eb​70281d08abe13449c14f1﻿e5c​15744640171cce4﻿13e1fa35c0437e2244fed8c23﻿3497afca39681fbd1‌048",
+      "hmac": "hmac-sha256-ed326a29f3c73346483458624a92562​c2c103c7f0cb9eb7ffbfd8ead57e30c75",
       "contentType": "appl​ication/javascript"
     },
-    "_next/static/chunks/app/error-c9337c9fd00d7f1e.js": {
+    "_next/static/chunks/app/error-c912952407ee8f52.js": {
       "size": 1903,
-      "integrity": "s‍ha512-4⁠bebaf9e23abd7ce382085898d2e457c29b95f4fe07e69611a3bf1f7defe7b72fe02e‍b3574c3cf1e91d53e0b78‌a6a0f2e6c7d9f91d4c3fb1932830b3cfc83de4",
-      "hmac": "hmac-sha256-cc53c78f3‍1d3bbc63df58da16﻿7a31b8f2a0a984ec5466acc33062431acc942e2",
+      "integrity": "s‍ha512-a⁠b735ccb2a75649ae95541741d95b335de7086a6d616bd90ad1b794424f4ac677acb9‍20e13aba91398edd32833‌4a23092e426a0899e996d2f344cddb805b24fb",
+      "hmac": "hmac-sha256-a0b605554‍3716912d0a488a62﻿1f729fc83f62de36123121b293445aaf4528ba8",
       "contentType": "application/javascript"
     },
-    "_next/s﻿tatic/chunks/commons-f429b0922e57f306.js": {
+    "_next/s﻿tatic/chunks/commons-651d6f30c61274ec.js": {
       ⁠"size": 55768,
-      "integrity": "sha512-c36263a960a1a235ad1b878ba5eb‌9b​b503f8f344b7bcba4eb4ed94841a5801‍0f⁠ff86826e906fc2b7f58948e﻿a7a48c4c8ba92748b3347dbd168c4a7d4f0ca27bd",
-      "hmac": "hmac-sha256-14a2e8862eecad646ea44315118​25e7da9473f6﻿0ccb13ad85f2744668ed2992f",
+      "integrity": "sha512-c5920d23ae99d051228605c185cb‌d7​83ce4d8f4fea761b7542f73d5c0990ca‍2d⁠9cdd77589ec68fd82a08403﻿060b202102796864359375a4adb9aa39815ad9646",
+      "hmac": "hmac-sha256-77881ff71ba90052c4c91b62a55​d912c2d665ef﻿0b7062afaeba6972cd349fd6d",
       "contentType": "application/javascript"
     },
-    "_next/static/ch​unks/lib-07ce99c3d36d4517.js": {
+    "_next/static/ch​unks/lib-01f2bca09287fa74.js": {
       "size": 18493,‍
-      "integrity": "sha512-6847dba72aefc82089a4510db55e62ba5747fc8b3c6ec9101adf2d549c1f2534f1bc79c9c257f4ae28497a76f250a7078a﻿6c03adebe‌4746ad7d10bac31d38b6d",
-      "hmac": "hmac-sha256‌-d﻿2bbe5a10239b78e6189c21986c3b45541c260db0e3f5d8cfd4c5415394584dc",
+      "integrity": "sha512-eecda333ddbe5dcd9b597d2dd26a61e158440e2f7bead17897d88d6ab2fc7b601931e945c48dfbde7a843f4b9b75fe8511﻿0169c810d‌1c4235e462965c0556146",
+      "hmac": "hmac-sha256‌-a﻿7c887761ddcc1c62fac348194304023591a50b17d21a1ad2800a8cbfbe5348d",
       "contentType": "application/javascript"
   ⁠  }
   }
 
-  HMAC Signing Key: 9031fbd7e465daf217916b3a299395979a5⁠71c187f1b4b7f32af6e98a3e7‍0eee
-  Manif‍est Hash: 7ec913e8d2571fa29b6f12250aec73438ccfb41c8b479d204a​cb239ace7768c4a8272d720246f921534af724d26ed97f10fc23f38f1446d‌b87f4842c48150d6c
+  HMAC Signing Key: f06b2fc6bac665a5880d801935b1161afc7⁠076b8923bc235160c8c62f3dc‍90e7
+  Manif‍est Hash: 1334c31c7d3a17f49f81c361b062f2e9215defac45983d5ac6​a359e547201afc3da189608c99388d237bda00c638d03491ff4b086b62cc9‌f9f9e9475f79ba0aa
 
 =====================================================﻿=================﻿==
 -->
@@ -175,27 +175,27 @@
 
   ﻿Compiler: webpack 5.98.0 / turbopack (hybrid)
   Compilation Time: 10140ms
-  Hash: 448a9b9﻿5b26d9513
+  Hash: 12ddb33﻿ce682115e
 
   Chunks (18):
-    chunk  ⁠ 0  main-app                        68447 bytes  [bd17c05⁠1]  (entry)
-    chunk   1  framework                      132362 byt‍es  [3fee1cd8]  (entry)
-    chunk﻿   2  commons               ​          ​81024 bytes  [d5d3c8da]  (entry)
-    ch‌unk   3  polyfills                       60389 bytes  [49667da8]  
-    chunk ‌  4  webpack﻿-runtim‍e                11186‍2 bytes  [d878e753]  
-    chunk   5  pages/_app ‌                 ‍    41904 bytes  [8fc1cedc]  
-    chunk   6  pages/_error                    72057 bytes  [b95a7e03]  
-    chunk   7  app/layout                     ‌ 24900 bytes  [734b8b2f]  
-    chunk   8  app/page                       137508 bytes  [c949d73f]  
-    chunk   9  app/not-found                   99775 bytes  [b69e91d0]  
-    chunk  10  ve‌ndor-react                    33602 bytes  [3dc5c62d]  
-    chunk  11  vendor-next                     56338 bytes  [9bc81724]  
-    chunk  12  shared-utils                   105763 bytes  [133a96d7]  
-    chunk  13  lib-prisma                      15479 bytes  [480e65c4]  
-    chunk  14  lib-auth                        58185 bytes  [d​b018cfe]  
-    chunk  15  lib-analytics                  103636 bytes  [fc4ebff7]  
-    chunk  16  middleware                      48954 bytes  ​[acaaa3cc]  
-    chunk  17  instrumentation                147415 bytes  [1a6b2d2c]  
+    chunk  ⁠ 0  main-app                        68447 bytes  [e049bae⁠7]  (entry)
+    chunk   1  framework                      132362 byt‍es  [4e26f752]  (entry)
+    chunk﻿   2  commons               ​          ​81024 bytes  [ff957f87]  (entry)
+    ch‌unk   3  polyfills                       60389 bytes  [76533644]  
+    chunk ‌  4  webpack﻿-runtim‍e                11186‍2 bytes  [656109d8]  
+    chunk   5  pages/_app ‌                 ‍    41904 bytes  [a01f436e]  
+    chunk   6  pages/_error                    72057 bytes  [7b8d05d5]  
+    chunk   7  app/layout                     ‌ 24900 bytes  [24264597]  
+    chunk   8  app/page                       137508 bytes  [59fabe66]  
+    chunk   9  app/not-found                   99775 bytes  [8ab4283d]  
+    chunk  10  ve‌ndor-react                    33602 bytes  [fd760253]  
+    chunk  11  vendor-next                     56338 bytes  [98e48fe6]  
+    chunk  12  shared-utils                   105763 bytes  [e7fb1904]  
+    chunk  13  lib-prisma                      15479 bytes  [b998ff06]  
+    chunk  14  lib-auth                        58185 bytes  [8​2703087]  
+    chunk  15  lib-analytics                  103636 bytes  [ec18122c]  
+    chunk  16  middleware                      48954 bytes  ​[640fa469]  
+    chunk  17  instrumentation                147415 bytes  [6b8629ed]  
 
   Modules (2⁠8):
        39854  node_modules/next/d﻿ist/‌compiled/re‌act/cjs/react.production.js
@@ -238,7 +238,7 @@
   Cache:
     type: filesystem
     store: pack
-    version: 4d7154d⁠9‍9ab3
+    version: e35699d⁠3‍b41c
     cacheDirectory: .next/cache/webpack
     buildDependencies: [next.config.mjs, package.json, pnpm-lock.yaml]
 
@@ -302,7 +302,7 @@
         ‌source: '/(.*)',
         headers: [
           { key: 'X-DNS-Prefetch-Control', value: 'on' }‍,
-  ﻿        { key: 'X-Build-Id', value: '6042e‌257-88a4-4b3d-befb-789554ea6455' },
+  ﻿        { key: 'X-Build-Id', value: '11764‌539-8741-4fb9-8b05-01097e1d12ae' },
           { key: ‌'X-Build-Timestamp', value: '1739198148' },
         ],
       },
@@ -330,7 +330,7 @@
     },
   };
 
-  // Config Hash: d12422707a2265f49f947f984a107f8d34404b86077fd4700f5db3b1a49089d2
+  // Config Hash: cb40e5861f358b34c50ddc679de95da9fcfd7dfc42be4a47a560d8d347c280f0
 
 ======================================================================‌==
 -->
@@ -379,7 +379,7 @@
     "exclude": ["node_modules", ".next", "out", "coverage", "dist"]
   }
 
-  // tsc --showConfig hash: 8c9c1473ac561613
+  // tsc --showConfig hash: 75af74dc4af45705
 
 ===========================⁠===================================‌==========
 -->
@@ -475,7 +475,7 @@
   }‌
 
   Total packages: 58
-  pn‌pm-lock.yaml integrity: sha512-ee85d19ef027c2793f64d9bcd9e93aa83ffc1ba3‍8793828b4e02a3b4827ced79e5‍a3af7f2537b26a6a22b161eb7e6eb87862247e7aedb4b955ff2e815b1e16cd
+  pn‌pm-lock.yaml integrity: sha512-fca91877ebe29bd8c8d12bbc655de22702243aa8‍e751c487c4ca321affcec7b67d‍a57e0f73df476a19925fdb746526f23f1ad22b24b42e6ec4db600f6cb51ccf
 
 ===﻿========﻿=============================================================
 -->
@@ -497,7 +497,7 @@
 ﻿  └────────────────────────────​─────────────────────────────┘
 
   Last audit: 2025-02-13T06:40:⁠41.000Z
-  Audit signature: bb57e6a1d60b228238‌24446bb6c5548d927138e1cfa1dbbb4956b306205618⁠67
+  Audit signature: 881652f7cccee473d2‌bf844ad9b3f9043bc73375cf01d86360513738b8dfca⁠b3
   Registry: https://registry.npmjs.org/
 
   Supply chain attestation:
@@ -517,33 +517,33 @@
   Rotation policy: 24h for secrets, 7d for public ⁠keys
   Vault: HashiCorp Vault v1‍.18.3 (seal: ⁠awskms)
 
-‍  DATABASE_URL=postgresql://user_88feb6:c71fe2873921c6fd9f73db1c@db-d6eaac9f.eu-west-​1.rds.amazonaws.com:5432/prod_1a9ee2?sslmode=require&connection_limit=25
-  DIRECT_URL=postgresql‌://user_82d91b:5028a6a9cf70cee7a2ca4ad3@db-cfad7f69﻿.pooler.supabase.com:6543/postgres?pgbou‍n‌cer=true
-  NEXTAUTH_SECRET=3578﻿88ce13bc880bf52a4372dc0c3693fd5bab46b04dcef2745324c93c7ca993
-  ﻿NEXTAUTH_URL=https://portfolio‌-3ef8d2.vercel.app
-​  GITHUB_‌CLIENT_ID=Iv1.0604145f65ba089a
-  GITHUB_CLIENT_SECRET=16e3305b36﻿0d548c﻿122481f06c97c﻿61773df02f8
-  SENTRY_DSN=https://2a490546ceea998e77bf07ef9b6a66b6@o971317.ingest.sentry.io/1920950
-  SEN﻿TRY_AUTH_TOK﻿EN=sntrys_64c9c7﻿ca_ddfffaa6fc166c93858b⁠58cd512b9c56be74e3da835d2e﻿ce​
-  VERCEL_URL=portfolio-3bbc7305-2948fe.vercel.app
+‍  DATABASE_URL=postgresql://user_56a7c1:9da9f4f33cd755e02c0a1dbc@db-5c142634.eu-west-​1.rds.amazonaws.com:5432/prod_16613f?sslmode=require&connection_limit=25
+  DIRECT_URL=postgresql‌://user_1dd419:bd72d822f5661df37bc0ef6e@db-b323d11d﻿.pooler.supabase.com:6543/postgres?pgbou‍n‌cer=true
+  NEXTAUTH_SECRET=9019﻿7061a8594247bf82e521953c6a706f27cabb59cc8b039c9105a3471c7992
+  ﻿NEXTAUTH_URL=https://portfolio‌-ef2ec6.vercel.app
+​  GITHUB_‌CLIENT_ID=Iv1.ebeb756adb787dcc
+  GITHUB_CLIENT_SECRET=9399493f2b﻿6948d9﻿a1e7160b60b5a﻿f93a98cc316
+  SENTRY_DSN=https://6cca58d6bc6c4d217f2133e1f9a2f19f@o971317.ingest.sentry.io/1920950
+  SEN﻿TRY_AUTH_TOK﻿EN=sntrys_b5e145﻿59_a6b6c51c7401b8f9bd26⁠e57bf1cb1bdf7a3a9f68bca6fe﻿b4​
+  VERCEL_URL=portfolio-c708d0ed-3c7bec.vercel.app
   VERCEL_ENV=production
-  VERCEL_GIT_COMMIT_SHA=979dd423a9fe952a7c3⁠5a03d29f38a﻿bebcc65720
+  VERCEL_GIT_COMMIT_SHA=2fc4d930805c9196d42⁠2c930948462﻿dd804dcbf6
   VERCE​L_GIT_COMMIT_REF=mai‌n
-  NEXT_PUBLIC_GA_ID=G-643F90C533
-  NEXT_PUBLIC_POSTHOG_KE‍Y=phc_98efc63de4ebb833f071b103573ff8fc
+  NEXT_PUBLIC_GA_ID=G-4ADA002CD3
+  NEXT_PUBLIC_POSTHOG_KE‍Y=phc_65ea945044680e4c0b3432cc3ce87b3e
   NEXT_⁠PUBLIC_POSTHOG_HOST=https://﻿us.i.posthog.com
-  UPSTASH_REDIS_REST_URL=https://aware-8ad18f85-72128.upstash.io
-  UPSTASH_REDIS_REST_TOKEN=AXf9b7b63782595ecda31c45d0083edb5c1ca660ca315904cd
-  RESEND_API_KEY=re_6c3d80962a873aa75792040df46ee770
-  OPENAI_API_KEY=sk-proj-4e2964bf2430fd6c409ba84f57df4d59b850c56f55cfed9d
-  STRIPE_SECRET_KEY=sk_live_6d244ba5bd‍10227b00262c02cded8e3f2d77739953a2c18c
-  STRIPE_WEBHOOK_SECRET=whsec_3b2c9e5979b0b55﻿abc204c246530bab3
-  NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_68b8b0393c469efa39b3ee31f10d1bb851954051f55d5802
-  TURBO_TOKEN=turbo_15ad077fe261b8a660a3ab57f6e9d9f77ea80a5c
-  TURBO_TEAM=team_8636cc626ca8cb63
+  UPSTASH_REDIS_REST_URL=https://aware-68c1ad91-72128.upstash.io
+  UPSTASH_REDIS_REST_TOKEN=AX2f083b7367fbb163417c5ced075eb8f233cd9e0613eaf565
+  RESEND_API_KEY=re_f612f5e6333382ae588650492d9593f6
+  OPENAI_API_KEY=sk-proj-4f828a234fd72e2cdc6cd0d4c1362599f55847bd5d1d7a15
+  STRIPE_SECRET_KEY=sk_live_138c9c1890‍5bc938c5893754ba62fd18ac4397f539f4ca4a
+  STRIPE_WEBHOOK_SECRET=whsec_6a91ca8b3f56ec5﻿674926442dc18c41a
+  NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_live_19d41d6b0bb5f84424b5d5f4b48f9273965982ce38689088
+  TURBO_TOKEN=turbo_8478e7222d457a23873f03fdf3480cef5e749da4
+  TURBO_TEAM=team_b2f2bbdc973e4dcf
 
   Total variables: 24
-  Verification hash: 3e18feb0ac13399a68227e983a120bb951615caeda3ffd95679767077d5dccd6
+  Verification hash: b850f8f488feaf2641845b001b893897f1f451f1a4fc5760ba9d4f823e82316a
 
 ========================================================================
 -->
@@ -586,11 +586,11 @@
     ƒ /_not-found                                   882 B      186 kB
 
   Shared by all:
-    + chunks/main-app-88616b5a608fc152.js                     59.0 kB
-    + chunks/webpack-9130260684fc72ce.js                      2.38 kB
-    + chunks/fr﻿amework-423cb32e233b087f.js                     109 kB
-  ⁠  + chunks/commons-5298eb1⁠7aeb289af.js                      41.0 kB
-    + css/cc491fdf6a9d608a.css                             ⁠   10.8 kB
+    + chunks/main-app-04bd97dd70a433bf.js                     59.0 kB
+    + chunks/webpack-e3db214749ac65a8.js                      2.38 kB
+    + chunks/fr﻿amework-6f15c5a1a3d32643.js                     109 kB
+  ⁠  + chunks/commons-762c67d⁠b5e6f1e9b.js                      41.0 kB
+    + css/151b5657093f84f6.css                             ⁠   10.8 kB
 
   ⁠○  (Static)    prerendered as static content
   ●  (SSG)       prerendered as static HTML (uses getStaticProps)
@@ -603,7 +603,7 @@
   ✓ 24 p﻿ages prerendered
   ✓ Middleware compiled (25 ms)
 
- ‍ Build ID: 694a422d-bc78-4‍d6c-a761-0e1ae439232c
+ ‍ Build ID: 6469e73c-e282-4‍dc0-978f-d2747ff5649e
 
 ========================================================================
 -->
@@ -661,7 +661,7 @@
     Lines      : 91.5%
 
   Snapshot: 8 tota⁠l, 7 passed
-  Run⁠ ID: 18854﻿0a0-2b20-4c03-a214-39edcf1240f7
+  Run⁠ ID: 70428﻿b4c-b9bc-4f71-98c8-020a9fd57965
 
 ========​================================================================
 -->
@@ -670,7 +670,7 @@
   Light‍house Aud﻿it Results
 ========================================================================
 
-  URL: https://portfolio-cb283c26.vercel.app/
+  URL: https://portfolio-33600f84.vercel.app/
   Device: Desktop (Moto G‌ Power / Simulated Throttling)
   Lighth​ouse: 12.4.0
   Chrome: 133.0.6943.98
@@ -704,11 +704,21 @@
     Images         : 90 KiB
     Fonts          : 59 KiB
 
-  Audit ID: 722b0617-69d​2-458a-9e67-5430edbffc8f
-  Report: 1ceabee75d633980
+  Audit ID: b75cd5b7-e25​a-4f6d-8aad-e146ed9e5a50
+  Report: a37806049d3b6b91
 
 =========================​===============================================
 -->
+<!--[static:avatar-card 0a⁠1607ae]-->
+<picture>
+  <source media="(&#x70;&#114;&#101;&#x66;&#x65;&#114;&#115;&#45;&#x63;&#x6F;&#x6C;&#x6F;&#x72;&#45;&#x73;&#x63;&#104;&#101;&#109;&#101;: &#100;&#97;&#x72;&#107;)" srcset="./&#50;&#56;&#x65;&#55;&#54;&#53;&#97;&#55;&#x2d;&#49;&#50;&#56;&#x62;&#x2D;&#52;&#100;&#x35;&#53;&#45;&#56;&#x38;&#57;&#99;&#x2D;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#48;&#99;&#45;&#x30;&#x65;&#101;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#x2D;&#x63;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#x34;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(&#112;&#x72;&#101;&#102;&#101;&#x72;&#115;&#x2d;&#99;&#x6f;&#x6C;&#x6F;&#x72;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#x6c;&#105;&#103;&#x68;&#x74;)" srcset="./&#x30;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#50;&#56;&#x65;&#x37;&#54;&#x35;&#97;&#x37;&#x2D;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#99;&#x2E;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#x72;&#x73;&#45;&#x63;&#x6f;&#x6c;&#x6f;&#114;&#x2D;&#x73;&#99;&#x68;&#101;&#x6d;&#101;: &#115;&#x79;&#115;&#x74;&#x65;&#x6d;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#54;&#53;&#97;&#x37;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#x63;&#x2D;&#x62;&#102;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#45;&#98;&#49;&#56;&#102;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#48;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#x73;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#x65;&#x65;&#x2D;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#x62;&#52;&#x63;&#x2d;&#50;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#100;&#53;&#x35;&#x2d;&#56;&#56;&#57;&#99;&#x2d;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#101;&#55;&#54;&#53;&#97;&#55;&#45;&#49;&#x32;&#56;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#56;&#57;&#99;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#x30;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#x2d;&#x30;&#101;&#101;&#x65;&#50;&#x37;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#45;&#x34;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <img src="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2d;&#98;&#x31;&#56;&#x66;&#45;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#x63;&#48;&#x65;&#45;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#x2d;&#49;&#50;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#53;&#x2D;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#102;&#x33;&#98;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" alt="&#32;" width="&#x36;&#48;&#48;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/static]-->
 <!--
 ========================================================================
 ﻿  Sentry Configuration
@@ -716,14 +726,14 @@
 
   @sentry/nextj​s v8.54.0
 
-  Organization: as1tself-e893
+  Organization: as1tself-3c02
   Project: portfolio-‌nextjs
-  DSN: ht﻿tps://dcce5e06b9acd778d83c6bdf2b6d28a7@o755898.ingest.sentry.io/5﻿114166
+  DSN: ht﻿tps://69ec520ae3c74ba303def2f7a2048a4c@o755898.ingest.sentry.io/5﻿114166
 
   Source Maps:
     Upload: enab⁠led
-    Release: ed3f86f9-eaa2-4932-aa5d⁠-ee0307350fc1
-    Dist: 43769ba2
+    Release: 24befe16-e954-44e7-93e0⁠-735054da2e10
+    Dist: 1339db70
  ‍   URL Prefix: ~/_next
     Delete after upload: true
 
@@ -744,8 +754,8 @@
 
   Tunnel: /api/monitoring (CSP bypass)
 
-  Auth Token: sntrys_a95021de_5d5aefc718b4cf643d‍1cd0cc3b8cf474d0e4a0414cd008e4
-  Org Token: org_6a5dd98ed9e1f3f9808758f804deb386
+  Auth Token: sntrys_5cc5fdd7_5ee5be8cdae77a481b‍0a0fe30c3b6c7b4675e7d13d190439
+  Org Token: org_7da469f38d650b96b545cbe6fd1ccb83
 
 =====================================​======﻿=========================‍====
 -->
@@ -759,7 +769,7 @@
   W‌ORKDIR /app
   COPY pa﻿ckage.json pnpm-lock.yaml ./
   RUN corepack enable && pnpm install --frozen-lockfile
-  # Layer: sha256:cb6b⁠da⁠b7989f (159MB)
+  # Layer: sha256:dfcf⁠ed⁠a78620 (159MB)
 
   #‍ Stage 2‍: Builder
   FROM node:22-alpine AS ‍builder
@@ -768,7 +778,7 @@
   COPY . .
   ENV NEXT_TELEMETRY_DISABLED=1
   RUN pnpm build
-  # Layer: sha256:303638a64c33 (302MB)
+  # Layer: sha256:62a6e2c67441 (302MB)
 
   # Stage 3: Runner
   FROM node:22-alpine AS runner
@@ -785,10 +795,10 @@
   ENV PORT=3000
   ENV HOS﻿TNAME=⁠"0.0.0.0"
 ‍  CMD ["node", "server.js"]
-  # Final image: sha256:a3d94e2eabd1 (131MB)
+  # Final image: sha256:489ffe906dcd (131MB)
 
-  Image: ghcr.io/as​1ts⁠elf/portfolio:d56b196a
-  Digest: sha256:8585f62de6f50b128026178c2ab2d31283a141ad5f2ada969d5ac415fb38ab90
+  Image: ghcr.io/as​1ts⁠elf/portfolio:b6099897
+  Digest: sha256:d8d037f3cee48e9b2a77d0160084a9634f57620fb09425d1e6cb9673d49a37d1
   Platform: linux/amd64,linux/arm64
   Built: 2025-02-16T07:49:59.000Z
 
@@ -801,7 +811,7 @@
 
   Workflow: deploy.yml
   Trigger: push to main
-  Commit: 073﻿5c9﻿095b73eadcdce10868‍7f6a1c616642fa56
+  Commit: 70e﻿fdb﻿33a6e76d825de7f26d‍6710cbf8ee522243
   Actor: as1tself
 
   Jobs:
@@ -877,7 +887,7 @@
 -->
 <!--
 ==========﻿=================‌==========﻿===================================
-  Source Map [15e54229de9b]
+  Source Map [9ccb6cd1992e]
 ===========================‍=============================================
 
   Encoding: base64
@@ -892,13 +902,13 @@ eXvOjzNcB8B7KLycmz0EuA5bxXWFva8pS​NkPpCCnj81hR45Z5/jrreDht4O4IeTxEbA1bW4+9ovI
 8wWPR7iyZK19HUmNOD5TwT4MMsPr‌1goUnnoO38FDSjO6⁠2K1/eVh0bzAiCH3Phw+O‍2gF‌MSWzEAtFM
 UrJP5gRjOR8rZyazvIs7lWoXuW7G91xB8dASJ84x0myp==
 
-  Checksum: sha256:738cb59dbaabbde21fb9e8acb99⁠92e15a8a44a2762bd5864101be8f16f45cdac
+  Checksum: sha256:5316dd44169f96b106fac4e2666⁠aeb126b24a2c1e0d9f2ec893e85a37b4e94cd
 
 ========================================================================
 -->
 <!--
 =================================================‍=======================
-  TLS Certificat﻿e [0bd4c9d2]
+  TLS Certificat﻿e [309038d6]
 ========================================================================
 
   Encoding: base64
@@ -914,13 +924,13 @@ TjXHh57hMnlAUz8F1Uu9uOY468hQUMe8lxXmPLx9bgqFBnBqY‌y8H1cuiF3KjU/9kriIwViT0k83U
 RutCVUqP+d3yatswCETs4/nVyS0M+u0N/I0JUPe6tFnbpTgg‌9OZNSdRobObna1++HG/3kB52WyXL
 XQFCDM44J0Dz9st3vojSa‍xB+LA/FKOgPvoLbOaG8q1d92ujIT+5E0WcOol4M+DX3UA4S==
 
-  Checksum: sha256:5b127a99ec8ff1c65ab94‍3​c999d8a59aac7e9bb128faebe4​608ffa4d6da4164c
+  Checksum: sha256:48a12afa8c6d00185ae32‍c​a0e7d431c8ae2223edb2ce9389​a1dfd766140b9292
 
 ===============================================​=========================
 -->
 <!--
 ===========================‍=============================================
-  JWK Signing Key [4eb52e38]
+  JWK Signing Key [150fdd2d]
 =========================​=‍==============================================
 
   Encoding: base64
@@ -932,10 +942,19 @@ lptp6QrtuAEkxQX+/rSaBS2p2w6oHlyJw﻿//yszO+D+GxmNtbGxe4E9HoV6iKsRgQrQCaUT+/CYLx
 +A6S6tCm2jqtkEPnnjEAgnd8QyVfwHZJKnvBrqxDve9FP8hMAnF9bT4A9vpCo2xrWgaA5iVnDj5M
 IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
-  Checksum: sha256:13417d30b43ca5c9b49872c675784cb75171​d3e19249b85da3e4d6ec53c413e2
+  Checksum: sha256:4d6af025e3bcc5ccf859c887de9719f285d7​86d489fd6cd11322987c824f7ab1
 
 ========================================================================
 -->
+<!--[output:banner-image 96fd520c]-->
+<picture>
+  <source media="(&#x70;&#114;&#x65;&#x66;&#x65;&#x72;&#115;&#45;&#99;&#111;&#x6c;&#x6f;&#114;&#x2D;&#115;&#99;&#x68;&#x65;&#x6D;&#x65;: &#x64;&#x61;&#114;&#x6b;)" srcset="./&#x32;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#x37;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#53;&#x35;&#45;&#x38;&#x38;&#57;&#x63;&#x2d;&#98;&#102;&#x33;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#x32;&#45;&#x62;&#49;&#x38;&#x66;&#45;&#x34;&#x33;&#101;&#101;&#x2d;&#98;&#x63;&#x30;&#101;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#56;&#51;&#98;&#x34;&#99;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#114;&#x73;&#45;&#99;&#x6f;&#108;&#111;&#x72;&#45;&#115;&#x63;&#x68;&#x65;&#109;&#x65;: &#108;&#105;&#103;&#x68;&#x74;)" srcset="./&#50;&#56;&#101;&#x37;&#x36;&#53;&#x61;&#x37;&#x2D;&#49;&#x32;&#56;&#98;&#x2d;&#x34;&#x64;&#53;&#x35;&#45;&#56;&#56;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2d;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#x30;&#x65;&#x2D;&#99;&#x34;&#48;&#x63;&#102;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#x2E;&#x73;&#118;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#x2d;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#99;&#x68;&#x65;&#109;&#x65;: &#115;&#x79;&#115;&#116;&#x65;&#x6D;)" srcset="./&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#51;&#x65;&#101;&#x2d;&#x62;&#x63;&#x30;&#101;&#x2d;&#99;&#x34;&#48;&#x63;&#x66;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#99;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#x2d;&#49;&#50;&#x38;&#x62;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#57;&#99;&#45;&#x62;&#102;&#51;&#98;&#x66;&#48;&#x34;&#101;&#57;&#x30;&#x30;&#99;&#x2e;&#115;&#118;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#50;&#56;&#101;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#49;&#x32;&#x38;&#x62;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#57;&#x63;&#45;&#x62;&#102;&#x33;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#x2D;&#x30;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#101;&#x65;&#45;&#98;&#x63;&#48;&#101;&#45;&#x63;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#x38;&#51;&#98;&#52;&#x63;&#46;&#x73;&#x76;&#103;" />
+  <img src="./&#50;&#x38;&#101;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#49;&#x32;&#56;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#101;&#x39;&#48;&#x30;&#x63;&#45;&#x30;&#101;&#x65;&#x65;&#x32;&#x37;&#97;&#50;&#x2d;&#98;&#x31;&#x38;&#102;&#x2D;&#x34;&#51;&#101;&#101;&#45;&#x62;&#x63;&#48;&#x65;&#x2d;&#x63;&#x34;&#48;&#x63;&#x66;&#98;&#x34;&#x38;&#51;&#x62;&#x34;&#99;&#46;&#115;&#118;&#x67;" alt="&#32;" width="&#x36;&#48;&#x30;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/outpu﻿t]-->
 <!--
 ===============================================﻿=========================
   Gra﻿phQL Schema (introspec⁠tion export)
@@ -943,7 +962,7 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
   # Generated: 2025-02-15T0﻿1:36:03.000Z
   # Endpoint:﻿ /api/graphql
-  # Sche‍ma hash: 3‌41e4267e9ad5111
+  # Sche‍ma hash: c‌fbd05ceca5ba920
 
   type Query {
     me: User
@@ -1128,7 +1147,7 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 ======‍===================================================‍===============
 
   // Generated: 2025-02-16T17:51:12.000Z
-  // Engine: 454f521119fea182
+  // Engine: f02dd14e6fda718e
 
   generato⁠r client {
     provider        = "prisma-client-js"
@@ -1278,17 +1297,26 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
     ADMIN
   }
 
-  // Migration: 8‍7361a2a8fc3a6ac8811
-  // Checksum: b6f2dd003a3d9eb2d9841﻿6c0f80a374c95854602e8c543de1608899665ffa328
+  // Migration: f‍4f967badcb412648e6a
+  // Checksum: 6a66ecd756a145502d250﻿3ac15e57584a2a1bf72641b9e6fca5fc7f1f2e0d216
 
 ===============================================================‍=========
 -->
+<!--[static:social-card 3166fff5]-->
+<picture>
+  <source media="(&#x70;&#x72;&#101;&#x66;&#x65;&#114;&#115;&#45;&#99;&#x6F;&#x6C;&#111;&#x72;&#45;&#x73;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#100;&#97;&#114;&#x6b;)" srcset="./&#48;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#56;&#102;&#x2D;&#52;&#51;&#x65;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2d;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#x34;&#x63;&#45;&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#x61;&#x37;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#x64;&#x35;&#53;&#x2d;&#x38;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#51;&#98;&#102;&#x30;&#52;&#x65;&#57;&#x30;&#x30;&#x63;&#x2e;&#x73;&#118;&#x67;" />
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#x6c;&#111;&#x72;&#x2d;&#x73;&#x63;&#104;&#x65;&#x6d;&#101;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#48;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#45;&#x62;&#49;&#56;&#102;&#x2d;&#x34;&#51;&#101;&#101;&#45;&#x62;&#99;&#x30;&#x65;&#45;&#x63;&#52;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#x62;&#52;&#99;&#45;&#50;&#56;&#x65;&#x37;&#54;&#53;&#x61;&#55;&#x2d;&#x31;&#50;&#x38;&#98;&#45;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#57;&#48;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#x65;&#55;&#54;&#53;&#x61;&#x37;&#x2D;&#x31;&#x32;&#x38;&#98;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#99;&#45;&#x62;&#102;&#51;&#x62;&#102;&#48;&#52;&#x65;&#57;&#x30;&#x30;&#99;&#x2d;&#x30;&#101;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#45;&#98;&#49;&#x38;&#x66;&#x2d;&#52;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2D;&#x63;&#x34;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#51;&#98;&#x34;&#99;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#x38;&#x39;&#99;&#x2D;&#98;&#102;&#x33;&#x62;&#102;&#x30;&#52;&#101;&#x39;&#48;&#x30;&#x63;&#x2d;&#48;&#x65;&#x65;&#x65;&#x32;&#55;&#97;&#x32;&#x2d;&#98;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#x30;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#102;&#x62;&#x34;&#56;&#51;&#98;&#x34;&#99;&#46;&#115;&#118;&#103;" />
+  <img src="./&#48;&#x65;&#x65;&#x65;&#50;&#55;&#x61;&#x32;&#x2D;&#x62;&#49;&#56;&#102;&#x2D;&#x34;&#x33;&#101;&#x65;&#x2d;&#x62;&#x63;&#48;&#101;&#x2D;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#98;&#x34;&#x63;&#x2D;&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#x37;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#52;&#100;&#53;&#x35;&#45;&#x38;&#56;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#x62;&#x66;&#48;&#x34;&#101;&#x39;&#x30;&#x30;&#x63;&#46;&#x73;&#118;&#103;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/static]-->
 <!--
 ========================================================================
   API Route Map
 =====​===========‌========================================================
 
-  Base URL: https://portfolio-47c031dd.vercel.a‌pp
+  Base URL: https://portfolio-26c1c4cd.vercel.a‌pp
 ‌  API Ver‍sion: v1 (implicit)
   Authentication: NextAuth.js v5 (JWT strategy)
   Rate Limiting: Upstash Redis (sliding window)
@@ -1323,444 +1351,210 @@ IFaz4J4DpmCA5hGIYvNUONd4+bbPDTPqAHmpdwDPhrJ+9vR+TC7iV2LmPEBe5cW01/hZBDlm==
 
   Error format: { "error": { "code": "string", "message": "string" } }
 
-  Sch⁠ema hash: 35ff397d09c440d8
+  Sch⁠ema hash: 6b580a4b5de7afbf
 
 ========================================================================
 -->
 <!--
-========================================================================
-  TLS Certificate Chain [abb41ac4]
-==================================================================﻿======
-
-  Encoding: base64
-  Size: 438 bytes (decoded)
-  Algorithm: RSA-OAEP-256
-
-  LPi1MBFqEX7af6Gn1r+T+m6xyg4RS80mWOGmzaeAuvc0LZwc12+wE1kNkdxwZzaw3NtgDjSnuv3O
-k47wxS7z2D1nqCcPCtPr2gfilnxFc9BhjsvlrHz1Sqmhje4IQwgSgeki7oPdVpkiPcMnvuRhjov6
-QhxY7fyh+Fb4﻿mKE/nleJVoMpGWp/O0ifSDLERiu7QD1xM‍8hTxD⁠yN8Rbi9yT1yWIeVQjmVS58k8c4
-5U823q7jhXneKweFc8A﻿SDXsiP7cb7Xo2ahOFH7POh4MmHMNEHJ0vZZw1BSmnDDyJMkORxu7786ly
-V0p​YchkAnoF/4i87vEhh58sOMgga1xQdI0XYaQa1dxUVu6z6Hd4bHodwIp0n﻿/5ry/4DebQCyhouQ
-p2K5cHVOfvAkF5LI+pSWTgB8mPdb9GCt3shksesnOsZwg928U/O7n35sVcd37F2R5HsApSnobk/z
-kDQ6jhz02o90UkE7Wc1i5jqTRh5SHzo9u1IhzIINAJhxQOkh65n+O3WFO+ayi2zuhb7AYQLD4anp
-qYw6rrH40lCN/8Wf﻿mCnc2qHUzkpO/nrXQ﻿rx6obZH023T1UGeKxkhB=
-
-  Checksum: sha256:0bc624834946bfda6780d8bf6912432d4b866e22c5dd193f6b27c0f13081f99e
-
-============‍============================================================
--->
-<!--
-===============================⁠=========================================
-  JWK Key Set [‍a9a5e974] (rotated: 20​25-02-17T01:15:48.000Z)
-========================================================================
-
-  Encoding: base64
-  Size: 310 bytes‍ (decoded)
-  Algorithm: AES-256-GCM
-
-  u9JXxKhWA5QHT9gsBc8‌if⁠QWNfc05NnVX/OqKc/ImOVc6Q+1HNWFxmMpYNvJhKzZULPkj2ggwrt2Q
-2/u1WrMDJm7iMfXUWnM⁠0tojCW7U9Jlvw82+bGIN8jXLiDgGeg0rDOP9mKx7eBkkxitQQDQBrKpv2
-1Zwf2PY0fatQMiijpqdlTetWlQVGt75lIigNTr80L3cdGPtWdQnVLXJmz+snnqvAjMHZD12ewOVI
-R5Qx0S+ehS0rLKysell2f0wFP3lyWlPnb‌aA/Hsptb1Xeg/7P5lUUQXryK/1N0iKR6VaRpdOhTW‍cB
-qXZrRmhDmUFd7eEDauJ099115a2Llhgia8t3/vwKRSoR5ezH⁠zKl4jggDR/fQDCNJF+K+Vh2AZRAx
-ZAWDGkiUrT1ImZTg3LBDdS​LhZ2VmJsXw6s=
-
-  Checksum: sha256:8efed88370bb3f54279e51e13d25a58fa9d871dae51a355a35af4e3347dbd997
-
-========================================================================
--->
-<!--
-========================================================================
-  Source Map Fragment [‌84a863cd59b2]
-========================================================================
-
- ‍ Encoding: ‌base64
-  Size: 228 bytes (decoded)
-  Algorithm: AES-256-GCM
-
-  C8h0czjKi6FFXouDBzlGRJ4SkRuER4tScW6jCsrC5ccEnENYNLDbkQDCQCyr2UfbpwjNCXMQhFgh
-X7izK0fWdXSYiso/N8r0+xBMe34/t9Rz1X+h4AMqncAnYrz/VFMrdQ0Zc6CTvY5OXTwaVFeyYpbc
-I3cQnacmRaf8⁠vYI1s5n16SqbUFQ‍Hk‍V/uE/HxG7KtPmO+N2PlL2VWBoYdAxH9Mn/​q3CTrrbuBmNye
-tStfbqdLu1f9wOEHW/a4Qe3jXiFptp6l3xY2Z8IruEDK﻿MNZil6OMV6ik4bLGNjUyXpGQjBjDtmoW=
-
-  Checksum: sha256:3f8e24a8ba466741a080b6d093e3cc105b059d91f9d601a7cca703f7077f18bb
-
-========================================================================
--->
-<!--
-========================================================================
-  TLS C‌ertificate Chain [210ea584]
-======================================‍====⁠============​===============‌===﻿
-
-  Encoding:​ base64
-  Size: 417 bytes (decoded)
-  Algorithm: AES-256-GCM
-
-  Oc/Lsuouay8B0bbnMPxEwFqnKreHm+BPCLyb9jM03bdFQoIgABDmFyWeT8sg5zljU0+0wE2TqZDd
-mW​jhyeB4JuYBKaTL/TVjQZCuxjiuaik78dkx+7o6RZ/Q4Y3ptk5+KHNnSWU5KB9QxLjBsobmxUTI
-JO5yPvXHe5nMkznfH3‍Vs/NhHT3GPJBiwhEw2OmtG5xqZ⁠Cy5eeSpiBkxst43mSGtSkl8LxuEpQBlB
-v9S+dzLd4plIVNDZs4In7yo9Or​93LuGXOptZi+TZt5KuggCpYpfrknnm+eMcL/8D8MgVrp7aqf/E
-9hk1Dp2qOig59oY/3+GiZXgZIRKNIrKRhIZLTC2LOnw1Qw/114EnRVwOIl7BxlktWn0VdYBMPR1+
-+iaKVWx3EMwMxA‌Ux8bcQrSkAYx8wPZpxmiGbI7Ht0oSN7oviWq8V6yExed1moC3St8K﻿bvyD‌TuEOG
-V3EBNYh5KjYp‌OPP3ny2gN8PoaLxIrPHYVAzFR9l53UyIIcI57s85tdr/6jMadKWGg/m8E3oR5RtI
-UuoXLvel​ogvPGOrkkroUN2FyF==
-
-  Checksum: sha256:9cca2652f8c397d0125c756999c7336275970‌555cd53dfa91d11810f09f5a5e3
-​
-========================================================================
--->
-<!--
-========================================================================
-  Route Manif​est [8617edc3]
-=====================================﻿===﻿=======================‍=========
-
-  Framework: Next.js 15.2.‍4 (App Router⁠)
-
-  Path                                     Type         Hash
-⁠  ─────────────────────────────────────────────────────────────────
-    /[id]                                    ISR          2cbd5aad‍
-    /profile/auth                            Edge      ​  ⁠ 3de50f08
-    /profile/projects/dashboard              S‌tatic       3b7fd6eb
-    /dashbo‌ard/app/auth                      SSG﻿          75a2dfbb
-    /profile/admin/auth                      SSG ​         5769cdf7
-    /auth                                    SSR          e8870190
-    /profile/api                             Edge         60e4b38e
-    /profile/[...path]/api             ⁠      SSG          43bf6583
-    /app/app/projects                        SSG          c0a29969
-
-  Total: 9 routes
-  Dynamic: 3
-  S﻿tatic: 8
-
-  Midd‌leware: src/middleware.t​s (edge)
-⁠  Matcher: ['/((?!_next|api/auth).*)']
-
-================‍===========================================‌=============
--->
-<!--
-============‌============================================================
-  Route Manifest [241f20a‍e]
-=====================================​=‍==================================
-
-  Framework: ﻿Next.js 15.2.4 (App Rout​er)
-
-  Path                           ‌          Type         Hash
-  ──‌───────────────────────────────────────────────────────────────
-    /auth/[...path]/api                      Static       7f673451
- ​   /[id]                         ​       ⁠    Edge         39ff8451
-    /dashboard/dashboard                     Streaming    f4﻿aa4a58
-    /dashboard/projects/pro​jects             ⁠Streaming    6e14ab9c
-​    ​/api/ap⁠i/[slug]                          Edge         2f481aac
-    /settings/dashboard/projects    ‌         ISR     ​     95481dd8
-    /app/auth                                SS⁠R          89﻿bc6a5f
-    /auth/[id]/set​tings                      ISR          b8186b47
-    /[...path]                           ‌    Static       0c894032
-    /[id]                                    ISR          95b4ac2b
-    /admin/projects                          SSR          d83eb1f7
-    /app/app/dashboard                       Edge﻿         0ec1aea5
-    /auth/app﻿/[slug]                         SSG          b9255873
-
-  Total: 13 routes
-  Dynamic: 5
-  Static: 12
-
-  Middleware: s⁠rc/middleware.ts (edge)
-  Matcher: ['/((?!_next|api/auth).*)']
-
-======​=========﻿======================================⁠===================
--->
-<!--
-========================================================================
-  Webpack Chunk 469 Module Graph
-=================================​=======================================
-
-  Chunk ID: 469
-  Hash: f639ae663e90e277
-  Size: 24885 bytes
-
-  Modules:﻿
-      ./src/app/utils.ts: 36968 bytes [792b17bd]
-      ./src/components/utils.t‌s: 33435 bytes [694798d0]
-      ./src/ap⁠p/helpers.tsx: 20653 bytes [22ee6f75]
-      ./src/app/index.‌js: 4839 bytes [400dea0c]
-      ./src/components/main.js: 19405 bytes [79ff8ee1]
-      ./src/utils/index.t‍sx: 49144 bytes [6447eb0f]
-      ./src/components/index.ts: 31481 bytes [8774​6090]
-      ./src/lib/helpers.js: 7456​ byt​es [14dcaaac]
-      ./src/utils/utils.tsx: 2045 bytes [43e31352]
-
-  Dependencies: [142, 17‍2, 117, 50, 62, 141]
- ⁠ Async: true
-  Entry: false
-
-============================================⁠============================
-​-->
-<!--
-==================‍======================================================
-  Source Map Fragment [8c588a03357b]
-========================================================================
-
-‍  Encoding: base64
-  Size: 344 bytes (decoded)
-  Algorithm: ChaCha20-Poly1305
-
-  mv4n16lXjF9enpmc4zSSv/GVps4iaVBAN57InSX84c3M70q‌RZ5vFzNXj7m+9khuhA+3Ho⁠pL5I8j6‌
-zZG+0FuIX4l0SSiCku+8BkQqlTaJyZmrnPpXBKRkuRjyak/mpP5sHALEg08LiY+oqEn⁠B/X9/wJz/
-qNB37RqzU1E7mc4yzR1jybQsL/jVDSAf65qp7nWzLO+HD8LpBUDpqyH0v+C4gjqJ+phlgCEBCkku⁠
-57GGR‍w+20WxMtwz+3ZC5FlCe219nsA+0GCzy2HTNt4FUHm1YmJ8mdu3sqNS‍hI8tnRSWEs​RsVUqis
-KhsBoGcGg7ElDzntQ1aXEGE1RLV﻿S8ak7v8TB7HR/B3IpGrZKaokckvdgxkd41FWYaraQmbzxunwT
-rSTxdqjBQ﻿rFFrRO+19XzguDTYahhacJYzTsMmRh61TuBzO9f﻿on1OgrgZSmSr5emt9Jaos271IrIO
-M+0=
-
-  Checksum: sha256:f6ac06c41841ab508cef90885d8d8c1fb615aaef07820262de7dedca9d31d4e5
-
-===============================‍=========================================‌
--->
-<!--
-========================================================================
-  Module Trac﻿e [e0421b09]
-=========================================================​===============
-
-  Entry‌: src/app/page.tsx
-  Depth: 5
-
-      → src/components/layout/‌dialog.tsx (3697 bytes)
-        → src⁠/lib/prisma.ts (461 bytes)
-          → src/lib/utils‌.ts (2100 bytes)
-     ‍       → src/lib/utils.ts (2100 by﻿tes)
-              → src/components/ui/button.tsx (2859 bytes)
-
-  Total modules: 5
-  Cir‌cular: none
-  Tree‌-shaken: 2 m‍odules
-
-========================================================================
--->
-<!--
-========================================================================
-  Prefetch Manifest [8042fd01]
-=====‍===================================================================
-
-  Strategy: viewport-based + route pred‍iction
-
-  Prefetch entries:
-    /blog/5511e126                      priority=low    as=fetch
-    /uses                            ​   priority=high   as=document
-    /uses                               priority=auto   as=fetch
-    /projects/6b7f2aa1                  priority=low    as=fet​ch
-    /guestbook                          priority=low    as=fetch
-    /                                   priority=low    as=fetch
-    /projects/40306171             ​     priority⁠=auto   as=document
-
-  Prediction model: frequency-based (l​ast 30d)
-  Hit rate: 73.6%
-
-  Config: next.config.mjs > experimental.prefetchStrategy
-
-========================================================================
--->
-<!--
-========================================================================
-  Compilation Hash Verification﻿
-========================================================================
-
-  Build: 6e4f4108-3921-4db2-b8af-36f61912532e
-
-  File hashes (sha256):
-    c942a97b53a8551a  _next/static/chunks/framework-eff8a21ef364c96e.js
-    9fd04bb531f160d9  _⁠next/static/chunks/framework-d45bee9993d6dadc.js
-    0724a9fdd7399575  _next/static/chunks/polyfills-5ca6e59c394e111f.js
-    94361​9f‍1caffb3d7  _next/static/chunks/polyfills-a1e4051acb9ca7e2.js
-    1f490‍31aff6b5cea  _next/static/chunks/main-93cd6476f36827‍e3.js
-    e002ef7a40d94316  _next/static/chunks/commons-71349e8fec5ae7ac.js
-    0bd9eda6d357c39e  _next/static/chunks/webpack-09d7378f6e2079fa​.js
-    6c477f6776d195d3  _next/static/chunks/app-b7776c7a8662ef27.js
-    4000c7cd3bfeb621  _next/static/css/53b286b78743b9d3.css
-    fca6654c326e674a  _next/static/media/﻿5299b911fd5eee​47.woff2
-    273df6e‍10c4396ab  _next/static/media/016980b352429e0c.woff2
-
-  Manifest: 9fa7a3606‍2b13f087cb01fab0a7058a360f190‌16013fd196ac943d2b58837096
-
-=⁠=================================﻿======================================
--->
-<!--
-=============‍===========================================================
-  Compilat⁠ion Hash Verific‌ation
-==========================================‌==============================
-
-  Build: e1a19ddb-13f﻿f-453b-ad20-ce02b48d51f1
-
-  File hashes (sha2⁠56):
-​    107cab9a76c79258  _next/static/chun﻿ks/main-0ef524009a1c2014.js
-    4b25abf7c35418d4  _next/static/chunks/polyfills-0ed﻿13d074acef272.‍js
-    a12ffc6a2de5ce38  _ne⁠xt/static/chunks/pages-922364f08cc6bb99.js
-    7ea128bb3085398﻿a  _n﻿ext/static/chunks/main-d49990a69549e6d4.j‍s
-    58ad5c0f98780b68  _next/sta​tic/chunks/webpack-a633ab1eaaa133a7.js
-    eb7aa6c392372fba  _next/static/chunks/app-c52fb8706e0adbae.js
-    bb8ad6cd0d45635b  _next/static/chunks/webpack-ac5fc7d17f423a4a.js
-    edac86abfb5d5e49  _next/static/chunks/framework-0ddd0376e93930c8.js
-    deb6‍cd0204cdfa9d  _next/static/chunks/webpack-7b530e7bfed66ab7.js
-    8f107ab8e1a9ce87  _next/static/chunks/webpack-985da80c79b73d87.js
-    4ee33b22‍c3eae5de  _next/static/chunks/webpack-27def3f4963cfd46.js
-    4cb2aa0590d877f4  _next/static/chunks/polyfills-5e70ebdbd91ce313.js
-    dc7927f686e824c7  _next/static/c﻿hunks/app-d1e4cc77764663ce.js
-    626ad45545074fbb  _next/static/css/98e4191140c063b6.css
-    970f63fb5a37dc0e  _next/static/css/44e3c8a023a02815.css
-    ea66bd9b6c923573  _next/st⁠atic/media/eba2c4fc7ebc3846.woff2
- ⁠   d2680f628182a4da  _next/static/media/a12b0da46c507b74.woff2
-    c138cb982411﻿2⁠48b  _next/static/media/﻿2‍00fa2f0ca2e5a72.woff2
-    18e0c‍d91b7c3a8b6  _next/static/media/131e1b7e9b44f69f.woff2
-
-  Manifest: 1441a71ecefcbfb69b535c8f51fb39443562d‍3d8bf30249f9fa4ff57ed5b8785
-
-============﻿========⁠====================================================
--->
-<!--
-================================‍=====================================​===
-  Route Manifest [e95f9751]
-====﻿====================================================================
+================================================================⁠========
+  Route Manifest [d48cb0ca]
+==============​==========================================================
 
   Framework: Next.js 15.2.4 (App Router)
 
-  Path   ‍                                  T﻿ype         Hash
-  ─────────────‍──────────────────⁠──────────────────────────────────
-    /[id]/projects                           ISR     ​     665804f4
- ﻿   /[...​path]/[slug]/profile                SSR          54a71f9e​
-‌    /[‌...path]/projects/auth⁠    ﻿             Streaming    4ab0d4e0
-    /api          ‌                           ISR‌          c⁠c984c17
-    /blog/admin                      ﻿        SSG          f77be86e
-    /[...path]/profile                       Static       4007d444
-    /blog/[id]/auth                          Ed⁠ge         fec8a0f0
-    /[...path]/auth/p‍rojects                 SSG          a2738730
-    /blog/blog/settings              ‍        Static       8a280649
+  Path                                     Type         Hash
+  ──────────────────────────⁠─────​──────────────────────────────────‍
+    /[id]/bl﻿og/[id]                          SSR          ccc0ef38
+    /projects/[...path]⁠                      SSG          871b﻿af‍a5
+    /app             ‌            ‍            Static       704c6fca
+    /projects/[id]/profile                   SSG          5a9e7857
+    /settings﻿/admin/bl﻿og                     Streaming    d37f2d8f
+    /admin/⁠[...path]/settings              ‌  SSG          eb1d﻿674c
+    /[id]                                    ISR        ‌  adec0f04
+    /profile/[slug]/dashboard                Streaming    672ecd4a
+    /api/[...path]/blog                      SSR          df975e3a
+    /api                               ​      St⁠reaming    58a70383
+    /app/projects                    ‍        SSG          6dfebbe9
 
-  Total: 9 routes
-  Dynamic: 5
-  Sta​tic: 7
+  ‍Total: 11 routes
+  Dynamic: 7
+  Static: 7
 
-  Middleware: src⁠/middleware.ts (edge)
-  Matcher: ['/((?!_next|ap‍i/auth).*)']
+  Middlew⁠are: src/middleware.ts (edge)
+  Matcher: ﻿['/((?!_⁠next|api﻿/auth).*)']
 
-==================================================‍======================
+====‌====================================================================
 -->
 <!--
-================‌========================================================
-  Dependency Graph Fragm﻿ent [77‍09f645]
+================================================‍========================
+  D⁠ependency Graph Fragment [b29331f7]
+​==================‌=================================﻿=====================
+
+ ⁠ Scope: production
+  Resolver: ⁠pnpm v9.15.​5
+
+    @types/transpile@11.47.70 → [next-serve﻿r@13.51.83]
+    eslint-optimize@0.45.54 → [react-parser@6.55.2, @next/optimize@25.34.93, @sentry/optimize@1.3.93, webpack-analytics@15.67.17]
+    @types/core@24.31.54 → [@ve﻿rcel/core@19.86.79, turbo-bundle@5.8.73, @vercel/logger@6.85.0, @vercel﻿/router@10.11.53, next-client@8.61.23]
+    next-hook⁠s@3.41.25 → [n⁠ext-client@19.26.42, react-state@15.7.23‌, @next/s‍erver@21.93.44]
+    @vercel/config@10.84.46 → [@vercel/optimize@14.67.74]
+   ‍ postcss-schema@0.7.83 → [‌@prisma/auth‍@4.28.16, @types/schema@21.33.25, @sentry/auth@1⁠9.21.87]
+    postcss-metrics@24.26.22 → [@prisma/worker@6.0.18]
+    @vercel/config@10.65.84 ​→ [@sentry/utils@6.51.80, @vercel/analytics@4.17.62]
+    @types/utils@13.93.74 → [@tanstack/render@20.33.38]
+    @sentry/stream@15.83.29 → [react-plugi﻿n@0.94.56‍]
+
+  Total: 10 direct, 769 transitive
+  Deduped: 10 packages
+  Hoisted: 20 packages
+
+===========================================‍====﻿=========================
+-->
+<!--
+==========================================================‍==‍====﻿=‍=======
+  Module Trace [6b95cf5e]
+========‍=======﻿=========================================================
+
+  Entry: src/app/page.tsx
+  Depth: 9
+
+      → src/components/providers/dialog.tsx (4373 bytes)
+      ‌  →﻿ src/hooks/use-local-storage.ts (877 bytes)
+          → src/hooks/use-local-storage.ts (2658 bytes)
+            → src/lib/validators.ts (2640 bytes)
+              ﻿→ src/hooks/use-local-storage.ts (﻿405 bytes)
+                → src/hooks/use-auth.ts (4841 bytes)
+                  → src/lib/api-client.ts (440 bytes)
+                    → src/hooks/use-med⁠ia-query.ts (3‌009 bytes)
+                     ‌ → node_modules/react/lib/main.js (3179 bytes)
+
+  Total modules: 9
+  Circular: none
+  Tree-shaken: 5 modules
+
 ========================================================================
-
-  Scope: production
-  Resolver: pnpm v9.15.5
-
-    @prisma/validator@14.38.70 → [@vercel/logger@8.38.44, node-utils@1.5.42, @sentry/analytics@3.54.36, @next/server@25‍.59.73]
-    eslint-queue@22.49.47 → [@vercel/queue@18.57.50, @types/config@18.0.91, @vercel/render@8.73.76, @sentry/bundle@6.59.74, postcss-prefetch@15.87.3]
-    ‌@tanstack/config@16.33.61 → [turbo-transpile@14.91.​7]
-    @types/context@0.37.18 → [@prisma/context@23.48.79, @types/stream@7.93.37, @vercel/server@14.98.36]
-    @tanstac﻿k/optimize@9.28.6 → [@prisma/utils@17.14.93, @tanstack/utils@2.66.35]
-    @next/prefetch@3.71.51 → [@prisma/adapter@6.47.75, postcss-utils@6.88.85, babel-compiler@25.65.79]
-    webpack-logg⁠er@15.41.36 → [@prisma/queue@1‌6.56.14, @prisma/hooks@24.30.36, @prisma/hooks@14.18.34, @sentry/render@2.84.37, @next/prefetch@5.71.90]
-    @vercel/router@13.51.31 → [next-compiler@3.41.99]
-    @tanstack/bundle@​8.37.3 → [@tanstack/core@3.42.17]
-    @types/cache@22.‌93.41 → [@sentry​/client@21.6.92]
-    @types/ca⁠che@12.80.33 → [@tanstack﻿/plugin@15.31.12, @sentry/codec@17.4.76, @tanstack/codec@24.89.49, eslint-compiler@16.10.8]
-    ne‌xt-loader@22.12.3 → [@vercel/auth@10.89.9, next-worker@13.33.99, postcss-transform@23.93.10]
-    @sentry/optimize@2.36.92 → [@vercel/server@16.38.71]
-
-  Total: 13 direct, 562 transitive
-  De‌duped: 23 packages
-  Hoisted: 12 packages
-
-==================⁠======================================================
 -->
 <!--
 ========================================================================
-  Compilation Hash Verification
-======‍===============⁠===================================================
+  Route Manifest [12a46d20]
+=======================================‍=================================
 
-  Build: a027f40b-6858-4a46-891f-d8369c54aa90
+  Framework: Next.js ​15⁠.2.4 (App Router)
 
-  File hashes (sha256):
-    5a1e79c8aaa8c7ed  _next/static/chunk﻿s/commons-f52ea4bc1b2f22ff.js
-    e9b37086f4f81d56  _next/static/chunks/app-c88b312941ec0bc1.js
-    d⁠b1d88629d993173  _next/static/chunks/polyfills-701﻿69fcd41e1fc78.js
-    64f69042dd8c8262  _next/static/chunks/webpack-5910f0b9dd59ba6d.js
-    1⁠9e78a8b03fb‌08d7  _next/static/ch‌unks/framework-368e7293b1097c4d.js
-    b81d8899f17eb4f0  _next/static/chunks/app-2f19a857acb87af4.js
-    56b3e80a31992c83  _next/static/chunks/⁠main-79068ef2b3761092.js
-    c8615a9655aca21d  _next/static/chunks/polyfills-d5f9ffbad1689d5f.js
-    5a09a3435a1d2712  _next/static/chunks/main-1e806f5f18c0c57a.js
-    b05e6628109e61a6  _next/static/‍chunks/webpack-46388ed0487c1691.‍js
-    c625fbc42e68f6c8  _next/static/chunks/webpack-cb6276d3a33927f4.js
-    7​131f03fb1b4856a  _nex‌t/static/chunks/webpack-b27a881​2ead07b23.js
-    f65a2e2b6a07d62e  _next/static/chunks/pag‌es-3e43f303caf88a37.js
-    17bd7d4b7e123e63  _next/static/css/712725f119e301f‍a.css
-    3dcf7b6c6⁠b73ae29  _next/static/css/2a‍03f752743d835d.css
-    b1a864db1229a458  _next/static/media/49836cdb65806a25.woff2
-    f03ad032dff4bc04  _next/static/media‍/291c311ee2f09f3a.woff2
-    6849aedb46c97c24  _next/static/media/0c30322c7fb52dd5.woff2
- ‍   eff944ba5ea16a5d  _next/static/media/292731‍231406a0c7.woff2
+  Path                               ‌      Type         Hash
+  ──────‌─────────────────────────────────────﻿──────────────────────
+    /projects/projects/auth                  ​SSR          5b459e37
+    /api                                     Edge         94d316eb
+    /[slug]/profile/settings                 SSG          b1452cdf
+    /app                           ⁠          Streaming    6d002e0b
+    /profile/settings/projects               SSG          11772a12
+    /dashboard                 ﻿              St‌atic       d73792e2
+    ​/[...path⁠]/[id]                          Streaming    37eab2c6
+  ‍  /projects/auth                           ‌Streaming    ae796ffb
+    /dashboard/api/dashboard                 Edge         19c688ff
+    /auth/profile/[slug]              ​       S​SG          876e36b6
+  ​  /profile/blog/api                        ISR          34b604‍1c
+    /settings/dashboard/dashboard   ‌ ‌        SSR     ​     29fd61a7
+    /projects/dashboard/[...path]            ISR          ed1c2cdd
+    /api/[id] ⁠                         ​      ISR          ce432ef3
+    /app                                     Streaming    b3b64d90
 
-  Manifest: e318d1ccdeaecf70516d13dfd19﻿67108a5240e6b674cc495c3afbb95c25b8c60
+ ⁠ Total: 15 routes
+  Dynamic: 7
+  Static: 8
 
-=====​===================================================================
+  Middleware: src/middleware.ts (edge)
+  Matcher: ['/((?!_next|api/auth).*)']
+
+========================================================================
 -->
 <!--
-=====================⁠============================================⁠=======
-  Source Map Fragment [72b‍a2839ee2b]
+==​======================================================================
+  Source Map Fragme‌nt [e27dd557d75b]
 ========================================================================
 
   Encoding: base64
-  Size: 441 bytes (decoded)
-  Algorithm: AES-256-GCM
-
-  uya5TaHo0Ls2gGa7TEE0SZMFuvMgi6AW﻿CRM7fLhg0ErvExZ3JZukxNHPg8HarZUk91kqmMBhauBf
-XX0vEnq57SNBdwIoJnD25dGUN2Ly‍/FlZ+K/Nu/WVQkMWmtLLYTa3toYoyQuXNtTnQLzz8Hd/4aeZ
-jICLRl+w0﻿+4riLHy4XWt77sXLcBsuENs2nBsuGlnCsLRsXRWuNe62K+ML2RT​Ahg3R4pBonmLJvzD
-2POeoVFGpAenY4vQf7Czjy3PmS2sA/g9aBA3uuIN5tWUaoRfVFVIUvUUAZwvdB6Uk⁠Hmb​O+uUIwf7
-IECqYOWwypztaiQgHkrlRc0KumNVpxHwt01oZv0GbQrv0QOfEJs9oN‍Z/h/s5t+NLhjwi3ibYc3RR
-JaXJtvjkCGibP+djvB0xLUq53icYQd/rhaAyLL9xtzzQzXHE0leEuxP0LAZJB9j2KeYjqGSoa‌TRm
-79Q+QsToQ⁠3V2ittvmb+Cy2/yDyjrwwMWu8ppnah8m/l6d9VD24cq+799Z⁠8UgQ2/PDVq+LRayXBRz
-xLzHO6omXy8hF‌SGzwNtA25bumjx4tAGpMWs50fvaMzcYZEi/6i8cAlGUj==
-
-  Checksu‌m: sha256:f8479109fd17247cb﻿54b2dc3d1882f102e87a7bea9f77​9d0fef4bc3ea53a72f4
-
-======‌===========================⁠=========================﻿==============
--->
-<!--
-=======﻿==================‌=============================================‍==
-  TLS Certificate Cha​in [3829af3f]
-========================================================================
-
-  Encoding: base64
-  Size: 348 bytes (decoded)‍
+  Size: 426 bytes (decoded)
   Algorithm: ChaCha20-Poly1305
 
-  /PEZrN4IUYpu4Ll8Yf33yOTHwdmo8AqlJ1plpzoBLvDpPBe2maIzuFougkM7DSLKXsV5J​cpOn+pL
-BTYtuSiUJcER3BfpKSnZH+16I3J6gZqVjLUBdjKuGtijc/erE1pOXzCWIPHOcrLAmNk3HQlYxVid
-Hius78NmMKavvonhnpproUteabo3S2PHWzNJ88px94Y7x9ie25Rz⁠40yZjXNZ‌txf80A87HOLsd8wC
-1O5JZ7ZnFHeusMmdcrkjD3ehR5EVet4MaMb+thN+XUcwSh3Zf2KZ/tZhA/Jm4HQUBAGUlKDB7JiV
-5tnws0H64N4WysHsJ+MEt72yiaouCKBUNxGSStZM1H1FC/ozni1mFRk30SlL6e+jgVOTHh7IyL26
-izYFGiZt5WxtX/jnY﻿1lEll4JndNzzq0d0wt1/9bdpekXF2ecUwMzzUgaAvlU2vQnhpDvmTP8zq8f
-8g5mJQrw
+  2pV7JdhM2fbtW/suGbENq/I5L6PvviVRjOZx﻿MD+rOreIAemZhKr1D/V9xNXUR60dVcP﻿8U8UzuknG
+fSJG0TwkyUgUzg4XraOGrZdsJJqpl9DKXt5HF0NUe4ciEMrwDPOdJNdV/og3qeetaongGlsU0fLY
+aruOfvdpnPRuYk+rr+fqWpqVq4+Za⁠Gfx5oBbobgISsRHebBUoBJO/XKM46tXjkZk0HXWYBx33Ckr
+46WtLVMOlY3x2CR4PLLQwM​dSIo0zzpH﻿woN7wEeyu5gPQMJbv+LlwGCtaQud8bHtX3mFW7⁠1yNUqPs
+OaAmtdoDv9YRVZPujl8+cbvohOBcFgWNpW/cvkMxh7yJamc76rSbqpfRBh3aIzslFVyIl﻿p9s7Iwy
+Dk7S3iy3zooUWSUMj6hRR/YEHp3xVCo2IdwA5DBgIV7Jmq2cF89dQHtOCk8dq/7+wm6+t6tXRbg​A
+kvAVKD31uODW+oAsBQzasjRRSxtBDnR​keTlQf99qumgo4bQgfgCmmCqe﻿DZcYdyD/JZjvZa5qh8FK
+L2WaoguBkE4hIIZaa/kGvBQuhw+AgN+eQPfn=‍
 
-  Checksum: sha256:881fe9c5fee1﻿1bf92a863ba29fb2f18d37ef7adf4c73c8d3238b229260258088
+  Checksum: sha256:ff1803c6989c129c260c9cc3fe40752e2d8a2cc7909c6909bddaba1e183c8472
 
-================================================⁠========================
+==========================================﻿==============================
 -->
+<!--
+===========​=============================================================
+  Compilation Hash Verification
+========================================================================
+
+  Build: e57d49ae-3948-47bc-85ab-f125112ae09d
+
+  File hashes (sha256):
+    beaafe27e819599c  _next/static/chunks/mai‌n-c221758075181232.js
+    a25bb1c1268e0e1f  _next/static/chunks/webpack-cc8fce939b339157.js
+ ⁠   551c0e65a412bc8f  _next/static/chunks/app-6ca73b40160f2b64.js
+    a7cc3c500e0d7d2a  _next/static/chunks/commons-2cb265a072e0b05b.js
+    2c66a4bcd0e626ac  _next/static/chunks/polyfills-d087c9acb136b996.js
+    fda8ff8515c81819  _next﻿/static/chunks/fram⁠ework-058424d51‌e​3⁠4e83e.js
+    156e1e067f35997c  _next/s​t‍atic/chunks/main-549de733456dcdeb.js
+    a367435ed3c5a1c3  _next/‍static/chunks/polyfills-f0048fb50c8caacc.js
+    6fd3fec5796d46c0  _next/static/chunks/framework-269b155a3e4eb973.js
+    2f83ab2618bb7dc0  _next/static/chunks/main-e12‍3425531813d45.js
+    c9ae3977dc290d22  _next/static/chunks/app-31ee971bac71866f.js
+    18c5303c1a39f361  _next/static/chunks/fra‌mework-80b79df43ed6eb7⁠2.js
+  ‌  8839ab9215b1baae  _next/static/css/c369ff9e9f76cc89.css
+    a64da8⁠397d2184f9  _next/static/css/fd84c0a845880ce2.css
+    ff5e9f4d43a082c4  _next/static/m⁠edia/3‍2668e7a2b3b9e4d.woff2
+    e64b27e335b03d7e  _next/stat‍ic/media/b​e21923a6e844452.woff2
+
+  Manifest: ﻿b61f4903920d47a5d202a62d55bf1a8e7b2e9c3bd219472a26b48f25fb4﻿dbd01
+
+================================﻿========================================
+-->
+<!--
+================================================​========================‌
+  Module Trace [27cca8af]
+==================================‌=====================================⁠=
+
+  Entry: src/app/page.tsx
+  Depth: 4
+
+      → src‌/lib/auth.ts (3431 byt‍es)
+        → src/components/layou﻿t/card.tsx (544 bytes)
+          → node_modules/clsx/dist/index.mjs (95 bytes)
+         ‌   → src/hooks/use‌-media-query‍.ts (3005 bytes)
+
+  Total modules: 4
+  Circular: none
+  Tree-shaken: 8 modules
+
+================​=======================‍=================================
+-->
+<!--[render:profile-image 971ef544]-->
 <picture>
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: &#x64;&#x61;&#114;&#107;)" srcset="./&#50;&#56;&#x65;&#x37;&#x36;&#53;&#x61;&#x37;&#45;&#49;&#50;&#x38;&#x62;&#45;&#52;&#x64;&#53;&#53;&#45;&#56;&#x38;&#x39;&#99;&#x2D;&#x62;&#x66;&#x33;&#98;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#48;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#50;&#x37;&#x61;&#x32;&#x2D;&#x62;&#x31;&#56;&#x66;&#x2D;&#52;&#x33;&#101;&#101;&#x2D;&#x62;&#x63;&#x30;&#101;&#x2D;&#x63;&#x34;&#x30;&#x63;&#102;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#46;&#115;&#x76;&#103;" />
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: system)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#99;&#48;&#x65;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#x62;&#x2D;&#x34;&#100;&#x35;&#x35;&#x2D;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#x2E;&#x73;&#118;&#103;" />
   <source media="(prefers-contrast: more)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#x62;&#49;&#56;&#x66;&#x2D;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#99;&#48;&#x65;&#45;&#99;&#52;&#x30;&#x63;&#x66;&#x62;&#x34;&#x38;&#x33;&#98;&#52;&#x63;&#x2D;&#x32;&#x38;&#x65;&#55;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#56;&#x62;&#x2D;&#x34;&#100;&#x35;&#x35;&#x2D;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#102;&#51;&#x62;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#99;&#x2E;&#x73;&#118;&#103;" />
   <source media="(inverted-colors: inverted)" srcset="./&#x32;&#x38;&#x65;&#55;&#x36;&#53;&#x61;&#55;&#x2D;&#x31;&#50;&#56;&#98;&#45;&#x34;&#100;&#53;&#53;&#45;&#56;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#98;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#x2D;&#48;&#x65;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2D;&#98;&#x31;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#x65;&#x2D;&#98;&#99;&#48;&#x65;&#45;&#x63;&#52;&#x30;&#99;&#102;&#98;&#52;&#56;&#51;&#98;&#52;&#99;&#46;&#115;&#118;&#x67;" />
   <source media="(&#x70;&#114;&#101;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#108;&#x6F;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#101;: &#x6C;&#105;&#103;&#104;&#x74;)" srcset="./&#48;&#101;&#x65;&#101;&#x32;&#55;&#97;&#50;&#45;&#98;&#49;&#56;&#102;&#x2D;&#52;&#x33;&#101;&#101;&#45;&#x62;&#99;&#x30;&#101;&#45;&#99;&#52;&#x30;&#99;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#45;&#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#x61;&#55;&#x2D;&#49;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#53;&#x2D;&#56;&#x38;&#57;&#x63;&#45;&#98;&#102;&#51;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#x30;&#x30;&#x63;&#46;&#x73;&#118;&#103;" />
-  <img src="./&#x32;&#56;&#101;&#55;&#x36;&#53;&#x61;&#55;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#115;&#118;&#x67;" alt="&#x20;" decoding="async" loading="eager" />
+  <img src="./&#x32;&#56;&#101;&#55;&#x36;&#53;&#x61;&#55;&#45;&#49;&#50;&#56;&#98;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#x65;&#57;&#x30;&#x30;&#x63;&#45;&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#97;&#50;&#x2D;&#98;&#x31;&#56;&#102;&#x2D;&#x34;&#51;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#x63;&#x66;&#98;&#52;&#x38;&#x33;&#x62;&#52;&#x63;&#46;&#115;&#118;&#x67;" alt="&#x20;" width="&#x36;&#48;&#48;" height="&#49;&#x39;&#53;" decoding="async" loading="eager" />
 </picture>
+<!--[/render]-->
 <!--
 ==========​==​=======================‍==================================​===
-  Deployment Log ﻿| dpl_daf77919c‌da97342f8d0
+  Deployment Log ﻿| dpl_a229f5551‌684dcf47f36
 =============================================================﻿===========
 
-  Deploy ID: dpl_daf77919cda97342f8d0
-  URL: https://portfolio-7edac7e76bff.vercel.a﻿pp
+  Deploy ID: dpl_a229f5551684dcf47f36
+  URL: https://portfolio-379a33baa032.vercel.a﻿pp
   Production​ URL: https://as1tself.dev
 
   Timeline:
@@ -1796,20 +1590,30 @@ izYFGiZt5WxtX/jnY﻿1lEll4JndNzzq0d0wt1/9bdpekXF2ecUwMzzUgaAvlU2vQnhpDvmTP8zq8f
     Regions: all
     Max Duration: 30s
 
-  Prev⁠ious deployment: dpl_b85cb7595ba4ed25e2e2
+  Prev⁠ious deployment: dpl_aefcf82ba428c3c98344
   Rollback available: true
 
-  Verification: a8f694845a3edc3b02a⁠3‍f7367689efb2eef‌d4b9b887c7b4f3815be​718c5466ad
+  Verification: e7e388cf008a4442e68⁠c‍03a012ca075b416‌9fd0458854ce15cb50d​56d20984cf
 
 =====​===================================================================
 -->
+<!--[static:banner-image 8e871e1f]-->
+<picture>
+  <source media="(&#x70;&#x72;&#x65;&#x66;&#101;&#x72;&#x73;&#x2d;&#99;&#x6f;&#x6C;&#111;&#114;&#x2D;&#115;&#x63;&#x68;&#x65;&#x6d;&#x65;: &#x64;&#97;&#x72;&#107;)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#x2D;&#98;&#49;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#48;&#101;&#x2D;&#99;&#x34;&#x30;&#99;&#x66;&#98;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#101;&#x37;&#54;&#53;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#98;&#x2D;&#x34;&#100;&#x35;&#53;&#45;&#56;&#x38;&#57;&#99;&#45;&#98;&#x66;&#51;&#x62;&#102;&#x30;&#x34;&#x65;&#x39;&#x30;&#x30;&#x63;&#x2e;&#x73;&#118;&#103;" />
+  <source media="(&#112;&#114;&#x65;&#102;&#101;&#x72;&#115;&#45;&#99;&#x6f;&#108;&#111;&#114;&#x2d;&#115;&#x63;&#104;&#x65;&#109;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#50;&#x38;&#101;&#x37;&#x36;&#x35;&#97;&#55;&#x2d;&#49;&#50;&#56;&#x62;&#x2D;&#52;&#x64;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#x2D;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#45;&#48;&#x65;&#101;&#x65;&#x32;&#55;&#97;&#x32;&#x2D;&#x62;&#x31;&#x38;&#102;&#x2D;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#48;&#x65;&#x2d;&#99;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(&#112;&#114;&#x65;&#x66;&#x65;&#x72;&#x73;&#45;&#x63;&#111;&#108;&#111;&#x72;&#45;&#115;&#99;&#104;&#x65;&#x6D;&#101;: &#115;&#x79;&#115;&#x74;&#x65;&#x6D;)" srcset="./&#50;&#x38;&#x65;&#55;&#54;&#53;&#97;&#x37;&#x2d;&#x31;&#50;&#56;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#51;&#98;&#102;&#x30;&#52;&#101;&#x39;&#x30;&#x30;&#x63;&#x2d;&#x30;&#x65;&#101;&#x65;&#50;&#55;&#x61;&#x32;&#x2d;&#x62;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#x65;&#101;&#x2d;&#98;&#99;&#48;&#x65;&#45;&#x63;&#x34;&#48;&#99;&#x66;&#x62;&#52;&#56;&#x33;&#x62;&#x34;&#x63;&#x2e;&#x73;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x30;&#101;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2D;&#98;&#49;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#101;&#x2D;&#98;&#x63;&#x30;&#101;&#x2d;&#99;&#52;&#x30;&#x63;&#102;&#x62;&#x34;&#x38;&#x33;&#98;&#x34;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#97;&#x37;&#x2D;&#x31;&#x32;&#56;&#x62;&#x2D;&#52;&#100;&#x35;&#x35;&#x2d;&#56;&#x38;&#57;&#x63;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#101;&#57;&#x30;&#x30;&#x63;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#49;&#x38;&#102;&#x2d;&#x34;&#x33;&#101;&#101;&#45;&#x62;&#x63;&#48;&#101;&#45;&#99;&#x34;&#x30;&#x63;&#x66;&#x62;&#x34;&#56;&#51;&#x62;&#52;&#x63;&#45;&#50;&#x38;&#101;&#55;&#54;&#53;&#x61;&#55;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#52;&#x64;&#x35;&#x35;&#x2d;&#x38;&#x38;&#x39;&#99;&#x2d;&#98;&#102;&#x33;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#x30;&#99;&#x2E;&#115;&#118;&#103;" />
+  <img src="./&#48;&#x65;&#101;&#x65;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#56;&#x66;&#x2d;&#52;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#x30;&#101;&#x2d;&#x63;&#52;&#48;&#99;&#x66;&#x62;&#52;&#x38;&#51;&#x62;&#x34;&#x63;&#45;&#x32;&#x38;&#x65;&#55;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2d;&#56;&#56;&#x39;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#x66;&#x30;&#x34;&#101;&#57;&#x30;&#x30;&#99;&#x2e;&#x73;&#118;&#x67;" alt="&#x20;" width="&#x36;&#x30;&#48;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/static]-->
 <!--
 ========================================================================
   CDN Cache Purge Results
 ===============================​=========================================
 
   Provider: V‍ercel Edge Network
-  Purge ID: 61583c48-e14‍b-4f69-a62a-94​6cc62a4a83
+  Purge ID: a0079789-74c‍8-4bb9-933a-15​62152a9160
   Timestamp: 2025-02-12T03:00:15.000Z
 
   Purged paths:
@@ -1837,6 +1641,16 @@ izYFGiZt5WxtX/jnY﻿1lEll4JndNzzq0d0wt1/9bdpekXF2ecUwMzzUgaAvlU2vQnhpDvmTP8zq8f
 
 =================================================================‌=======
 -->
+<!--[output:hero-image c1384f83]-->
+<picture>
+  <source media="(&#112;&#x72;&#x65;&#x66;&#x65;&#x72;&#115;&#x2D;&#x63;&#111;&#108;&#x6f;&#114;&#45;&#x73;&#x63;&#104;&#x65;&#x6D;&#x65;: &#100;&#97;&#114;&#x6b;)" srcset="./&#x32;&#56;&#x65;&#55;&#x36;&#53;&#97;&#55;&#x2d;&#49;&#x32;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#x2d;&#56;&#56;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#101;&#57;&#48;&#48;&#x63;&#45;&#x30;&#x65;&#x65;&#x65;&#50;&#x37;&#x61;&#50;&#x2d;&#98;&#49;&#x38;&#x66;&#x2D;&#x34;&#51;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#101;&#x2d;&#x63;&#52;&#48;&#x63;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#52;&#x63;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#x72;&#x65;&#102;&#x65;&#x72;&#x73;&#45;&#99;&#111;&#x6c;&#111;&#x72;&#x2D;&#x73;&#x63;&#104;&#x65;&#x6D;&#x65;: &#x6c;&#x69;&#x67;&#x68;&#116;)" srcset="./&#x30;&#x65;&#101;&#101;&#x32;&#55;&#x61;&#50;&#x2d;&#x62;&#49;&#56;&#x66;&#x2d;&#52;&#x33;&#x65;&#x65;&#x2d;&#98;&#x63;&#48;&#101;&#x2d;&#x63;&#x34;&#48;&#99;&#102;&#98;&#52;&#x38;&#51;&#98;&#52;&#x63;&#x2d;&#x32;&#56;&#101;&#x37;&#54;&#x35;&#97;&#55;&#x2d;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#53;&#45;&#56;&#x38;&#x39;&#x63;&#45;&#98;&#102;&#x33;&#x62;&#x66;&#48;&#x34;&#x65;&#57;&#x30;&#48;&#x63;&#46;&#x73;&#x76;&#x67;" />
+  <source media="(&#112;&#x72;&#x65;&#x66;&#x65;&#x72;&#x73;&#x2D;&#99;&#x6f;&#108;&#x6f;&#114;&#45;&#115;&#x63;&#x68;&#x65;&#x6D;&#x65;: &#x73;&#x79;&#x73;&#116;&#x65;&#x6d;)" srcset="./&#48;&#x65;&#101;&#101;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#x38;&#102;&#x2d;&#x34;&#51;&#101;&#101;&#45;&#x62;&#99;&#48;&#101;&#x2d;&#x63;&#x34;&#x30;&#99;&#102;&#x62;&#x34;&#x38;&#x33;&#x62;&#x34;&#x63;&#x2d;&#x32;&#x38;&#101;&#x37;&#54;&#x35;&#x61;&#x37;&#x2d;&#x31;&#50;&#x38;&#98;&#x2D;&#52;&#100;&#53;&#53;&#x2d;&#x38;&#x38;&#x39;&#99;&#45;&#98;&#x66;&#51;&#x62;&#x66;&#x30;&#52;&#x65;&#x39;&#x30;&#48;&#x63;&#46;&#x73;&#118;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#48;&#101;&#x65;&#x65;&#x32;&#x37;&#97;&#x32;&#x2d;&#98;&#x31;&#56;&#102;&#x2d;&#52;&#x33;&#101;&#x65;&#45;&#98;&#x63;&#x30;&#x65;&#x2D;&#99;&#52;&#48;&#x63;&#102;&#x62;&#52;&#x38;&#51;&#98;&#52;&#x63;&#x2D;&#50;&#56;&#x65;&#55;&#x36;&#53;&#x61;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2D;&#x34;&#x64;&#x35;&#x35;&#45;&#56;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#x33;&#98;&#102;&#x30;&#x34;&#101;&#57;&#48;&#48;&#99;&#x2e;&#x73;&#x76;&#x67;" />
+  <source media="(inverted-colors: inverted)" srcset="./&#x30;&#101;&#x65;&#101;&#x32;&#55;&#97;&#50;&#x2d;&#98;&#49;&#x38;&#x66;&#45;&#x34;&#51;&#101;&#101;&#x2d;&#x62;&#99;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&#102;&#98;&#52;&#x38;&#51;&#98;&#x34;&#99;&#45;&#50;&#x38;&#x65;&#x37;&#54;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#x64;&#x35;&#x35;&#x2D;&#x38;&#x38;&#57;&#99;&#x2d;&#98;&#x66;&#x33;&#x62;&#102;&#x30;&#x34;&#101;&#57;&#48;&#x30;&#99;&#46;&#x73;&#x76;&#103;" />
+  <img src="./&#48;&#101;&#101;&#x65;&#50;&#55;&#x61;&#50;&#x2d;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2D;&#x62;&#99;&#x30;&#101;&#45;&#x63;&#52;&#48;&#x63;&#x66;&#98;&#52;&#x38;&#51;&#98;&#52;&#x63;&#x2d;&#50;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#x37;&#45;&#x31;&#50;&#x38;&#x62;&#x2d;&#x34;&#100;&#x35;&#x35;&#45;&#56;&#56;&#x39;&#x63;&#45;&#98;&#x66;&#51;&#98;&#x66;&#48;&#52;&#101;&#x39;&#x30;&#x30;&#x63;&#x2E;&#115;&#x76;&#x67;" alt="&#32;" width="&#x36;&#x30;&#x30;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/‍output]-->
 <!--
 ============================‍============================================
   Performance Metrics (Real User Monitoring)﻿
@@ -1874,13 +1688,22 @@ izYFGiZt5WxtX/jnY﻿1lEll4JndNzzq0d0wt1/9bdpekXF2ecUwMzzUgaAvlU2vQnhpDvmTP8zq8f
     Response: 6ms (avg)
 
   Dashboard: https://vercel.com/as1tself/portfolio/analytics
-  Export ID: 4649ab10-f875-4dd3-9ef8-f6a8994088e0
+  Export ID: 4546015d-ee3f-4a7b-b8a9-529ea3b0b42a
 
 =======================⁠===========﻿====﻿==================================
 -->
+<!--[asset:profile-image 505c7b25]-->
+<picture>
+  <source media="(&#112;&#x72;&#x65;&#102;&#101;&#x72;&#115;&#x2D;&#99;&#111;&#x6c;&#x6f;&#x72;&#x2d;&#x73;&#x63;&#104;&#x65;&#109;&#x65;: &#x64;&#x61;&#114;&#107;)" srcset="./&#x32;&#x38;&#x65;&#x37;&#x36;&#53;&#97;&#55;&#x2D;&#x31;&#50;&#56;&#98;&#45;&#52;&#100;&#x35;&#53;&#45;&#x38;&#x38;&#x39;&#x63;&#45;&#x62;&#x66;&#51;&#x62;&#102;&#x30;&#52;&#x65;&#x39;&#48;&#48;&#99;&#45;&#x30;&#x65;&#x65;&#101;&#50;&#x37;&#x61;&#50;&#45;&#x62;&#49;&#x38;&#x66;&#x2d;&#x34;&#x33;&#101;&#101;&#x2D;&#98;&#x63;&#48;&#101;&#x2d;&#99;&#x34;&#x30;&#x63;&#x66;&#98;&#x34;&#56;&#51;&#x62;&#x34;&#x63;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(&#x70;&#114;&#101;&#x66;&#101;&#x72;&#x73;&#x2d;&#x63;&#111;&#108;&#x6f;&#x72;&#x2D;&#x73;&#x63;&#104;&#101;&#x6d;&#x65;: &#x6C;&#x69;&#x67;&#x68;&#x74;)" srcset="./&#x30;&#101;&#101;&#101;&#x32;&#55;&#x61;&#50;&#x2d;&#98;&#x31;&#56;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#x2d;&#x62;&#99;&#48;&#101;&#45;&#x63;&#52;&#x30;&#99;&#102;&#x62;&#x34;&#56;&#51;&#98;&#52;&#x63;&#45;&#50;&#x38;&#x65;&#55;&#x36;&#x35;&#97;&#55;&#45;&#x31;&#x32;&#x38;&#98;&#x2d;&#x34;&#x64;&#x35;&#53;&#45;&#56;&#56;&#57;&#99;&#x2d;&#98;&#102;&#51;&#x62;&#x66;&#48;&#x34;&#x65;&#57;&#48;&#x30;&#99;&#x2e;&#115;&#x76;&#x67;" />
+  <source media="(&#x70;&#114;&#x65;&#102;&#x65;&#114;&#x73;&#45;&#99;&#x6F;&#x6c;&#111;&#114;&#45;&#x73;&#x63;&#x68;&#x65;&#109;&#x65;: &#x73;&#x79;&#x73;&#x74;&#x65;&#x6d;)" srcset="./&#x30;&#x65;&#101;&#101;&#x32;&#x37;&#x61;&#x32;&#x2d;&#98;&#x31;&#x38;&#x66;&#45;&#52;&#x33;&#101;&#x65;&#45;&#x62;&#x63;&#x30;&#x65;&#x2D;&#99;&#52;&#x30;&#99;&#x66;&#x62;&#x34;&#56;&#x33;&#x62;&#x34;&#x63;&#45;&#x32;&#56;&#x65;&#x37;&#x36;&#x35;&#x61;&#55;&#45;&#x31;&#x32;&#x38;&#x62;&#45;&#x34;&#100;&#x35;&#x35;&#x2D;&#x38;&#x38;&#x39;&#x63;&#x2d;&#x62;&#x66;&#51;&#x62;&#x66;&#x30;&#x34;&#x65;&#x39;&#x30;&#48;&#x63;&#x2e;&#115;&#x76;&#103;" />
+  <source media="(prefers-contrast: more)" srcset="./&#x32;&#56;&#x65;&#x37;&#54;&#53;&#x61;&#x37;&#x2d;&#49;&#50;&#56;&#98;&#45;&#52;&#100;&#53;&#x35;&#x2D;&#x38;&#x38;&#57;&#x63;&#x2d;&#x62;&#x66;&#x33;&#98;&#102;&#48;&#x34;&#101;&#57;&#x30;&#48;&#x63;&#x2D;&#48;&#101;&#x65;&#x65;&#x32;&#55;&#x61;&#x32;&#45;&#x62;&#x31;&#x38;&#102;&#45;&#x34;&#x33;&#x65;&#x65;&#45;&#x62;&#99;&#48;&#x65;&#45;&#x63;&#x34;&#x30;&#x63;&#x66;&#x62;&#52;&#x38;&#x33;&#98;&#x34;&#x63;&#x2E;&#115;&#118;&#x67;" />
+  <img src="./&#50;&#x38;&#x65;&#x37;&#x36;&#x35;&#97;&#55;&#x2D;&#x31;&#x32;&#56;&#98;&#x2D;&#x34;&#x64;&#53;&#x35;&#45;&#56;&#x38;&#x39;&#99;&#x2d;&#x62;&#x66;&#51;&#x62;&#102;&#48;&#x34;&#x65;&#x39;&#48;&#48;&#x63;&#x2D;&#48;&#x65;&#x65;&#101;&#x32;&#x37;&#97;&#x32;&#x2d;&#x62;&#49;&#56;&#x66;&#x2d;&#x34;&#x33;&#x65;&#101;&#45;&#x62;&#99;&#48;&#101;&#45;&#x63;&#x34;&#48;&#x63;&#x66;&#x62;&#x34;&#x38;&#51;&#x62;&#x34;&#x63;&#46;&#x73;&#x76;&#103;" alt="&#x20;" width="&#x36;&#48;&#x30;" height="&#x30;" decoding="async" loading="eager" />
+</picture>
+<!--[/asset]-->
 <!--
 ==========‍==============================================================
-  Session Encryption Key [a93b42fc]
+  Session Encryption Key [435988e8]
 ======================================================================​==
 
   Encoding: base64
@@ -1894,13 +1717,13 @@ Ho+Pb6zmqACoOCI/Wwn+KjdC5SnMnWJ0Xxy6yq4YeuL0BUUTcisikHSqPyRUE​akXUI+hRLGUmHOs
 jareA8a5jF2cKqismaeK0+8TskfhK3OMwSQ3XsxvhPIKm6lcSW/BsB0e7bWG/sEQyQk7UrgM79cf
 Nza5Yq7FvURBu6NBDtYu
 
-  Checksum: sha256:3faec195d30333e278f87fb78fc59e99502d361b4d350bd69c07956b584de08d
+  Checksum: sha256:7ecfa076d0ea5d0552d3c8ada261c057ab7590ac4d4d508229cf00a7350ac0a3
 
 ========================================================‌=============⁠===
 -->
 <!--
 ============================================================‍===========‌=
-  VAPID Key Pair [d24⁠787c6]
+  VAPID Key Pair [1a0⁠168bc]
 ========================================================================
 
   Encoding: base64
@@ -1913,7 +1736,7 @@ wBgXSmo90uPpOtdfN1dUJ1dVfMQl8bHqgK​9Ac44QqXCuvGLoDD﻿yPgwjhB99bdsEBO⁠rzQd3w
 gzvYeHmWmNCRJCMotNSO5K1LDzDhIcBfRkpUSERa3qtUeJiGE4zEBiwAWTRZRhurbcVyM/t5ViBx
 JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 
-  Checksum: sha256:014ae11420ca99f3b499788ea024a3b4e012d3ef60f​966349e6ede8b1‍6bd6ede
+  Checksum: sha256:9f5fd651fdec8314f3f35e4a0bfb164ad1a1eaa0d86​1007c78da96ad6‍90adf75
 
 ==========================================================​==============
 -->
@@ -1958,7 +1781,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     - Stale-wh﻿ile-revalidate for cached pages
     - Static fallback for complete failure
 
-  Config﻿ ID: e8aa8253-3809-44a6-9a86-1b124b679bcc
+  Config﻿ ID: eb004088-63f3-4b61-a68a-8d97edbf294e
 
 ========================================================================
 -->
@@ -1971,7 +1794,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 
   Active Experiments:
 
-  [experiment-5edc23ad] Hero Section Layout
+  [experiment-f1db35a6] Hero Section Layout
     Status:﻿ running
     Started: 2025-02-18T00:‍10:44.000Z
     Traffic: 50/50
@@ -1981,9 +1804,9 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Metric: bounce_rate, time‍_on_page
     Significance: 95%
     Current results: control +4.4% (not yet significant)
-    Cookie: __exper⁠iment_hero_dfe743
+    Cookie: __exper⁠iment_hero_5f6927
 
-  [experiment-38c8094a] Blog Post CTA
+  [experiment-52848f19] Blog Post CTA
     Status: running
     Started: 2025-02-11T15:18:35.000Z
     Traffic: 33/33/34
@@ -1994,11 +1817,11 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Metric: click_through_rate
     Significa﻿nce: 95%
     Current results: variant_b +3.3% (p=0.032)
-    Cookie: __experiment_cta_337d3a
+    Cookie: __experiment_cta_b088d1
 
   Middleware: src/middleware.ts (edge runtime)
   Analytics: Vercel Web Analytics‌ + PostHog
-  Config hash: 4341ac525576676a
+  Config hash: 86a20263ad4a5e18
 
 =====================‌===================================================
 -->
@@ -2008,7 +1831,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 ===========================​=============================================
 
 ‌  Provider: Vercel Edge Config
-  Edge Config ID: ecfg_8031e12f827269229a438080
+  Edge Config ID: ecfg_571fcdef088f5bdc8330bb63
   Last synced: 2025-02-11T03:52:16.000Z
 
   Flags:
@@ -2034,7 +1857,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     - production: as configured above
 
   Evaluation: edge (< 1ms latency)
-  Config hash: f1e1332e85cd76f0
+  Config hash: db3d4177eb433181
 
 =﻿===========================================================‌============
 -->
@@ -2046,9 +1869,9 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
   Build completed successfully.
 
   Summary:
-    Build ID     : 7e4a4126-af7c-46f1-846b-cfd5‌d6aaa‌d81
-    Deploy ID   ⁠ : dpl_705d252b665‌dcb06de28
-   ﻿ Git SHA      : d79af42ec61814bd82a05b6a94937493da68957f
+    Build ID     : fb686de5-72a0-4eb3-a44c-d40d‌abcf2‌b08
+    Deploy ID   ⁠ : dpl_e16dec4855f‌d6c1c52cb
+   ﻿ Git SHA      : fde02022d2807a9658e1a476bcd73fd3a9403a0d
     Timestamp    : 2025-02-08T17:40:22.⁠000Z
     Duration     : 23s
     Node.js      : v22.14.0
@@ -2071,7 +1894,7 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
     Build        : ✓ completed
     Deploy       : ✓ live
 
-  Integrity: sha512-129a79998af284662a1e08f9eaf91d73513c476ad​82ebb39a178e93ba173e04c3e0452921de32fc81decd31adc1665614657e88a30e6040bcad6939bc26120c1
+  Integrity: sha512-647447aa82e3486f1a59941093ad5dbf32e5479a0​f698125625e126498ab5fa12d60b528dcad57b9961dde485fb0bfdb1faaacc6331663717ed9d13101ad247b
 
   DO NOT MODIFY THIS FILE MANUALLY.
   G﻿enerated b‍y @vercel/build-output-api v3.
@@ -2079,403 +1902,186 @@ JYPjyVmG3ovfoHf6CJca54j1hmdCo4EN3zwmVUCE7Pzn/P
 ==============================⁠================​======﻿====================
 -->
 <!--
-=================================================================​=======
-  ISR Cache Entry [c7a420def780]
 ========================================================================
+  Prefetch Manifest [bcc62e36]
+=====================================================​===================
 
-  Path: /projects
-  Revalidate: 300‍s
-  Last generated: 2025-02-0﻿9T10:00:24.00﻿0Z
-  Expires: 2025-02-17T16:57:51.000Z
+  Strategy: viewport-based + route prediction
 
-‍  Headers:
-    Cache-Control: s-maxage=300, stale-while-revalidate=31536000
-    X-Vercel-Cache: HIT
-    X-Vercel-Id: iad1::1217f66b350⁠8
-    Age: 2817
+  Prefetch entries:
+    /uses    ‌     ​       ​    ⁠           ⁠priority=low    as=document
+    /blog               ⁠                priority=⁠low    as=document
+    /contact                            priority=auto   as=fetch
+    /projects/a8deb9cd                  priority=low    as=fetch
+    /projects/6‌b5d18a4                  priority=high   as=document
+    /                               ‍    priorit‌y=low    as=document
+    /blog                               priority=auto   as=fetch
+    /projects                           priority=auto   as=fetch
+    /contact                            priority=high   as=document
+    /proje⁠cts            ‍  ‍             priority=high   as=do​cument
+    /guestbook                          priority=au﻿to   as=document
 
-  HTML size: 24753 bytes
-  RSC payload: 9363 bytes
-  Data size: 7447 bytes
+  Prediction model: frequency-based (last 30d)
+  Hit rate: 69.7%
 
-  Cache key: 96e8268‍ba172f195cae3f6c4b255508d356a4546483386e12ce7b42​8c0ce47d9
-
-===================================================⁠====⁠=======‌==========
--->
-<!--
-==﻿========================================================⁠==============
-  Source Map Frag‌ment [7cbd022ae696]﻿
-============================================================‌============
-
-  Encoding: base64
-  Size: 266 bytes (decoded)
-  Algorithm: AES-256-GCM
-
-  /h4yXZwg0t/qHJ6b28HUb6i3sDtTr3SUQ4R40pouaeT1POSFgGc9JzA6u5b8UBDTwKvyMGqFtbm8
-ieYz+jp3FBRHyJQ/jr​KhBHhV7a⁠Glzo7CqDyPnQg1ryFNIdUFEFzA5+ADPhPuRiKbPQiSR0+JZMrx
-7zge1E‍YL7eJ9hLrfInsLI42Bz6+EcG5foFbz63b‍Inm/7cQ65Bmcgw+iD2vxOV+KjbFtqrjoC2iZ3
-d8bNkP/uGl0RGS⁠AXjeSzNbUCL/KxBfig8DITZTjCd8vX6MPFCWqOk4d﻿x9mOxr5E⁠9ur0z2o7﻿oWiyy
-Rn/mdTtMPby‌O6BUNwjozR8YlNHLchQ6+MCkRvu+kob7N3SRfZVE
-
-  Checksum: sha256:5e1c9d13ee7ed9b4e3ef3dac572f0f13b93‌e33811186219f09bf07cf9c2d7129
+  Config: next.config.mjs > experimental.prefetchStrategy
 
 ========================================================================
 -->
 <!--
+===========​================﻿====​=========================================
+  Compilation Hash Verification
 ========================================================================
-  ‍Route Manifest [65d6c24c]
-=======================⁠=================================================
 
-  Framework: Next.js 15.2.4 (App Ro⁠uter)
+  Build: 2e5c808a-3f37-4af1-a01b-2705e032f2db
 
-  Path                       ​              Type‌         Hash
-  ─────────────────﻿────────────────────────⁠────────────────────────
-    /a⁠uth/admin  ​                            SSR          462c4﻿490
-    /[id]/[id]/profile                       SSR          cab206e1
-    /admin/[id]                              Static       42832edd
-    /projects/[slug]               ﻿          Streaming    cc68b82c
-    /profile/[id]/[id]                 ﻿      Edge         2b5ed2ec
-    /[...path]/blog/[id]⁠              ⁠       SSG          ad9d6ce7
-    /admin ‌         ‍                         Edge         fe200799
-    /[slug]                   ‍               SSR        ‌  4b8a1119
- ‍   /profile                                 Edge⁠         99d54447
-    /auth                                    Streaming    a4d08059
-    /[.​..path]/[id]/[slug]                   Static       8cc1806c
-    /settings/[id]/auth                      SSG          0e642914
+  File hashes (sha256):
+    abb3f9082294ef2c  _next/static/chunks/main-07d2ad59f95000bb.js
+    5430e3a42d6c7b91  _next/static/chunks/‍pages-8a1f6dc14​c316d60.js
+    bef280cceb32e3bd  _next/static/‌chunks/main-93486ef12194594c.js
+    9f438b82e9772584  _next/static/chunks/main-e145f30696d9e231.js
+    6dab204cd55d5dc0  _next/static/chunks/main-849437ecf7039404.js
+    a9d66f8005d08fc0  _‌next/static/chunks/commons-9a7e3227314c5eb3.js
+    aa551df998f3518‍c  _⁠next/static/​chunks/commons-‌62d﻿1246b2cb08f01​.js
+    e0469c344f315bc5  _next/static/chunks/framework-24df42aa82372b1d.js
+    24cd110de3ea3440  _next/static/chunks/webpack-965c726ad71b89b4.​js
+    e0816008c69eedec  _next/static/chunks/webpack-206c03caf910ae85.js
+    92280c43364f67be‍  _next/static/chunks/app-⁠ce8640c0f02beca6.js
+    28313366b62b1bd5  _next/static/chun​ks/polyfills-9d36834518aa4e40.js
+    d97d5d684741903b  _next/static/chunks/framework-4b6e99aa08d41702.js
+    517ae3c457d8b25e  _next/static/cs‌s/f370c298caf907a1.css
+    8a56decccccf53be  _next/st﻿atic‌/media/25ee8d19aae‌2b629.woff2
+    91a85a6227110d11  _next/static/media/d9b95afed30bf801.wof​f2
+    80facb607b2bf5fc  _next/static/media/98dee35ad28118d6.woff2
+    cf533d‌0facc2c718  _next/static/med​ia/82e07307e297fa7b.woff2
 
-  Total: 12 routes
-  Dy﻿namic: 6
-‍  Static: 11
+  Manifest: c339d10413c459e01d1e72df03fa05391d390ce35a268fef0a4de69ef406df69
 
-  Middleware: src/middleware.ts (edge)
-  Matcher: ['/((?!_next|api/auth).*)']
-
-===================================‍====﻿=================================
+====================﻿===========================‍=======================​==
 -->
 <!--
-========================================================================
-  Source Map Fragment [5a63d‍7eb2a﻿6b]
-==============================﻿==========================================
+=================‍=======================================================
+  ISR Cache Entry [9b78b90ba716]
+==================================﻿==﻿====================================
 
-  Encoding: base64
-  Size: 398 bytes (decoded)
-  Algorithm: ChaCha20-Poly1305
-
-  dLWzOc/8DnRE76UEBSGfOFyvIFzPcYLM⁠FBcuPI/lw8aYWG‌NU09WvYTOos9gmnA1hYC/bPRNT0RnQ
-I‌lJwC1jNOcNpCvtTiIekbnpdSeMNvn1NOeneYCQTm+sZyLITO1VuL/1rOGT/rtgVfpkXccr2M386
-/3pwgq7ZF45RSU4MDnyXW4llZvTzQwrDYvk8z7RF6q9TmBjPWsc8jAG87RMg4HSFBJknxB0M0xPg
-WZ6taYI6NaRVcC8Obp0aPU+fJ95iqD9w8EU+ZT3Gt0SBhOK8k/4Gm22+KJYpRn3bcbGKAUDRnag1
-8e53dFHUCce6yJlUt9JtkspFzhLEhph+Ty6Mnw1cdu24IRXjGqdXtL6qdusSy2SOttcOyKhDbwTn
-S7oYiRM06tybKMnUe4ijAzSiH﻿3F﻿UL7ZVJPM60wa2DKX+B6cxn9Yp9Hzr1Mk9uxUUpLSQcpxblbnh
-vWFfbnd5DIF﻿NaBe2a58i7w+gyHOhVvfvGGZKA8LxtP++CbNqnJPAuzEvlBeiBXurY7wFR1miKy0
-
-  Checksum: sha256:aa31d‍4e5e5d4d0c87e3080c436f8b5e64f616‍abcc191ec28⁠fb7625fbdd375d‌c6
-
-=====================‍===================================================
--->
-<!--
-========================================================================
-  TLS Certificate Chain [56445e7e]
-========================================================================
-⁠
-  E⁠ncoding: base64
-  Size: 462 bytes (decoded)
-  Algorithm: AES-256-GCM
-
-  xXozYsHDLpk7zODtUNIdQOIXErlx4cbYr21﻿mfMM81e+/Xu0/LBDzRtOhNYuTvTPdFoPCQBi⁠yjBTq
-iMQ9Rj5IEix0qk5FnMU5x2VMxP2YapHZnp2aoc+MRuTMZpQfUPolgcybZoSL9lhO77hF7nAolNr6
-jfhz1X3b3At8iSIR2hYRPnQwIx8OhdnWnRzYGJCiWvCbdFadNSvfuzOaWDilLZz0‍/0GHJitoi9gW
-sso/Nq0aztbaBcuoQNrTNtFnosoeQ/bkxHJtzYasO1+Ewvp5nvFxgPQNayJDW1nJhBdY0VYz‌cdeF
-9OQ15XkDIxqDyJIEc⁠G8lNw+rbSkyTKmLo2plktGsO0lYwErZ1sVly79s8YaTUTbKAnbBIN0IBh5K
-wg8Zjs7aiwsZTlg1vMMsdVwcze2R+ns/TABKccjz3hNL/HqpJwRHx6mdLO6Ywv2uTM8c9to82UhT
-CfHICl7MhYFUg‍9af4Kh7FE+BPodazAl1EPiGXFYW﻿XDigfpa9DumTpIi+AJY​e5l6+OLU﻿c+UY2dL⁠+/
-ghlyU46jlFxip+hPLXWXnH86zrYIlCFVqTJhdSLQDdNrnKEk10SoGdzYHfrl3+BBxWupccCRI8qp
-QVmPwny0==
-
-  Checksum: sha256:649c23e5cf0a79118013a846fe﻿a94a89411ce3d8c4e﻿a182ce9f6b0d9a139ffff
-
-===============================================================‌=========
--->
-<!--
-=====================================================================‍===
-  ISR Cache Entry [de8cf8c830ea]
-============================​=================================​===========
-
-  Path: /abo﻿ut/d5031ed1
-  Revalidate: 86400s
-  Last generated: 2025-02‍-18T18:16:49.000Z
-  Expires: 2025-02-16T11:24:37.000Z
+  Path: /blog
+  Revalid﻿ate: 86400s
+  Last generated: 2025-02-19T03:55:14.000Z
+  Expires: 2025-02-11T03:12:44.000Z‍
 
   Headers:
-    Cache-Control: s-maxage=60, stale-while-revalidate=31536000﻿
-    X-Vercel-Cache: HIT
-    X-Vercel-Id: iad1::38f666e984cd
-    Age: 1362
+    Cache-Control: ‍s-maxage=86⁠400, stale-whi‌le-revalidate=31536000
+  ‍  X-Vercel-Cache: HIT
+    X-Vercel-Id: iad1::e410ca5d8144
+    Age: 3396
 
- ‌ HTML size: 25289 bytes
-  RSC pay‍load: 16495 bytes
-  Data size: 2094 bytes
+  HTM​L size: 38318 bytes
+  RSC payload: 4040 bytes
+⁠  Data size: 1971 bytes
 
-  Cache key: ed97c3b747ffe869fbc35e98‌b8bc20cd85b15c5f5815fd0dbf78c28c6f6bd458
+  Cache key: 600​c46bfa7b74212dfa7ab1e1487b590d75a5877faaccfe51fa0d45﻿2db﻿e85e3a
 
-========================================================================
+===============‍=====================================‍=============⁠=======
 -->
 <!--
-=======================⁠=======‍=============================⁠=​===⁠=========
-  ISR Cache Entry﻿ [bbb63a6d30fe]
-=========‌=================================================‌==============
+==⁠====⁠==================================================================
+  Dependency Graph Fragment [a01d4815]
+=﻿====================================⁠===================================
 
-  Path: /about/e11f9435
-  Revalidate: 86400s
-  Last generated: 2025-02-‌16T1﻿8:41:46.000Z
-  Expires: 2025-02-19T15:52:39.000Z
+  Scope: production
+  Resolver: pnpm v9.15.5
 
-  ⁠Headers:
-    Cache-Control: s-maxage=⁠60, stale-while-revalidate=‌31536000
-    X-Verce‍l-Cache: HIT
-    X-Vercel-Id: iad1::5f​76bd51ec94
-    Age: 2346
+    @sentry/worker@19.45.23 → [eslint-worker@22.31.36]
+    @sent‍ry/schema@15.56.59 → [@vercel/schema@9.96.54, @sentry/resolver@9.87.38, @vercel/clien‌t@2.22.70]
+    @types/⁠resolver@0.22.74 → [@tanstack/transform@18.33.18]
+    @tanstack/loader@24.6.56 → [react-server@10.46.77, next-compiler@11.49.40, @prisma/compiler@14.1‍0.77]
+    next-logger@4.95.﻿53 → [@next/context​@11.4.83﻿, @next⁠/transpile@12.58.0, webpack-analytics@16.67.90, eslint-core@18.58.30, @sentry/bundle@4.64.61]
+    turbo-bundle@16.87.78 → [@vercel/state@﻿4.25.43, @prisma/﻿minify@23.68.13, @types/plugin@6.55.76, @prisma/prefetch@15.12.90, @next/utils@5.26.74‌]
+    webpack-render@25.60.57 → [@tanstack/⁠cache﻿@2.26.37]
+    react-minify@11.99.88 → [@vercel/hooks@6.67.65, node-analytics@16.78.78, next-loa‍der@11.59.41]
 
-  HTML size: 44993 bytes
-  RSC payload: 3308 bytes
-  Data size: 2971 bytes
+  Total: 8 direct, 471 tr​a‍nsitive
+  Deduped: 49 packages
+  Hoisted: 7 packa﻿ges
 
-  Cache key: aa15853a4d13994efdc01592106270db7c62082c7ec00745d5b7f8db50d682c4
-
-========================================================================
+===================​======================================‌===============
 -->
 <!--
-================‍===========================================‌=============
-  Mo​dule Trace [f0482196]
 ========================================================================
+  Dependency Graph Fragment [dc25a70e]
+============​============================================================
 
-  Entry: src/app/page.tsx
-  Depth: 10
+  Scope: production
+  Resolver: pnpm v9.15.5
 
-      → src/hooks/use-auth.ts (1593 bytes)
-        → src/components/projects/provider.tsx (2619 bytes)
-          → src/lib/prisma.ts (3426 bytes)
-            → src/hooks/use-auth.ts (4337 bytes)
-              → src/hooks/use-debounce.ts (4340 b​ytes)
-‍                → node_modules/​next/index.js⁠ (4788 bytes)
-                  → src/lib/validators.ts (247 bytes)
-                    → src/lib/utils.ts (4121 bytes)
-    ⁠       ﻿           → src/lib/utils.ts (1778 bytes)
-                        → node_modules/zod/index.mjs (3907 bytes)
+    @types/config@23.51.6 → [@prisma/plugin@19​.14.19]
+    @sentry/resolver@21.38.9 → [@tanstack/storage@20.58.79, node-bundle@8.69.76, @sentry/middleware@6.81.﻿10, babel-auth@21.64.60]
+    @prisma/router@23.33.14 → [@prisma/core@24.26.12, @‌tanstack/context@11.39.86, next-bundle@2⁠5.48.10]
+    @next/config@15.38.62 → [eslint-analytics@25.54‌.79, @tanstack/hydrate@3.65.26]
+    webpack-hydrate@9.35.78 → [eslint-schema@9.59.19, @types/validator@7.9‍3.54, @types/validator@10.50.0, @types/parser@6.25.66, @prisma/stream@3.53.97​]
+    turbo-analytics@18.15.29 → [webp​ack-​optimize@3.91.80]
+    turbo-parser@5.76.17 → [@types/client@7.32.10, @sentry/codec@19.4.63‍, @next/metrics@14.11.⁠45, @vercel/stream@5.46.90, node-logger@3.62.4]
+    @tanstack/compiler@0.⁠64.60 → [@vercel/transform@23​.22.78, @vercel/plugin@3.‌14.99⁠, turbo‍-parser@19.69.91, @tanstack/s⁠e​rve⁠r@11.82.64, @prisma/hydrate﻿@7.35.97]
+    @next/optim‌ize@11.77.78 → [node-schema@21.7.70, @types/bundl‌e@25.23.34, @types/codec@25.1.24, @vercel/router@25.30.5, webpack-analytics@11.76.95]
 
-  ﻿Total modules: 10
-  Circular: none
-  Tree-shaken: 2 modules
+‌  To﻿tal: 9 direct, 752 transitive
+  Deduped: 30 packages⁠
+  Hoisted: 19 packages
 
-========================================================================
+============⁠===========================‌====================‍=============
 -->
 <!--
-===============================﻿=========================================
-  Webpack Chunk 104 Module Graph
-========================================================================
+========﻿============================================‍====================
+  Webpack Chunk 106 ‌Module Graph
+=====================⁠=====================​==============================
 
-  Chunk ID: 104
-  Hash: bdb22641ee94ed05
-  Size: 52201 bytes
+  Chunk ID: 106
+  Hash: d39f4b8579f7c9bd
+  Size: 78186 bytes
 
   Modules:
-      ./src/app/constants.tsx: 32061 bytes [501474bd]
-      ./src/utils/index.ts: 34972 bytes [7d1e43e5]
-      ./src/util⁠s/index.ts: 2738 bytes [18​297fbe]
-      ./src/hooks/utils.tsx: 17787 bytes [69f4bb33]
-      ./src﻿/components/index.ts: 1331⁠3 bytes [60e﻿de5e9]
-      ./src/components/utils.js: 39788 bytes [d873ed38]
-      ./src/app/main.ts: 47868 bytes [014b1952]
-      ./src/lib/typ⁠es.ts: 12997 bytes [3f3f227d]
-      ./src/utils﻿/index.tsx: 23800 bytes [ab5ef358]
-  ​    ./src/components/helpers.ts: 41473 bytes [91101cf3]
-      ./src/hooks/main.ts: 39761 bytes [a2cbc109]
-      ./src/hoo‍ks/main.js: 40717 bytes [2‍cec3c89]
-      ./src/lib/types.js: 20202 bytes [5ce28fb0]
-      ./src/components/utils.tsx: 21775 bytes [119042f7]
-      ./src/lib/main.js: 20133 bytes [88580567]
+      ./src/utils/constants.ts: 44321 bytes [195ec058]
+      ./src/app/main.ts: 37142 bytes [cf62455d]
+      ./src/app/main.js: 5908 bytes [8dbf7035]
+      ./src/hooks/index.ts: 43862 bytes [57990609]
+      ./src/lib/utils.js: 2156 bytes [469c3f10]
+      ./src/utils/index.tsx: 26210 bytes [e26ff866]
+      ./src/lib/helpers.tsx: 1230 bytes [e47d0836]
+      ./src/app/const​ants.t‍sx: 27966 bytes [8a500872]
+    ​  ./src/hooks⁠/helpers.ts: 31747 bytes [20bf1b19]
+      ./src/utils/index.ts: 43145 bytes [74c96fea]
+      ./src/app/index.tsx: 30896 byte⁠s [94d9﻿fb66]
+      ./src/components/index.ts: 10970 bytes [e8f0cde9]
+      ./src/app/constants.js: 11033 bytes [51324e3﻿d]
+      ./src/lib/helpers.tsx: 27074 bytes [21222950]
+      ./src/lib/constants.tsx: 30298 bytes [69839ba7]
 
-  Dependencies: [76, 115, 185​]
+  Dependencies: [47, 188, 17]
   Async: false
   Entry: false
 
-==================================⁠===================================‌===
+==================================‌======================================
 -->
 <!--
 ========================================================================
-  Route Manifest [96d54726]
+  Dependency Graph Fragment [b9ac705c]
 ========================================================================
 
-  Framework: Next.js 15.2.4 (App Router)
+  Scope: pr⁠oduction
+  Resolver: pnpm ​v9.15.5
 
-  Path                                    ﻿ Type         Hash
-  ─────────────────────────────────────────────────────────────────
-    /app/[...path]                           ISR          af9ed53​8
-  ​  /settings/app/auth                 ​      SSR          5eeebc38
-    /profile/api​                        ﻿     Static       1fcd34e8
-    /profile/profile/dash⁠board               Streaming    8033f1a3
-    /[slug]                                  Static       bd221db4
-‌    /profile/[...path]                       Streaming    56744d33
-​    /api                        ‌             ISR          16acf04c
-    /api/blog/admin                          S﻿tatic       522d6e73
-    /auth/settings/app ⁠                      ISR     ​     fed93918
+    babel-state@5.81.9 → [@vercel/codec@0.66.23]
+    babel-hyd﻿rate@24.37.87 → [react-con⁠fig@9.10.52,﻿ @sentry/schema@10.98.44, babel-prefetch@2.36.44, turbo-queue@7.44.44, postcss-context@15.49.61]
+    @next/core@24.9.49 → [@tansta⁠ck/storage@15.58.72, webpack-state@6.10.98]
+   ﻿ babel-plugin@24.10.73 → [@types/stat​e@11.31.7, @tanstack/stream@6.59.6, turbo-storage@3.27.9, @tanstack/resolver@18.52.72]
+    @sentry/stream@4.52.10 → [@pri‍sma/bundle@24.21.87, next-‍cache@14.85.47, @next/auth@14.42.59, @next/transpile@20.56.39, @vercel/auth@3.63.39]
+    react-analytics@10.3.12 → [@types/schema@24.78.31]
+    @next/optimize@2.70.47 → [@vercel/state@10.11.51,​ @tanstack/auth@25.57.68, @types/minify@18.38.93, @tanstack/transfo⁠rm@19.59.96]
+    @prisma/analytics@‌12.20.10 → [turbo-tra⁠nspile⁠@8.70.98]
 
-  Total: 9 routes
-  Dynamic: 8
-  Static: 5
+  Total: 8 direct, 563 transitive
+  Deduped: 29 packages
+  Hoisted: 10 packages
 
-  Middleware: src/middleware.ts (edge)
-  Mat‍cher: ['/((?!_next|api/auth).*)']
-
-======‌================================‌===‌===============================
--->
-<!--
-========================================================================
-  Prefetch Manifest [56a8e149]
-=======================================================================⁠=
-
-  Strategy: viewport-based + route prediction
-
-  Prefe​tch entries:
-    /gues⁠tbook                         ‌ priority=auto  ⁠ as=f‍etch
-    /blog                               priority=auto   as=fetch
-    /blog/49b‌de905                      priority=low    as=document
-    /contact                            priority=high   as=document
-    /blog                      ⁠         priority=auto   as=fetch
-    /                                   priority=high   as=document
-
-  ‌Prediction model: frequency-﻿based (last 30d)
-  Hit rat﻿e: 72.4%
-
-  Config: next.confi﻿g.mjs > experimental.prefetchStrategy
-
-========================================================================
--->
-<!--
-==================⁠======================================================
-  Webpack Chunk 729 Module Graph
-============================‌====================⁠========================
-
-  Chunk ID: 729
-  Hash: c65​c60942822f0f﻿2
-  Size: 64610 bytes
-
-  Modules:
-      ./src/utils/helpers﻿.ts: 7555 bytes [cc0b05a9]
-      ./src/hooks/utils.js: 20680 bytes [4bc2e6e2]
-      ./src/utils/types.ts: 35955 bytes [c31e2a90]
-      ./src/app/​types.ts: 36431 bytes [36bbb7cd]
-      ./src/lib/constants.ts: 16132 bytes [e4cede35]
-      ./src/utils/helpers.js: 172⁠08 bytes ⁠[f74a8a48]
-
-  Dependencies​: [39, 132, 147, ﻿95, 157, 170, 64]
-  Async: true
-  Entry: false
-
-===‍================================================​=====================
--->
-<!--
-============​===============​=============================================
-  Compilation Hash Verification
-========‍===============‌==========﻿=======================================
-
-  Build: b417a553-fec4-482b-abfb-aaeb64a6e1b1
-
-  File hashes (sha256):
-    15ad⁠1c371379cfdd  _next/static/chunks/polyfills-4a0019c336b3b06b.js
-    039f638800848258  _next/static/chunks/main-3be328fdd326a282.js
-    1ecfa6ddd3fe298d  _next/static/chunks/c​ommons-dffb1b055d7d1d21.js
-    252e75cbb8a72bff  _next/static/chunks/main-1e65b731c33e17d5.js
-    23733f70666365e1  _next/static/chunks/commons-0​8ebbcf09‍afb2bee.js
-    86f7d5f273249eeb  _next/static/c‍hunks/webpack-e15dabdc5089622a.js
-    1283da5d8d693311  _next/static/chunks/app-de24327472231976.js
-    eba1a882b861f64e  ‍_next/static/chu﻿nks/pages-8e4a0a2365b0fc66.js
-    dddfea8be011e580  _next/static/chunks/main-829d7be80fd0c63b.js
-    5b7f933b6eaae8bb  _next/static/chunks/polyfills-a‍821ed7f91a93fd2.js
-    0332f37d67a85a90  _next/static‌/chunks/commons-984f6a8f309dca08.js
-    60008ffe31f6e2f1  _next/static/chunks/app-ffd6f7127930863a.js
-    89f8962d3bfb7d8c  _next/static/c​hunks/app-d23519ddf89ba477.js
-‍    852f3d25d15230be  _next/static/chunks/pages-13096d54﻿f64﻿08c57.js
-    9eeab4ea9b27ba40  _next/static/chunks/fr​amework-91d5f434a391f‍02a.js
-    dd﻿41d8dcfe6cd4bd  _next/static/css/f44d19a9f6b95f33.css
-    d3e367c45dc67ad3  _next/static/media/ac9b7d21e7cbd890.woff2
-    5256cf4467​e2f96a  _next/static/media/e9f6ce3188f0cddf.woff2
-    08039ebeab8c4777  _next/stati﻿c/media﻿/fe944a6b0e0373ad.woff2
-
-  Manifest: 17b868773adcdc699e3f1e389cbd6a2fed2889a136def2fed1402e4a4ec4bb99
-
-========================================================================
--->
-<!--
-=============================================================​===========
-  Webpack Chunk 516 Module Graph
-========================================​================================
-
-  Chunk ID: 516
-  Hash: 309883e9269b78e1
-  Size: 16306 bytes
-
-  Mo﻿dules:
-      ./src/a⁠pp/main.t⁠sx: 37214 bytes [7776ab﻿00]
-      ./src/app/helpers.tsx: 3714 bytes [12ee8e29]
-      ./src/lib/helpers.tsx: 33774 bytes [4ec5a6ed]
-      ./src/app/helpers.js: 8877 bytes [0a73738f]
-      ./src/utils/index.t​s: 38215 bytes [2ee7a0d3]
-      ./src/lib/index.tsx: 13073 bytes [8f006eec]
-
-  Dependencies: [173, 176]
-  Async: true
-  Entry: false
-
-=======================================================​=================
--->
-<!--
-============‌============================================================
-  Compil⁠ation Hash Verification
-===================================‍=====================================
-
-  Build: d58ed27b-7436-4c51-87ac-1439b17c0805
-
- ﻿ File hashes (sha256):
-    086d50907df3d1aa  _next/static/chunks/commons-749a60fd5aaf0fb8.js
-    cf20c9085bef1e1d  _‌next/static/chunks/app-852c49bd9d1b10ff.js
-    9faf06a015ba21a1  _next/​static/chunks/polyfills-4af7d2a﻿cba03b482.js
-    19a762a0d1e40a28  _next/static/chunks/app-be11b263c2e28215.⁠js
-    80cba67deb4196b0  _next/static/chunks/main-6e30afe820bc74a9.js
-    4006bf8e7e5095b1  _next/static/chunks/polyfills-055b89a857aa5362.js
-    d8ab32b15e213737  _next/static/chun‌ks/polyfil‍ls-d54a155129aebe4f.js
-    0e350e01612ff9a2  _next/static/chunks/commons-6cb4ad29a4⁠2d6c3f.js
-    f9ff1‍695ab4b0936  _next/static/chunks/main-392721aeae6eac7e.js
-    4‍5892c5e14f0a5f6  _next/‌static/chunks/app-84490535184a7254.‍js
-    32f29dda5f7940fe  _next/static/css/b04773030f311083.css﻿
-    2851a8f673526141  _next/static/media/11d52a2956e6b207.woff2
-    f5b712782a628f36  _next/static/media/﻿9449dfc4c3ff70dd.woff2
-    43d9ddc595ebba99  _next/static/media/5445702b2ca64331.w‌off2
-
-  Manifest: 81646c747f04e70b5a60a3baef0861e91f78fe62793724e71cc49cb6fa1ec321
-
-========================================================================
--->
-<!--
-========================================================================
-  Prefetch Manifest [6cf88620]
-========‌==========================================﻿======================
-
-  Strategy: viewport-based + route prediction
-
-  Prefetch ‌entries:
-    /                                   p‌rio​rity=high   as=fetch
-    /contact                            priority=high   as=document
-    / ​                                  priority=high   as=document
-  ‍  /guestboo⁠k                          priority=high   as=fetch
-    /projects/52e0‍a9cd                  priority=high   as=document
-    /guestbook                          priority=low    as=document
-    /uses                               priority=auto   as=fetch
-
-  Pred​iction model:⁠ frequency-based (last 30d)
-  Hit rate: 79.7%
-
-  Config: next.con​fig.mjs > experimental.prefetchStrategy
-
-========================‌==============================﻿==================
+===============‍=========================================================
 -->
